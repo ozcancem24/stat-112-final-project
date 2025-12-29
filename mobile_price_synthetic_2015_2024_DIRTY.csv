@@ -1,0 +1,1726 @@
+Year,Brand,Model Tier,OS,Network Type,Dual Sim,Has5G,Battery_mAh,ScreenSize_in,RAM_GB,StorageGB,Camera_MP,Weight_g,CPU_GHz,Resolution_MP,PriceClass
+2019,Oppo,Flagship,Android,4G,Yes,No,NA,6.46,8,256,64,NA,2.83,5.53,2
+2023, Nokia,Flagship,Android,5G,Yes,Yes,4681,6.74,12,256,48,259,2.96,5.87,3
+2016,Samsung,Budget,Android,4G,YES,No#,NA,5.09,4,64,8,221,1.56,2.39,0
+2023,OnePlus,Midrange, ANDROID,5G,No,yes,3650,6.45,8,128,48,215,2.32,4.72,3
+2024, Motorola , MIDRANGE !,Android,5g,No,Yes,4388,6.81,8,256,48,242,2.96,5.28,3
+2022,Apple,Midrange, ios,4G,No,No,3624,6.28,6,128,48,260,2.72,4.29,2
+2024,Motorola,Budget,android$,4G,Yes, no ,3584,5.63,8,128,48,236,2.52,5.42,3
+2017,Samsung,Midrange,ANDROID,4G,Yes,No,2980,5.48,4,128,32,256,2.14,3.56,1
+2022, Motorola,Flagship#,android, 4G ,Yes,No,3997,6.64,12,256,48,260,3.01,5.67,3
+2018, Xiaomi ,Flagship,ANROID*,4G,Yes,No,4224,6.39,6,256,48,260,2.36,4.8,2
+2016,Xiaomi,Midrange,Android,3G,Yes,No,3403,4.97,6,128,32,246,2.69,3.54,1
+2021,vivo*,Midrange,Android!, 4G,Yes ,No,3180,6.1,6,256,32,243,2.59,5.66,2
+2023,Motorola,Midrange,android, 5g,NO,Yes,3733,6.57,6,128,64,260,2.62,5.21,2
+2015,Sony,Flagship,Android,3G,No,No,2962,5.53,8,256,24,246,2.34,4.33,1
+NA,Sony,Budget,Android,4G,No,No,3656,5.58,6,64,32,224,1.47,3.48,1
+2021,NA,Budget,Android,4G,Yes,No,3842,5.51,6,64,32,221,2.55,4.33,2
+2023,Xiaomi,NA,Android,5G,No,Yes,4373,6.04,8,256,48,234,2.82,5.69,3
+2023,Huawei ,Midrange,Android ,5G ,Yes,Yes,3890,6.36,8,256,48,245,3.15,5.02,2
+2018,Motorola#,Budget,ANDROID ,4G, Yes *,No,2582,5.53,4,64,16,239,1.71,3.29,0
+2022,OnePlus,Budget,Android,4G, Yes ,no!,3284,5.96,6,256,48,237,2.4,4.39,2
+2019,Motorola,Budget,Android,4G,Yes,NO ,3218,4.97,2,32,32,234,2.29,3.41,0
+2016,Huawei,Flagship,HarmonyOS,3G,No,No,2980,6.02,6,256,48,241,2.33,3.88,2
+2015,Samsung,Flagship,Android,3G,yes,No,3739,6.11,8,256,48,227,2.48,4.35,3
+2020,Xiaomi,Budget,Android,4G,Yes,No,3045,5.23,6,32,24,249,1.84,2.88,0
+2017,Motorola,Budget,Android,3G,YES!,No,2731,5.43,3,64,12,236,1.75,1.95,NA
+2017,Apple,Budget,iOS,4G,No,No,2791,5.02,3,64,32,248,2.03,2.39,0
+2019,Samsung,Midrange,NA, 4G,Yes,NO,3432,5.81,6,128,32,256,2.26,3.92,1
+2022,apple,midrange ,iOS,4G,No,No,4336,6.39,8,128,32,236,2.17,5.57,2
+2022,Xiaomi,Midrange,Android,4G,No,NO,3123,6.34,8,128,48,260,2.59,5.47,1
+2015, Motorola,BUDGET#,android,4G,Yes,No,2779,5.34,4,32,24,245,1.51,2.28,0
+2018,Samsung,Flagship,ANDROID,4G,Yes,No,3632,6.18,8,256,48,260,2.69,5.35,2
+2018,Apple,Midrange,iOS,4G,No,No,3548,5.69,8,128,32,260,2.52,3.0,1
+2015,Apple,Budget,iOS , 3G ,No,No,2292,5.07,3,64,8,244,2.0,2.94,0
+2015,samsung,Midrange,android,4G, YES,No*,2475,4.69,2,128,32,211,1.68,3.09,0
+2023,Samsung,Midrange,Android,5G,No,Yes,3543,6.12,8,256,64,242,2.93,4.68,3
+2015,Oppo,Flagship,Android,4G,yes ,No,3756,5.43,6,256,32,227,2.64,3.93,2
+2024,Xiaomi, Budget,Android,5G,Yes,Yes,4195,6.58,6,128,32,260,2.24,4.56,2
+2020,Vivo,Flagship,Android,5G,No,Yes,3260,6.15,6,256,64,260,2.65,4.94,3
+2016,Xiaomi,Budget,Android,4G,No , NO ,3141,5.06,2,32,24,211,1.51,2.4,0
+2016,Xiaomi, BUDGET, android,4G ,YES ,NA,2366,4.76,6,64,32,247,2.03,3.22,1
+2015,Apple$,Midrange,iOS,3G,No,NO,2485,4.9,3,128,8,236,2.06,2.74,0
+NA,OnePlus,Budget,Android,3G,Yes,No,2436,4.95,4,32,8,232,1.6,2.82,0
+2015,Samsung,NA,Android$,3g ,Yes,No,3221,5.09,2,64,8,227,1.35,2.42,0
+2021,Oppo, BUDGET*,Android,4G,Yes,No,3218,5.32,6,128,32,223,2.3,3.07,1
+2018,Huawei,BUDGET,HarmonyOS,4G,Yes,No,2775,5.09,4,64,16,210,2.24,3.25,0
+2021,NA,Midrange,Android,4G,Yes,No,3370,5.79,8,128,32,240,2.49,5.51,2
+2018, PPLE ,Midrange,iOS,4G,No,No,2770,5.52,6,64,16,233,2.25,4.0,1
+2020,Google,Flagship, Android!,4G*,Yes,No,3620,6.73,8,256,48,260,2.96,5.69,2
+2022,Huawei,Midrange, Android,5G$, Yes,Yes,3668,6.26,12,256,64,252,2.27,5.83,3
+2021,Google,Midrange,Android,4G,YES, no ,3803,6.22,8,256,64,235,2.96,5.53,3
+2024,Apple,FLAGSHIP,iOS,5G$,No,Yes,4693,6.94,12,256,64,260,2.98,7.23,3
+2015,Google,Midrange,Android,4G,Yes,NA,2773,5.18,2,128,NA,221,2.07,2.96,0
+2020,Apple,Midrange,iOS,4G,No,No,3565,5.84,8,128,48,222,2.23,4.89,2
+2019, sony,BUDGET$,Android,4G,Yes, No,3146,5.15,4,64,16,259,1.87,2.75,0
+2023,motorola ,Midrange,Android,4G,Yes,NO,3352,6.55,8,128,64,260,2.4,5.03,2
+2019,xiaomi ,Midrange,ANDROID,4G,yes ,No,2941,5.15,6,128,24,255,1.98,3.41,1
+2015,Apple ,FLAGSIP,iOS ,3G,No,No,3370,5.56,4,256,32,244,2.08,NA,2
+2015, Xiaomi, midrange,Android,4G ,yes,NO,3521,5.72,4,128,24,257,1.95,2.78,0
+2020,Samsung, MIDRAGE,Android,4G,NA,No,3435,5.88,4,256,48,234,2.75,4.62,2
+2019,Huawei,Budget,HarmonyOS,4G,Yes,No,3755,5.17,6,32,16,220,1.82,4.0,1
+2017,Google,Midrange,Android,3G,Yes!,No,3348,5.4,4,128,12,232,2.1,2.99,1
+2017,Nokia ,Midrange,ANDROI,4G,Yes,No,2525,5.26,6,128,16,220,2.54,4.03,1
+2022,ONEPLUS,Flgship,Android,4G ,Yes,No,NA,NA,12,256,48,243,3.09,5.26,3
+2022,Xiaomi,BUDGET ,Android, 5g,YES*,Yes,2821,5.55,6,256,48,248,2.04,3.69,2
+2019,Samsung,Budget,Android ,4g,no,No,3250,5.43,4,64,24,256,2.01,2.92,0
+2016,Motorola,Midrange,Android,3G,Yes,No !,2847,5.56,6,128,24,251,1.93,3.36,1
+2019,OnePlus,Midrange,Android*,4G,no ,No,3662,6.02,6,128,32,247,2.5,3.76,0
+2017,Google,Budget, ANDROID*, 4G ,No*,NA,2613,NA,4,32,48,250,1.71,3.04,1
+2024,Huawei,Midrange,Android,5G,Yes,Yes,4259,6.56,8,256,64,260,2.83,6.25,3
+2024,Vivo,Budget,Android,4G,Yes, No*,3915,5.93,6,128,48,257,2.15,5.37,2
+2020,Vivo,Midrange,Android,5G ,Yes,Yes,3373,5.92,6,256,48,259,1.92,4.49,1
+2021,Apple,Budget *,iOS,4G,No,No,3607,5.58,6,128,32,243,2.46,3.58,2
+2023, Oppo$,Midrange,Android, 5g,No,Yes,4484,6.26,8,256,64,258,2.67,5.29,2
+2023,Huawei,Budget, HarmonyOS,4G,No,NA,4069,6.41,8,128,48,243,2.07,4.54,2
+2022,Motorola,Flagship,Android,5G,No *,Yes,4250,6.63,12,256,64,253,3.08,6.21,3
+2016,Xiaomi,Midrange,Android,3G,Yes,No,2677,5.25,6,32,16,257,1.88,3.31,0
+2015,Vivo,Budget,Android,4G,Yes,No,2610,4.66,2,32,24,204,1.71,NA,0
+2019, SAMSUNG !,BUDGET,Android,4G,Yes, No,2915,5.05,4,32,32,240,1.86,3.53,0
+2022,Xiaomi, BUDGET,Android,4G,yes,no#,3780,5.82,6,256,32,216,1.73,4.18,2
+2021,Samsung,Budget,Android, 4G,No,No,3626,5.61,6,128,32,244,1.96,3.32,1
+2018,vivo,Budget,Android,4G,Yes,no ,2516,5.75,NA,128,16,246,2.0,3.0,1
+2015,Nokia,Flagship,Android,4G,No,No,3139,4.76,4,256,16,251,2.74,4.72,1
+2019,Samsung,Flagship,Android,4G,YES,No,3877,5.99,6,256,48,258,2.8,5.95,2
+2024,Google,Midrange,Android,4G,yes, No ,4393,6.47,12,256,64,246,3.12,5.84,3
+2018, Huawei *, Flagship#,HarmonyOS,NA,yes,No,3929,6.11,8,256,64,260,2.43,5.72,3
+2016,samsung ,Budget,Android,NA,Yes, no ,2824,4.76,2,64,NA,209,1.33,3.1,1
+2015,Nokia,Flagship,Android,4G,Yes,no #,3201,5.61,8,256,32,257,2.47,4.64,3
+2019,Vivo,Budget, android*,4G,Yes,No,3508,5.19,4,128,12,225,1.91,3.65,0
+2019,Motorola,NA,Android,4G,no,No,3262,5.16,6,128,24,233,2.3,2.98,1
+2018,Samsung,BUDGET,Android,4g ,Yes,No,3450,5.42,3,128,24,248,1.98,3.91,0
+2022,Apple,Midrange,iOS,4G, No,No,3442,5.99,8,128,32,246,2.66,4.95,2
+2016,googe,Budget,Android,4G,Yes,No,2370,5.17,2,32,32,240,1.87,2.19,0
+2024,Oppo,Budget,Android,5G,Yes,Yes #,3834,6.26,8,256,48,260,2.51,4.29,3
+2021,Samsung, BUDGET,Android, 4G ,No,No,3521,5.32,8,128,48,224,1.5,3.74,2
+2018,Motorola,Midrange, Android,4G#,Yes *,No,3931,5.79,6,64,32,260,2.42,4.06,1
+2017, Samsung!,MIDRANGE ,ANDROID ,4g ,No,no !,3582,5.8,8,256,16,254,2.39,4.71,1
+2015,Oppo,Budget,Android,4G ,Yes ,No,2079,4.75,2,32,8,210,1.3,1.44,0
+2020,Nokia,Budget, Android,4G,No,No,2753,5.44,6,32,32,243,2.36,3.36,1
+2021, Apple,Budget,iOS,4g*,No,No,3342,5.54,3,128,32,235,2.28,3.66,0
+2020,Motorola,Budget,Android,4g *,Yes, No,2825,5.73,4,64,48,250,1.65,3.87,0
+2024,Apple, budget,iOS,4G, No ,No,3710,5.99,8,128,32,216,2.42,4.09,2
+2021, xiaomi ,Budget,Android,4G,No,No,2984,5.22,4,128,48,208,2.27,4.02,1
+2019,Oppo,Budget,Android,4g,Yes,No,3280,5.04,4,32,32,234,2.0,4.24,1
+2020,Xiaomi,Midrange,Android,4G,yes ,No,3433,5.88,6,128,32,252,2.72,4.85,2
+2022,Google,Midrange,Android,5G,YES,Yes,3857,6.06,6,256,48,234,2.38,5.25,2
+2017,Motorola,Midrange,Android,4G,Yes,No,2810,6.03,4,256,48,244,2.09,2.95,1
+2018, Xiaomi,Budget,ANDROID,4G,Yes,No,2777,4.96,4,64,24,246,1.5,2.85,0
+2022,Apple, Budget !,iOS,4G ,No, No,3161,5.32,6,128,48,245,2.4,4.24,2
+2019, Oppo*,MIDRANGE,ANDROID, 4g,No,No,3518,6.24,6,128,48,256,1.77,4.43,1
+2024,OnePlus,Midrange,Android,4g ,Yes, No$,4184,6.91,8,256,48,257,3.0,5.95,3
+2016,OnePlus,Flagship,Android,3G, YES,NO,3359,6.02,4,256,48,260,2.82,4.79,2
+2020,Apple,Budget,iOS,4G,No,No,2753,5.26,6,64,32,207,2.03,2.57,0
+2017,Vivo,Budget,Adroid,4G, yes,No,2343,5.58,6,64,16,229,2.06,2.88,0
+2020,Huawei,Midrange,HarmonyOS,4G , yes, NO,3321,6.23,8,128,48,260,2.26,4.21,2
+NA,Apple,Buget, iOS ,4G,No, No,2942,5.07,4,128,16,255,2.2,3.45,0
+2017,Huawei,Midrange,android,4G,Yes, No,3663,5.37,6,128,24,231,2.17,3.77,1
+2021,Vivo,Budget,Android,4G,Yes,No,2972,5.91,6,128,32,260,1.57,4.12,0
+2018,Huawei,Flagship,Android,4G,Yes,no,3854,5.82,8,256,32,254,2.53,4.57,2
+2020,Samsung#, Midrange,Android,4G,Yes,NO!,4052,5.71,6,256,32,260,1.92,4.83,2
+2021,Apple,Midrange ,ios,4G,No,No,3508,6.14,8,128,48,239,2.45,4.44,3
+NA,Vivo,Midrange, ndroid,4G, YES,No ,3778,6.25,8,128,64,253,2.64,5.55,2
+2022,Apple, Budget !,iOS,4G ,No,No,3775,6.38,6,128,32,260,2.3,3.47,1
+2022,Nokia,Bdget,Android , 4G,Yes,NA,3298,6.01,6,128,NA,246,2.08,3.23,1
+2015,Google,Flagship,Android,3G,Yes,No,3610,6.11,6,128,24,260,2.72,4.02,1
+2024,Google,Flagship,Android,5G,No,Yes,4955,6.93,12,256,64,258,3.42,7.2,3
+2017,Motorola, budget #,Android,4G ,Yes,No,2786,5.06,4,32,16,199,1.56,2.37,0
+2023,Nokia,Flagship,Android,5G,No,Yes ,4166,6.98,12,256,64,260,3.53,5.85,3
+2016,APPLE,Midrange,iOS,3G,No, No ,2864,5.79,3,128,32,253,2.38,2.92,1
+2018,Oppo,Flagship,ANDROID,4G,YES*,No ,4637,5.85,8,256,NA,249,2.91,6.26,3
+2020,aple,Flagship,iOS,4G,No,No,3800,5.9,8,256,48,NA,3.01,5.6,2
+2019,OnePlus $,BUDGET,ANDROID#,4G,No,No,2729,5.37,3,128,24,224,2.08,3.2,0
+2020,Google, IDRANGE ,Android,4G,No,No#,3236,5.86,6,256,32,258,2.09,4.39,2
+2015, vivo ,Midrange,Android,3G,Yes, NO,2324,4.75,2,64,8,229,2.18,2.99,0
+2015,Sony, Budget*,Android,4G,No, No,2010,4.9,2,64,12,215,1.64,2.3,0
+2020,xiaomi,Budget,Android,4G,Yes,No,3050,5.58,4,32,24,260,1.96,3.54,0
+2024,Apple,Flagship,iOS,5G,No, YES,4783,6.62,12,256,64,260,3.19,6.85,3
+2019,Samsung,Midrange,Android,4G ,No,NA,3196,5.72,6,128,24,260,2.57,3.94,2
+2024,Xiaomi,Budget,Android,5G,yes,Yes,3488,6.05,8,128,48,248,2.13,4.93,1
+2019,OnePlus,Budget ,Android,4G,Yes, No ,3668,5.44,6,128,48,229,2.11,4.36,0
+2022, oppo , Midrange,Android,4G,No,No,3350,6.05,8,128,48,240,2.69,4.91,1
+2021,Samsung,Budget,Android,4G ,Yes , No,3536,5.65,6,64,24,260,2.17,2.34,0
+2016,Oppo,Budget,Android, 4G,Yes, NO,2917,5.47,2,32,8,231,1.2,1.57,0
+2020,Huawei,BUDGET ,HarmonyOS*,4G,No,No,3388,NA,4,32,32,229,1.87,2.32,0
+2017, ONEPLUS,NA,Android,4G,Yes,No,3045,5.52,6,64,24,259,2.54,2.98,1
+2024, APPLE,Midrange,iOS,4G,No,no!,4324,6.3,12,256,64,255,2.66,6.36,3
+2017,Apple,Budget,iOS,3G,No,No,2586,5.22,4,128,24,204,1.38,2.95,0
+2024,Xiaomi,Budget,android,5G,Yes,Yes,3506,6.38,6,256,64,217,2.09,4.26,1
+2019,Google,Budget,Android , 4G ,Yes,No,3085,5.55,4,128,32,217,2.19,3.67,1
+2023,Google,Flagship,Android,4G,Yes, No#,4014,6.58,12,256,64,248,2.79,6.54,3
+NA, Sony$,Midrange,Android,4G,Yes,No,2988,5.84,8,128,32,260,2.26,3.67,1
+2021,OnePlus,Budget,Android, 4G,No,No,3238,5.97,4,64,32,256,1.84,3.88,0
+2022,Google,Flagship,Android,5G,Yes ,Yes $,4141,6.53,12,256,64,253,2.9,5.65,3
+2019,Samsung,Flagship,Android,4G, Yes,No,4328,6.29,6,256,48,260,2.85,5.23,3
+2021,Sony,Midrange,Android,4G, ye $, No #,4297,6.2,8,256,64,238,2.4,4.9,3
+2016, amsung,Midrange,Android,3G,Yes,No,2445,5.58,6,128,16,243,1.81,3.07,1
+2018,Vivo,Midrange,Android,4G , Yes , NO,2904,5.63,8,128,48,236,2.36,3.77,1
+2020,Vivo,Fagship,Android,4G,yes$,No,NA,6.25,6,256,64,260,2.35,5.93,3
+NA,Xiaomi,Midrange,Android,4G,Yes,No,3543,5.69,8,256,48,228,2.4,5.56,3
+2019,Oppo,Midrange,Android,4G,yes,NO,3183,5.45,4,256,48,238,2.27,4.2,1
+2024,google ,Budget,Android,5G,No,Yes,3685,6.37,6,128,32,226,2.13,4.81,2
+2016,Apple,Budget,iOS,3G,No,No,2624,4.64,2,64,12,221,1.61,2.72,0
+2022,Motorola,Budget,Android,4G,Yes!,No,3441,6.17,4,NA,48,260,2.18,3.65,0
+2015,Xiaomi,FLAGSHIP ,Android,4G,No$,No,2633,4.74,4,256,48,247,2.46,4.66,2
+2021,Vivo,Midrange,Android,4G,Yes,No,3078,6.04,8,256,48,249,2.25,4.72,2
+2016,Huawei,Budget,HarmonyOS,4G,Yes, no,2976,5.13,3,32,24,211,1.63,2.83,0
+2023,vivo,FLAGSHIP ,ANDROID,5G,no,Yes,4193,6.78,12,256,64,260,3.18,6.93,3
+2018, Vivo,Budget ,Android,4G, YES, no ,2562,4.98,4,32,32,NA,1.63,2.52,0
+2018,Samsung,Budget,Android,4G,Yes,No,2687,4.97,3,128,16,233,1.63,2.15,0
+2017,Nokia,Midrnge,android,4G,Yes, No,3510,5.29,6,64,12,251,1.89,4.01,0
+2019,Google,Budget, android,4G,Yes, NO*,3788,5.72,4,64,16,250,2.07,3.83,0
+2024,Samsung,Flagship,android ,5G,Yes,Yes,4290,6.58,12,256,64,253,3.19,6.33,3
+2016,Xiaomi,Midrange,Android,4G ,no,No,2775,4.68,6,128,24,229,2.0,2.31,1
+2019,google,Midrange,Android ,4G ,Yes, No $,3181,5.62,8,256,32,236,2.67,2.98,2
+2023,Vivo,Midrange,Android,5G,Yes,Yes,3349,5.93,8,256,48,229,2.47,5.97,3
+2024,Oppo,Midrange,Android, 5G,Yes,Yes,4301,6.6,12,256,64,259,3.1,5.94,3
+2018,Xiaomi,Budget,Android $,4G,yes!, No,2757,4.73,3,64,24,215,1.71,3.2,0
+2019,Sony, Flagship,Android,4G ,Yes ,No,3263,6.43,8,128,48,260,3.17,5.33,3
+2022,sony,Budget,Android,4G,Yes#,No,3238,6.46,8,128,32,260,2.16,4.65,2
+2018,Xiaomi,Budget,Android,4G,Yes,No,3573,5.19,2,32,32,217,1.59,4.14,0
+2024,Xiaomi,Midrange,Android ,5G, YES, Yes ,4064,5.99,8,256,48,257,2.86,5.78,3
+2016,Samsung, Budget,ANDROID,3G,Yes,No,2418,4.97,4,32,16,213,1.7,1.48,0
+2017,Sony,Midrange,Android,4G,Yes,No,3197,5.32,6,256,NA,260,2.14,4.54,1
+2016,oppo,flagship $, Android ,4G,No,No,3593,5.54,8,256,32,260,2.81,NA,2
+2017,Google,Flagship ,Android,3G,Yes,No,3790,5.68,8,256,48,227,1.95,6.02,2
+2023,NOKIA,Midrange,Android,4g ,No,No,4297,6.78,12,256,48,236,2.75,5.83,3
+2021,Samsung,Midrange,ANDROID ,4g ,Yes,No,3506,5.96,8,256,64,219,2.03,4.26,3
+2020, xiaomi,Midrange,Android,4G,No,No,3073,5.75,8,64,48,251,2.27,5.17,2
+2022,Samsung,Midrange,android ,4G,No,No,3827,5.96,8,128,64,241,2.49,5.42,2
+2019, Appl ,Budget,IOS ,4G,NO,No,2592,5.34,4,64,12,225,1.75,3.51,0
+2021,Motorola , Budget,Android,4G,Yes,No,3550,6.19,NA,64,48,260,2.18,3.59,0
+2020,Huawei, budget ,android,4G, Yes,No,2995,5.14,6,32,32,217,2.31,2.48,1
+2016, xiaomi , Midrange,android ,4G ,No,No,3444,5.62,4,128,32,249,2.22,4.55,1
+2019, sony,Budget,Android,4G,no,No,2882,5.35,6,32,32,244,1.88,3.63,1
+2021,OnePlus,Budget,Android,4g,Yes,No !,3608,5.38,4,256,48,207,2.28,3.64,2
+2020,Sony,Flaghip,Android, 4g ,yes,No,4134,6.22,8,256,64,228,3.01,4.81,3
+2022,Vivo,Midrange,Android,4G,Yes,no,3553,6.75,8,256,48,244,2.67,5.46,3
+2023,GOOGLE,Budget,Android,4G,Yes,No,3471,5.81,8,64,48,252,2.37,4.5,2
+2022,Vivo,Midrange,Android, 5G ,Yes,Yes,4798,6.32,8,256,64,230,2.07,5.04,3
+2018,OnePlus,Budget !, Android , 4G,No,No ,1835,4.9,2,128,16,227,1.59,2.77,0
+2016,Xiaomi,Budget,ANDROID,4G,Yes,No,2907,5.17,2,32,12,240,1.86,2.24,0
+2021,OnePlus,Budget,Android,4G,Yes,No#,3427,6.01,6,128,32,251,2.92,3.72,1
+2018,Apple,Budget,iOS,4G,No,No,2765,5.34,3,128,24,246,1.44,2.34,0
+2017,Samsung,NA,Android,4G,No,NO,2764,5.39,6,128,48,241,2.03,4.14,2
+2024,Oppo,flagship,Android,5G,Yes,Yes ,4305,6.89,12,256,64,255,3.6,6.58,3
+2018,Vivo,Midrange,Android,4G,No,No,3402,6.03,6,128,32,244,1.95,4.17,1
+2018,OnePlus,Midrange,Android,4G,No,No,3168,6.0,6,64,16,260,2.22,4.03,1
+2018,Apple,Midrange,iOS,4g*,No,No ,3462,5.58,6,128,48,243,1.96,3.96,2
+2017,XIAOMI#,Midrange,ANDROID ,4G,Yes,No,3067,6.06,4,128,32,243,2.04,3.09,0
+2020,Samsung,Midrange,Android,4G, YES$,No,3264,6.05,8,256,32,249,2.52,4.41,3
+2021,Nokia,Midrange,Android,4G,Yes ,No,3951,6.02,6,256,48,248,2.74,4.8,3
+2018, Huawei!,idrange,Adroid , 4G,No,No,3621,5.58,6,64,48,239,2.26,3.41,2
+2018,Huawei ,Midrange,android,4G,Yes,No,3284,5.63,8,64,64,260,2.32,2.87,3
+2022,Apple,Budget#,iOS,4G,No,No,3594,6.37,6,128,48,223,2.24,3.07,1
+2020,Google,Budget,Android,4G,Yes,No,2661,5.63,4,64,24,228,2.01,4.72,1
+2021,Xiaomi, BUDGET,Android,4G,No,No,3644,5.93,6,128,24,236,2.33,5.0,1
+2023,Motorola,MIDRNGE,android,4G,No, NO !,3696,6.24,8,256,48,260,2.74,4.97,NA
+2015,Xiaomi, BUDGET, ANDROID,4G,no,No,2365,4.64,3,NA,8,203,1.43,1.22,0
+2016,Motorola,Midrange,Android,3G,No,No,3540,5.57,2,128,32,260,2.42,3.76,1
+2016, Motorola,Budget,Android,3G,Yes,No,2553,NA,3,32,8,216,1.68,2.77,0
+2015,OnePlus,MIDRANGE,Android,4g,Yes, No,2840,5.08,6,64,32,254,1.72,2.97,0
+2021,Nokia,Budget,ANDROID,4G,No,No,3220,5.27,4,128,48,202,2.34,4.55,1
+2022,Google,Midrange,Android,4G ,Yes,No,3481,6.64,8,256,48,260,2.38,5.0,2
+2019,Samsung,Budget,Android, 4G#,No,No,3265,5.37,6,32,32,215,2.2,3.2,1
+2019,Huawei,Budget,Android, 4G $,NA,No,3494,5.54,4,64,12,260,1.63,2.95,0
+2020,onepus ,Budget,Android,4G,Yes,NO,3147,5.43,4,128,32,231,2.24,3.34,2
+2022,oneplus,budget,Android,4G*,No,NO ,3626,5.6,8,64,32,243,2.38,3.16,2
+2020, Nokia ,Budget, adroid,4G,Yes, NO ,2593,5.35,6,32,48,238,2.14,3.64,2
+2019,HUAWEI,Midrange,Android,4G,Yes,No,3395,5.86,8,256,48,245,2.04,5.0,3
+2021,Samsung,BUDGET,Android, 4G,Yes,No,3341,5.3,4,32,24,245,2.04,2.78,1
+2020,Samsung,Budget,adroid*,4G,No,No ,3389,5.94,4,32,48,227,1.7,3.21,0
+2020,Apple, MIDRANGE,iOS,4G,No, No,3292,6.19,6,256,48,260,2.57,4.44,2
+2017,Oppo, BUDGET,Android,4G,No,No,3047,4.73,4,64,32,217,1.92,2.14,0
+2020,Apple ,Budget,iOS,4G,No,No,3318,NA,6,32,32,248,1.6,3.36,0
+2023,nokia ,Budget,android#,4g,Yes,No,2803,5.95,8,256,48,257,2.08,5.11,3
+2020,Oppo,Budget,Android,4G,NO,No,2814,5.6,4,128,32,252,2.32,3.1,0
+2015,Vivo,Midrange,Android,3G,yes,No,3275,4.95,2,128,32,248,2.16,2.84,1
+2019,Oppo,Budget, ANDROID,4G ,Yes,No,3191,5.7,4,64,24,260,1.55,3.67,1
+2023,Google,Budget,Android,4G ,Yes,No,3286,5.92,6,64,48,218,2.05,3.92,1
+2015,Vivo,Budget,ANDROID,3G,Yes, no,2180,4.09,2,64,8,207,1.3,1.81,0
+2020, APPLE , MIDRANGE , ios,4G,No,No,3298,NA,6,256,32,233,2.17,4.76,2
+2020,samsung,Midrange,Android,4g,Yes,no ,3639,6.05,8,256,64,254,2.63,3.95,3
+2023,OnePlus,Midrange,Android,5G,Yes,Yes,3324,6.12,8,256,48,258,2.53,4.26,3
+2020,Motorola,Midrange,Android,4G,Yes,No,3040,5.95,8,256,32,249,2.29,3.47,2
+2022,Vivo,Midrange,Android,4G,No, No ,3242,6.46,8,256,48,249,2.61,5.36,3
+2016,Xiaomi,Budget, Android ,4G,Yes,No,2953,5.56,2,32,8,241,1.57,1.75,0
+2022,Motorola,Budget,Android,4G,No,No,3400,5.43,6,128,48,241,2.16,4.01,2
+2015,Oppo,Flagship,Android,3G,No,No,3378,5.34,4,128,48,242,2.72,3.66,0
+2015,OnePlus,Midrange,Android,3G,Yes,No,3149,4.69,6,256,8,212,2.18,2.53,2
+2022,Xiaomi,midrange,Android,4G,Yes,No,3761,5.41,8,256,48,236,2.24,4.73,3
+NA,Samsung, Midrange,Android,4G,No, No ,4222,6.45,8,256,64,234,2.86,6.5,3
+2022,OnePlus,Midrange,Android*,4G,Yes,no,3474,6.96,8,256,48,260,2.83,4.92,3
+2019,Apple,Midrange,iOS, 4g,No,No,4384,5.94,6,128,32,260,2.66,4.19,2
+2024,Xiaomi,MIDRANGE,ANDROID,4G,yes ,NA,3767,6.51,12,256,48,252,2.78,7.18,NA
+2017,Nokia,budget,Android,3G,No,No,2268,4.61,4,128,32,239,1.94,3.46,0
+2020,Samsung,Midrange,Android,4G,NO,No,3687,5.96,6,128,24,227,2.54,4.56,1
+2016,Huawei,Flagship,Android,4G,Yes , no,3163,5.19,4,256,32,228,2.45,3.91,2
+2018,Oppo,Midrange,Android,4G, Yes$,No,3250,5.89,6,128,64,255,2.25,3.26,1
+2017,Sony,Budget,Android,3G ,Yes,No,2940,4.9,2,128,8,223,1.61,2.89,0
+2020,Samsung,Flagship,Android,4G,No,No,3814,6.35,8,256,48,260,3.06,5.58,2
+2015,apple,Flagship,iOS,4g!,No,No,3417,5.19,6,128,48,257,2.47,3.69,1
+2024,Oppo,budet,Android,4G,YES ,No,3804,6.03,8,128,48,260,2.29,5.35,3
+2024,Huawei,Flagship,HarmonyOS,5g#,Yes,yes ,NA,6.89,8,256,48,260,2.97,7.48,3
+2015,Xiaomi,Budget,Android,3G,Yes,No ,2481,4.8,4,32,8,219,1.42,1.09,0
+2016,Apple,Midrange, iOS, 4G!,No,NO $,3665,5.83,6,128,32,242,2.04,3.17,1
+2019,Sony,budget,Android,4G,Yes,No,2822,5.04,6,64,24,214,2.0,3.16,NA
+2016,Vivo, budget ,Android,3G,Yes,No,2751,4.85,2,32,12,237,1.74,2.51,0
+2022,Samsung,Midrange,Android,5G,No,Yes,3363,6.0,12,256,64,230,2.52,4.67,3
+2021,Apple, Flagship,iOS,4G*, NO, No ,3452,6.22,12,256,48,252,2.42,5.52,3
+2017,Xiaomi,Budget ,andoid,3g#,Yes,NA,3018,5.74,3,128,32,221,1.56,2.1,0
+2021, oneplus ,MIDRANG,Android,4G,Yes,No,3490,5.79,6,128,48,247,2.26,4.94,2
+2015,Apple,Budget, iOS,3G,No,No,1922,4.63,2,32,8,231,1.52,2.04,0
+2016,Samsung,Flagship,Android,3G,Yes, No,3138,5.93,6,128,48,246,2.28,4.08,2
+2016,Samsung,Midrange,Android,4G,Yes,No,3040,5.46,4,64,48,253,2.0,2.25,1
+2016,Vivo,Budget,Android,4G,No,No,2816,4.89,3,64,24,210,1.93,1.93,0
+2017,OnePlus,Midrange, Android ,3G,No , NO,3067,5.54,8,128,24,242,2.79,3.35,1
+2021,Sony,Midrange,Androi , 4G*, No,No,4009,6.13,6,256,48,251,2.43,5.24,2
+2018, OnePlus,Midrange!,Android,4G,Yes,No,3187,5.88,8,64,32,250,2.36,3.78,1
+2023,Huawei,Budget $,HarmonyOS,4G,No ,No,NA,5.37,6,64,48,248,2.64,4.94,1
+2019,apple,Flagship,ios,4G,No,No,3706,6.56,8,256,48,248,2.7,5.97,2
+2020,OnePlus,Budget,Android,4G,No, NO,2780,5.25,6,64,48,235,2.26,3.0,2
+2022,Oppo,Flagship,Andoid,5G,Yes,Yes,3861,6.53,8,256,64,236,2.38,6.18,3
+2018,Samsung, BUDGET!,Android,NA,NO,No,2261,5.53,4,32,32,NA,1.89,3.15,0
+2016,Vivo,Budge ,Android,4G ,Yes,NO ,2119,4.82,3,128,24,227,1.86,2.58,0
+2015, Sony,Midrange,Android, 3G,NA,no #,2870,5.16,4,64,24,221,2.04,3.06,0
+2021,Apple,Midrange,iOS,4G,No,No,3961,5.51,12,128,32,244,2.12,4.73,2
+2021,Motorola,FLAGSHIP*,ANDROID,5G,Yes,Yes,3788,6.35,12,256,64,260,2.83,6.03,3
+2018,Apple,Budget,iOS,4G,No,No,2926,5.06,4,32,32,229,1.59,3.28,0
+2018,Xiaomi,Midrange, Android,4G, Yes !,No,3359,5.42,6,128,16,235,2.1,4.02,0
+2016,Oppo,Budget,Android,3G,No,No,2650,5.09,3,NA,16,235,1.55,2.38,0
+2018,OnePlus,Budget,Android, 4G,Yes,No,2713,5.54,3,64,24,228,1.43,2.57,0
+2020,Nokia, MDRANGE,Android,4g ,Yes !,No,3356,6.47,8,128,32,260,1.97,4.38,2
+2019,Huawei,BUDGET,Android,4G,NO,No,3081,5.5,4,128,32,246,2.56,3.29,1
+2023,OnePlus $,Budget,Android,4G, Yes,No,3487,5.88,6,128,48,232,2.34,4.18,1
+2021,Nokia,Budget,android,4G, Yes, No *,3856,6.18,6,128,24,260,2.15,3.78,1
+2018,Oppo,Midrange,ANDROID,4G,Yes, no*,2025,5.35,6,256,16,244,2.42,3.08,1
+2018,Samsung,Budget, android!,4G,Yes,No,2406,5.6,4,64,24,238,1.59,2.92,0
+2024,Samsung,MIDRANGE,Android,4g, Yes,No,4032,6.26,12,256,48,253,2.8,6.75,3
+2015,NOKIA, flagship ,Android, 4g#,Yes,No,3393,5.45,8,128,48,260,2.49,3.86,3
+2015,Google,flagship ,Android,4g,Yes,No,3213,5.33,4,128,16,227,2.42,3.78,2
+2021,Google, Midrange,ANDROID,4G,yes ,No,3151,6.35,8,128,64,253,2.93,5.57,2
+2019,Samsung,Budget,Android,4G,yes, No $,3490,5.26,6,128,32,226,2.13,3.29,1
+2022, Smsung ,Midrange,Android, 4g,Yes ,NO!,3781,6.33,8,256,48,260,2.46,4.76,2
+2015,Samsung,Budget,Android,3G,Yes,No,2465,4.71,2,32,8,220,1.53,2.06,0
+2015,Huawei,Flagship,Android, 4G ,Yes,No,3012,5.43,8,256,32,217,1.61,3.59,2
+2016,vivo ,Midrange,ndroid,4G,Yes,No,2989,5.53,6,128,48,250,2.45,2.93,1
+2020,Xiaomi,Budget,Android,4G,Yes,no,3219,5.39,6,64,24,234,2.29,3.15,1
+2020,oppo,Midrange, andoid ,4G,Yes,No,3228,5.81,8,128,24,260,2.21,5.43,2
+2018,Google,MIDRANGE,android,4G, yes !,No,3516,6.16,6,256,48,260,2.17,3.85,1
+2015, OnePlus , midrange ,Android,4G,Yes,No,NA,5.16,6,128,24,221,1.98,3.08,2
+2017,Apple,Midrange,iOS,3G,No,No,3113,5.32,4,128,48,237,1.78,NA,2
+2021,Xiaomi,Flagship, Android ,4G,Yes,No,4091,6.18,8,256,48,255,3.13,5.83,3
+2020,OPPO,Budget,Android,NA,No,No,3318,5.69,6,128,32,224,1.88,3.66,2
+2016,OnePlus,Flagship,Android,4G,No,No,3828,5.73,6,256,32,237,2.12,NA,3
+2016,Samsung,Midrange,Android,4G,Yes,No,3066,4.82,4,128,16,239,1.98,2.94,0
+2021,Huawei,Budget,HarmonyOS, 4G,NO,No,3077,5.76,6,128,24,251,2.02,4.14,2
+2019,Apple,Midrange,iOS,4G,No,No,3960,5.83,4,128,64,244,2.2,4.41,2
+2017,PPLE,Budget,iOS,3G,No,no,2949,5.25,3,128,8,236,1.61,3.0,0
+2016,Oppo,Flagship,Android,4G,Yes,No,2920,5.5,6,256,32,258,2.8,3.75,2
+2024,Huawi,Midrange,Android,4G,Yes, No*,3958,6.19,12,256,48,260,2.83,5.46,3
+2015,Xiaomi,Budget,Android ,3G,no,No,2914,4.73,2,128,32,197,1.45,2.35,0
+2019,Xiaomi,Midrange,Android,4G ,No, NO ,3025,4.85,8,128,48,260,1.69,NA,1
+2021,vivo*,Budget,Android,4g,Yes,No,2880,5.1,6,128,32,239,2.58,4.51,1
+2021,Google,Budget, Android!,5G,No,Yes,2850,5.52,6,128,48,243,2.33,4.18,2
+2015,Samsung,Flagship,Android,4G,No,No,2838,5.86,6,256,16,260,2.7,3.59,1
+2023,Apple,Midrange,iOS,4G,NO$,No,3996,6.61,8,128,64,252,2.41,5.7,2
+2018,VIVO !,Midrange,Andrid,4G,NO,No,3849,5.46,8,128,32,249,2.5,4.1,1
+2023,Apple,Flagship,iOS,5G,No*,Yes,3831,6.8,12,256,64,260,2.42,6.14,3
+2020,Samsung,Midrange,Android, 4G,No,No,3270,5.8,6,128,24,260,2.6,5.0,1
+2015,Xiaoi,Budget,Android,4g, Yes,No,1924,5.16,3,32,12,234,1.2,1.72,0
+2019,oneplus ,Flagship,Android,4G,es #,No,3654,6.53,8,256,48,260,2.81,4.44,3
+2017,Apple,NA,iOS,4G,No,No,2125,5.31,3,128,8,230,1.96,2.73,0
+2020,Samsung,Flagship,Android, 4G, Yes,No,3721,6.21,8,256,48,260,2.77,5.75,3
+2020,XIAOMI,Midrange,android,4G, yes,No,2626,5.67,8,256,32,224,2.44,4.49,2
+2023,Vivo,Midrange,Android,5G,Yes,YES $,3932,5.96,12,256,NA,220,2.41,3.91,3
+2024,Oppo,Flagship ,NA,5G,No,Yes,4031,6.86,12,256,64,254,2.82,7.53,3
+2020,OnePlus,Budget,Android, 5G,Yes,yes,2483,5.34,6,64,8,237,1.83,4.07,1
+2020,Motorola,Flagship,Android,4g,Yes, NO #,3618,6.37,8,256,64,260,3.15,5.62,3
+2017,Nokia,Budget, Android,4G,Yes,No,3481,4.82,4,64,32,NA,1.43,3.05,1
+2016, nePlus ,Budget, Android!,4G,YES,No,2882,4.91,2,32,8,233,1.78,1.82,0
+2024,Xiaomi,Budget,Android,4G$,Yes, NO ,3724,6.28,8,128,48,249,2.59,4.34,NA
+2018,Apple,Midrange, iOS , 4G,No, NO ,3648,5.63,8,128,12,228,1.82,4.34,1
+2015,Apple,Midrange, iOS,4G,No,No,2870,5.0,3,128,12,244,1.6,2.56,1
+2022,OnePlus,Budget,Android,4G,Yes,No,3101,5.56,8,256,48,240,1.98,3.69,2
+2024,Apple,Budget,iOS,4G,No,No,3885,5.92,6,128,48,241,2.55,4.56,3
+2022,OnePlus,budget,Android,4G,yes,No,3338,5.81,6,64,32,227,2.39,3.62,2
+2016,OnePlus,Flagship, ANDROID,3G,Yes,No,3615,5.68,6,128,32,260,NA,3.59,2
+2023,NA, Midrange,Android,5G,Yes,YES ,3304,6.67,12,256,48,260,2.22,4.87,3
+2015,Samsung,Flagship, ANDROID,3G,Yes,No,3167,5.66,6,128,48,260,2.15,3.18,2
+2023,Apple,Midrange,iOS,5G, No*,Yes,3859,6.58,12,256,32,241,2.82,5.98,3
+2023,Xiaomi,Midrange,android *,5G, no ,yes ,3536,6.55,8,128,48,241,2.47,5.46,3
+2021,Apple,Budget *,iOS,4G,No,No,3446,5.64,6,128,24,239,2.11,3.32,2
+2019,Motorola,Budget,Android,4G,no ,No,3102,NA,4,128,32,226,2.0,3.29,1
+2016, MOTOROLA,Midrange,Android, 4G ,Yes,no,3594,5.16,6,64,16,246,2.22,3.54,2
+2024,NA,budget,Android#,4g,No,No,3561,6.21,8,256,48,251,2.49,4.25,3
+2019,Apple*,Midrange,IOS ,4G,No, NO,3217,6.16,4,256,32,260,2.47,3.62,1
+2018,Vivo,Budget,Android,4G ,Yes,No,3421,4.78,4,64,16,215,1.62,3.56,0
+2024,Xiaomi,Budget, adroid,4G,NA,No,3145,5.52,8,256,48,229,2.3,4.45,3
+2018,Samsung,Midrange,ANDROID ,4G,YES ,No,3628,5.61,6,64,64,248,1.93,4.99,1
+2015,Xiaomi!,Budget,Android,4G, yes,No,2395,4.74,3,32,16,239,1.51,2.73,0
+2017,Xiaomi,Flagship,Android,4G,No,No,3502,5.78,8,256,64,256,2.37,5.15,2
+2015,Nokia,Midrange,Android,3G,Yes,No,2255,4.79,4,128,12,232,2.05,NA,0
+2021,Apple,Budget,iOS,5G,No,Yes,3656,6.18,4,128,48,255,2.43,3.65,1
+2021,Samsung,Budget,Android,4G,No,No,3807,5.59,6,32,32,228,1.54,3.66,1
+2020,APPLE,Budget,iOS,4g,No, NO#,2779,4.84,3,32,32,259,1.73,3.7,0
+2018,Samsung,Budget ,Android #,4G,NO,No,3154,5.03,2,32,24,240,1.84,3.07,0
+2018,Xiaomi,Budget,Android,4G,Yes, no $,2641,5.29,4,64,12,241,1.72,2.92,0
+2016,Google,Midrange,Android,3G,Yes,No,3037,5.4,6,64,8,242,2.09,3.26,1
+2016,Motorola,Budget,Android,4G,No,No*,2486,4.97,4,32,16,200,1.82,2.91,0
+2015,Huawei,Budget,androi$,3G,Yes,No,2061,4.65,2,64,8,211,1.69,1.94,0
+2016,Apple,Budget,iOS,4G,No,No,2614,5.18,2,128,12,232,1.3,2.7,0
+2022,Sony,Budget,Android, 4G ,no$,no ,3112,5.88,6,64,48,250,1.71,3.47,1
+2016,Apple,Budget,IOS,3G,No,No,2411,4.69,2,64,16,260,1.69,2.35,0
+2015,Samsung,Midrange,Android,3G,No,NA,2572,5.04,6,64,16,229,1.81,2.59,1
+2016,Samsung,Budget,Android,3G,YES,No,2753,5.02,4,64,32,196,2.13,3.02,0
+2021,Google, Midrange, Android,4G,YES!, no ,3491,6.32,8,256,64,243,2.48,5.01,3
+2019,Samsung,FLAGSHIP,ndroid , 4G ,no*,No,3777,6.28,8,256,NA,260,2.89,5.7,3
+2023,Sony, midrange,Android,4G,Yes,No ,4414,6.25,8,256,48,237,3.32,6.31,3
+2020,Apple!,Midrange,IOS , 4G,No,No,3627,5.71,8,128,48,260,2.3,4.99,2
+2017,OnePlus,Midrange, Android,4G,No,No,2804,5.33,4,128,16,257,2.25,2.82,0
+2018,Google,Midrange, Android,4G,yes ,No,3788,5.45,6,256,24,232,2.42,4.32,2
+2020,Nokia,Mdrange,android,4G,NO,No,2998,6.27,8,256,32,241,2.1,4.53,3
+2017,Xiaomi,Midrange,Android,4G,Yes,No,3193,6.05,6,256,48,254,1.91,3.03,1
+2022,Samsung,Flagship,Android,5G,No, yes,4606,6.41,12,256,64,234,3.1,5.85,3
+2023,Samsung,Budget,Android,4G ,Yes,No*,3361,6.36,6,256,48,255,2.15,4.33,2
+2019, vivo !,Flagshp$,Android, 4G $,Yes,No,3318,6.07,8,256,48,221,2.89,4.87,2
+2018,OnePlus,Midrange,android,4G,Yes,No,3608,5.76,8,128,24,244,2.55,4.3,2
+2018,Samsung,Flagship,Android,4G,Yes$,No,4300,6.2,8,256,64,260,2.76,4.32,3
+2020,OnePlus,Flagship,Android,4G,Yes,No,3944,6.14,8,256,64,217,3.42,4.67,3
+2022,Sony,Budget , Android,4G,No, NO,2978,5.69,8,128,32,238,2.02,4.01,2
+2015,GOOGLE, midrange,Android,4G,Yes,No,2856,5.01,4,128,16,222,1.81,2.25,0
+2015,OnePlus,Budget, android,3G,Yes ,No *,2519,5.3,2,32,12,227,1.5,2.35,0
+2017,xiaomi,Budget,Android,4G,Yes,No,2270,4.61,4,128,24,212,1.94,3.11,0
+2016,Samsung,BUDGET,Android,3G,No,No,2702,4.85,3,32,24,225,1.54,2.68,0
+2021,Google,Budget,Android,4G,Yes,No,3124,5.31,6,128,32,194,2.56,3.42,1
+2023,Apple, Budget,iOS,4G,NA,No,3342,5.81,8,64,32,231,2.03,4.48,1
+2018,Xiaomi, Budget,Android,4g , YES!,No,3169,5.55,4,32,24,242,2.44,2.97,0
+2021,Motorola!,Midrnge,Android,5G#,Yes,Yes,4058,5.88,6,256,64,238,2.41,4.91,3
+2021,Nokia,Midrange,Android,5G,Yes,Yes,3774,6.17,8,128,48,260,2.44,4.45,3
+2021,Oppo,Budget,Android,5G,YES,Yes,3253,5.85,6,128,48,245,1.98,3.59,1
+2019, apple ,Midrange,iOS, 4G ,NA,No,2662,5.79,6,128,64,233,2.02,4.33,3
+2019,Google, budget ,android,4g,yes #,No,3273,5.77,4,128,32,236,1.77,3.28,1
+2022,Apple,Budget,iOS,4G,No,No,3338,5.9,6,64,64,224,2.27,4.35,1
+2023,Samsung,Midrange,ANDROID,4G,Yes,No,4100,6.28,12,256,48,260,2.58,5.28,3
+2020,Apple,Midrange,iOS ,5G,No,Yes,3398,6.18,8,128,48,260,2.71,4.45,2
+2023,Huawei,Midrange,Android,5g,Yes, Yes,4072,6.77,8,256,64,260,2.49,5.22,3
+2023,XIAOMI,Budget,Android,4G ,Yes,No,3998,6.18,6,64,8,240,2.3,4.4,1
+2018,Vivo,Budget,Android,4G,Yes,NO,2824,5.91,2,128,32,227,1.63,1.65,0
+2022,OnePlus,Budget, Android,4G ,Yes,No,2986,6.54,4,128,32,229,2.48,3.69,NA
+2019,Samsung,Midrange,Android, 4G,No,No,3387,5.89,8,256,32,246,2.14,4.24,2
+2018, HUAWEI ,Midrange,HarmonyOS,4G,YES ,No,3233,5.38,4,128,32,251,2.44,3.94,1
+2021,Samsung,midrange,Android,4G, YES,No,3205,5.98,8,256,64,248,2.22,5.04,3
+2023,Sony,Budget,Android,4G,Yes,No,3806,6.22,6,64,48,254,2.45,5.16,2
+2023,Xiaomi,Flagship,Adroid,5G,Yes,Yes,4080,NA,8,256,64,260,3.22,6.4,3
+2022,Motorola,Budget,Android, 4G, yes,No,3125,5.94,4,128,32,237,2.17,3.22,1
+2015,Samsung *,Midrange,NA,3G ,Yes,No,3026,4.99,6,128,32,249,1.86,3.74,1
+2017,Apple,Budget,ios ,4G,No,No,2310,5.23,2,64,16,228,1.82,2.17,0
+2019, google,Midrange,Android,4G, YES ,No,3289,5.7,6,128,48,249,2.51,4.03,2
+2020,Xiaomi, Budget,Android,4G,No,No,3506,5.73,4,128,48,239,2.17,3.81,1
+2023,Oppo,Flagship,Android,5G,Yes,Yes,4720,6.39,12,256,64,223,3.01,6.1,3
+2024,Vivo,Budget,android#,4G,Yes, No*,3905,6.27,6,128,48,260,2.15,3.52,2
+2018,Xiaomi, budget #,Android,4G,Yes,No,2709,5.27,2,64,12,219,2.04,3.37,0
+2019,Huawei,Budget,Android,4G,No,No,2733,5.28,4,128,24,218,1.99,2.98,0
+2020,Vivo,Budget,Android, 4g,Yes,No,2915,5.84,4,128,48,235,1.82,3.14,1
+2023,VIVO,Midrange,ANDROID ,4G,No,No,3411,5.85,8,256,NA,245,2.66,6.09,3
+2016,OnePlus,Flagship ,Anroid,4G,Yes,No,3221,5.71,6,128,48,260,2.15,4.49,2
+2017,Oppo,budgt,Android,4g, yes,No,2916,5.05,4,64,24,227,1.86,2.23,0
+2018,Samsung,Midrange,Android,4G,NO ,no ,3352,5.63,4,128,32,233,2.26,2.65,1
+2024,Samsung,Midrange, Android,5G,Yes,Yes,3757,6.6,8,256,64,244,2.75,5.68,3
+2018,HUWEI,BUDGET,HarmonyOS,4g,No,No,2436,5.22,3,64,12,249,1.92,2.44,0
+2019,Xiaomi, Flagship ,ANDROID,4G,No,No,3946,5.69,12,256,48,250,2.79,6.78,3
+2019,OnePlus ,midrange*,Android,4G,Yes,No,2899,5.95,8,256,32,239,2.31,3.88,3
+2024,Samsung,Midrange,Android,4G,Yes,No,3738,6.46,8,256,64,260,2.77,6.48,3
+2015,Samsung,Midrange ,ANDROID#,4G,Yes,No*,2401,5.14,4,128,24,224,1.99,3.35,0
+2019,SAMSUNG , Budget,Android,4G,Yes,No,2798,5.91,4,128,16,206,2.04,4.31,1
+2015,Oppo,Flagship,android,4G,YES,No,3118,5.59,6,256,32,239,2.71,3.53,3
+2023,Google,Midrange, Android,5G,Yes,Yes,3447,6.68,8,256,32,248,2.59,5.09,2
+2015,vivo,Budget ,android*,4G, yes ,No,2701,4.54,3,128,8,234,1.69,3.21,0
+2018,Xiaomi,Flagship,Android,4G,Yes,No,3430,5.3,6,256,64,257,2.53,4.73,3
+2017,SONY,Midrange,Android,4G ,Yes,No,2226,5.84,6,256,24,230,2.3,3.56,2
+2018,Samsung,Budget,Android,4G,no,no,2823,5.26,3,128,24,235,1.73,1.96,0
+2021,Apple,Budget,iOS,4G,no,No,3655,5.57,6,128,24,214,2.46,4.03,1
+2016, oneplus ,Budget,android,3G,No,No,2202,5.04,3,32,12,211,NA,2.09,0
+2023,APPLE *,Midrange,iOS,5G,No,YES!,3698,6.35,8,256,64,245,2.63,4.84,2
+2017,Apple,Midrange,iOS,3G,No,No,3256,5.69,6,128,48,230,2.25,3.91,2
+2022,google,Midrange,Android,4G,No, NO,3708,5.45,12,256,32,207,2.28,4.4,3
+2017,samsung,midrange,Android, 3G,No,No,3400,5.63,4,NA,48,239,2.24,3.42,1
+2016,Aple ,Flagship,iOS, 4g,No,No,3906,5.36,6,256,48,257,2.89,4.6,2
+2021,Vivo,Budget,Android,4G, Yes, No,3053,6.05,4,64,48,247,2.26,2.97,1
+2024, nokia*,Flagship,ANDROID,5G,yes,Yes,4855,7.2,12,256,NA,260,2.95,7.26,3
+2021,Oppo,Flagship,ANDROID ,4G,Yes,No,3571,6.29,12,512,64,246,2.9,5.33,3
+2017, samsung,Budget,android,4G, YES*,No,2833,4.76,3,64,24,243,1.91,2.53,0
+2024,OnPlus,Flagship,Android,5G,Yes,Yes,4074,7.02,12,512,64,240,2.86,7.02,3
+2021,Samsung,Budget,Android ,4G,Yes,No ,2959,5.5,4,32,48,260,2.11,3.41,0
+2021,Apple,Midrange,iOS,4G,No,No,3703,6.27,6,128,48,NA,2.69,4.67,2
+2020,Huawei,Budget,HarmonyOS, 4G*,Yes,No,3478,5.51,2,64,24,221,2.31,3.66,0
+2024, samsung, BUDGET,Android,5G,Yes,Yes,3603,6.39,8,128,64,260,2.51,4.46,1
+2017,Appe ,Midrange,iOS,3G ,No,No,3268,5.31,4,NA,24,219,1.82,4.03,1
+2017, vivo,Budget,Android,4G,Yes,No,2466,5.56,3,64,12,244,2.11,3.34,0
+2016,Vivo,MIDRANGE,Android, 3g *, Yes ,No,3041,5.51,4,64,12,256,2.01,2.57,0
+2017, apple ,BUDGET, IOS,4G,No,No,3101,5.15,2,64,32,NA,1.6,2.47,1
+2016,VIVO,Budget,Android,3G,Yes,No,1945,5.78,3,64,12,245,1.47,1.0,0
+2016,Vivo,Midrange,Android,4G,Yes,No,3340,5.04,4,64,24,237,2.18,3.16,0
+2016,Xiaomi,Midrange,android !,4G,NA,no ,2852,5.36,4,128,32,260,1.84,3.93,1
+2022,Oppo,Budget,Android,4G,Yes,No,3593,5.99,4,32,48,260,2.05,3.27,0
+2017,Vivo,Midrange,Android,3G,Yes,No,3345,5.02,6,32,32,260,1.95,3.39,0
+2019,Apple,Flagship,iOS,4G,No, No,4429,6.43,8,256,48,256,2.74,4.86,NA
+2022,Huawei,Budget,HarmonyOS,4G,Yes,No,3448,6.02,6,128,48,258,2.4,3.76,1
+2015,OnePlus,Midrange,ANDROID, 4G,Yes,No,2935,5.26,4,32,32,249,2.11,2.9,0
+2016,Xiaomi,Budget,ANDROID, 3G ,Yes,No,2294,4.53,3,128,16,224,1.44,1.56,0
+2019,Oppo,Midrange,Android,4G,Yes,No ,4446,6.03,6,128,48,234,2.56,3.82,1
+2024,Xiaomi,Midrange,android*,4G, Yes ,No,3350,6.36,8,128,48,260,2.72,5.0,3
+2016, Sony,Budget,Android,4G,Yes,No,2648,4.9,3,64,12,225,1.26,1.84,0
+2015,Samsung,Flagship,Android,4G,No,No,2724,5.29,4,128,48,220,2.34,3.6,1
+2018,Motorola,Midrange,Android,4G ,No, No,3734,5.56,6,128,24,260,2.12,3.78,2
+2022,Samsung!,Midrange, android,4G,Yes,No,3599,NA,12,256,NA,260,2.58,5.35,3
+2016,Motorola,Budget,Android,4G,Yes,No,2802,4.56,3,32,8,212,1.48,1.53,0
+2017,xiami ,Midrange, android,3G, Yes,No,2649,4.98,4,256,32,241,2.55,3.5,2
+2023,Sony,FLAGSHIP #,Android,5G,Yes,yes $,4693,6.78,12,256,64,260,2.24,6.23,3
+2023,Huawei,Flagship,Android,5G,yes,Yes,3771,6.7,12,256,64,253,2.75,5.71,3
+2018,Oppo,Budget,Android,4G, No ,No,2830,5.1,6,64,32,208,2.2,2.52,1
+2019,Apple,Midrange,iOS,4G,No,No,3069,6.01,8,128,32,253,2.6,4.39,3
+2017,OnePlus,Flagship,Android,4G,No,No,4093,5.43,8,256,48,260,2.34,3.49,3
+2020, nokia,Flagship,Android,4G,Yes,No,3400,6.55,8,NA,48,256,2.23,6.68,3
+2022,Vivo, midrange ,Android,5G,Yes,Yes,3377,6.02,8,256,48,238,2.23,5.59,3
+2024,SAMSUNG*, Midrange,Android,4G,Yes, No ,4160,6.81,12,256,48,260,2.74,5.96,3
+2019,Xiaomi,Flagship, Android ,4G,Yes,no ,3469,6.03,8,256,64,260,2.62,5.34,3
+2024,Xiaomi,Budget,Android,4G,No,No,3330,6.1,8,256,48,254,2.78,4.59,3
+2023, Apple ,Midrange,iOS,4G ,No,No,3197,6.58,8,256,64,253,2.75,6.43,3
+2021,HUAWEI,Budget $,HarmonyOS,4G,Yes,No,3315,5.62,6,32,32,231,1.92,4.61,1
+2022, Apple ,Midrange,iOS,4G,No,No,3431,6.52,6,256,48,242,2.65,5.48,3
+2023, APPLE*, Midrange ,iOS, 5G,No,Yes,4228,5.95,8,256,48,239,2.2,5.72,3
+2020,XIAOMI,Budget, Andrid, 4G,Yes,No,3008,5.56,6,32,32,239,2.27,3.76,1
+2019, SAMSUNG,Midrange,Android,4G,Yes,No,3721,5.53,4,256,32,228,2.3,4.74,2
+2015,Apple,budget,iOS,3G,No,No,2466,5.23,3,64,24,258,2.01,2.5,0
+2019,Samsung,Budget,Android ,4G,Yes,no,2788,6.35,3,128,48,228,2.21,2.74,0
+2015,Oppo,Midrange,Android,4G,Yes ,NO,3164,5.35,4,128,32,233,2.33,2.97,1
+2017,APPLE ,Budget,iOS,4g,No,NO ,2118,5.03,4,32,16,242,1.74,1.95,0
+2015,SAMSUNG ,MIDRANGE,android*,4G,yes ,No,3127,5.65,2,64,32,257,2.14,2.93,0
+2021,Nokia,Midrange,Android,4G #,NO,No,4020,6.42,8,256,48,260,2.05,5.84,2
+2017,Samsung,Budget,Android,3G,No,No,2443,5.32,6,128,16,239,2.13,2.89,1
+2019,Apple,Budget,iOS,4g ,No,No,2971,5.77,3,64,32,242,2.04,3.9,0
+2024,Apple,MIDRANGE,NA,5G,no , Yes,3907,6.47,8,256,64,242,2.45,5.77,3
+2022,xiomi,Budget,Android,5G, yes,Yes,3230,5.7,4,128,32,220,2.16,4.54,1
+2019,samsung ,Flagship,ANDROID,4G, Yes ,No,3641,6.13,8,256,64,236,2.78,4.17,3
+NA, Apple ,budget, ios ,4G,No,NO,3267,4.77,2,128,16,216,1.34,2.58,0
+2018,Oppo, Mdrange,Android,4G,yes ,No,3033,5.97,6,256,32,247,2.56,4.76,3
+2017,Xiaomi, Budget,Android,3G,Yes,No,2871,4.66,2,32,16,219,1.38,3.01,0
+2024,OnePlus,Midrange,Android,5G, NO,Yes,3806,6.39,8,256,64,257,2.38,5.07,3
+2017,Apple, Budget,iOS,3G,No,No,2937,5.42,3,32,8,248,1.68,3.0,0
+2019,Samsung,Flagship,Android, 4G,No,No,3642,5.81,8,256,48,260,2.85,5.82,3
+2023,SASUNG,Flagship,Android,5G,No,yes,4576,6.89,12,256,64,260,3.18,5.93,3
+2023,OnePlus, Midrane #,android,5G,Yes, Yes,3593,5.99,8,256,64,244,2.71,5.16,3
+2022,Sony,Midrange,Android,5G,YES,YES,3440,6.09,6,256,24,244,2.66,5.09,2
+2021, Xiaomi,Budget,Android, 4G,Yes,No,2756,5.47,6,64,32,243,2.84,3.54,2
+2017,Xiaomi,Flagship,Android,4G,Yes,No,NA,5.85,6,128,48,251,2.87,5.17,2
+2015,SMSUNG ,Budget, ANDROID,4G,Yes, NO,3234,4.89,2,64,32,223,1.83,1.5,0
+2017,Google,budget,Android,4G,no,NO,2994,6.12,3,128,24,240,1.82,2.51,0
+2023,Xiaomi,budget,ANDROID , 5G,Yes,Yes,3124,6.12,8,256,24,233,1.91,4.47,2
+2021,oppo ,Budget,Android,4G,No,No,3494,6.16,6,32,48,260,2.11,3.41,1
+NA,Oppo,Flagship,Android,4G, yes*,No,3419,6.69,8,256,48,241,2.79,6.01,2
+2019,Oppo, Budget $,Android,4G,No,No,3144,5.0,6,32,24,NA,2.04,3.03,0
+2020,NA, budgt ,Android,4G,YES ,No ,3678,5.75,4,128,16,239,1.98,3.85,2
+2016,Apple,Flagship,iOS,3G,No,No,3309,5.3,6,256,32,223,2.71,3.98,2
+2020,Google, Midrange*,Android,4G,No,No,3339,6.12,6,128,48,223,1.72,5.0,1
+2019,OnePlus,Budget,Android,4G,Yes,NA,3344,5.25,4,32,24,237,1.76,3.75,0
+2018,Nokia,Budget, android,4G,Yes,No,3061,5.1,3,64,8,231,2.03,2.3,1
+2023,Oppo, Midrange,Android,4G,Yes,No,3475,6.54,6,256,48,260,2.74,6.24,2
+2018, Nokia,Midrange,Android,4G,Yes ,No,3803,5.6,8,256,32,233,2.19,3.21,2
+2022,ONEPLUS, MIDRANGE,Android,4G,No ,No,3915,6.38,8,128,48,258,2.34,4.58,2
+2020,Oppo,Budget,Android,4G,Yes,No,2954,6.1,6,128,24,255,1.94,3.59,0
+2018, Google,Flagship ,Android,4G,Yes,No,3722,6.42,8,128,48,239,2.68,NA,2
+2024,Google,Budget,Android,4G,yes#,No,3041,6.03,8,128,32,253,2.59,5.38,3
+2018,Apple,Budget,iOS,4G,No,No,3306,5.66,4,64,24,218,2.07,2.33,1
+2024,Huawei,Budget,Android,4G, yes , No,3007,6.0,8,64,32,254,2.29,5.08,1
+2019,Xiaomi,Midrange,Android,4G,No,no,3685,5.39,6,128,8,246,2.35,4.05,1
+2021,Nokia,Midrange,Android,5G,Yes,Yes,3115,5.8,8,128,48,234,2.29,4.89,2
+2024,Nokia,Midrange,ANDROID ,4G, yes #,NO,3490,6.67,12,256,64,258,2.73,5.06,3
+2022,Samsung,Midrange,Android,4G,Yes,No,4077,6.12,8,256,48,257,2.89,4.9,3
+2023,Oppo,Budget, Android,4G,no,No,3669,5.93,8,128,32,257,2.6,4.23,2
+2017,Sony,Midrange,Android,3G,Yes $,No,2979,4.89,2,128,24,252,1.76,4.86,0
+2016,Huawei,BUDGET ,Android,3G,Yes,No,2662,4.95,3,32,8,205,1.61,2.31,0
+2022,Vivo,Budget,Android,4G ,Yes,no,2414,6.03,6,128,12,215,2.47,3.7,1
+2018,Huawei,Budget,Android,4G,Yes,No,2813,5.11,2,32,16,206,2.46,3.75,0
+2017,Apple, Buget ,iOS, 4G , NO,no,2971,4.85,4,64,16,212,2.3,2.01,0
+2020,Google,Flagship,Android,4G,Yes,No,3715,6.21,8,256,48,260,2.84,5.33,3
+2020,Xiaomi,Budget,Android,4G, yes,No $,2940,5.98,4,128,32,232,1.67,2.98,0
+2019,Xiaomi,Budget,adroid *,4G,Yes,No,2512,5.42,6,32,48,223,2.18,3.56,1
+2023, SAMSUNG,Budget,android ,5G, No ,Yes,3350,5.89,6,128,48,243,2.5,5.0,1
+2018,Samsung, budget,Android,4G ,No, NO ,2358,5.79,4,32,32,252,1.8,3.02,0
+2015,Oppo,Midrange,Android,3G,Yes,No,3147,4.82,6,64,8,250,2.02,3.42,0
+2018,Samsung,udget ,Android, 4G ,Yes,No,3218,5.0,4,32,16,230,1.94,3.17,0
+2024,Samsung,Midrange,Android,5G,Yes, yes ,4418,6.76,8,256,64,246,2.78,6.26,3
+2015,Google,Midrange,Android,3G,No,No,2554,5.42,NA,64,16,258,1.67,3.47,0
+2015,Vivo,Midrange,Android,4G,No,No,2881,4.97,4,128,8,234,2.3,1.88,0
+2016,Oppo,Flagship,Android,4G,NA,No*,3062,5.58,6,128,64,251,2.25,4.24,1
+2021,Apple,Midrange,iOS,4G,No,No,3327,5.27,8,128,32,252,2.63,4.81,1
+2016,OnePlus,Budget,Android*,4G,Yes,No,2263,4.18,4,64,8,202,1.91,2.12,0
+2021,Samsung,budget,Android,5G, Yes ,Yes,2989,5.77,6,128,24,230,2.12,3.82,2
+2018,Google,midrange,Android,4G,Yes,No,3666,5.62,6,64,32,256,1.99,3.83,0
+2020,Google #,midrang ,NA,4G ,Yes,no*,3600,NA,6,NA,48,260,2.33,5.3,2
+2023,Xiaomi,Midrange,Android,4G,Yes,no $,4189,5.77,8,128,48,244,2.38,4.98,2
+2023,Apple,Budget,iOS,4G*,No ,No,3005,5.55,8,32,48,235,2.39,4.29,2
+2022, apple,Midrange,iOS, 5g,No,Yes,3816,6.72,4,64,64,260,2.83,4.88,2
+2018,Samsung, buget,adroid,4G,Yes,No,3118,5.12,4,64,24,235,1.63,3.96,1
+2015,Sony,Midrange,Android,4G, Yes, No ,3055,5.24,4,128,32,260,2.04,NA,1
+2020,Google,flagship,Android,5G,Yes, Yes,3792,6.27,8,512,48,260,2.95,5.38,3
+2017,ONEPLUS,budge,Android,4G,No,NO,2568,5.28,3,64,32,241,1.73,3.02,0
+2022,Samsung,FLAGSHIP,Android, 5G, Yes, Yes,4242,6.36,8,256,48,260,3.39,6.71,3
+2018,GOOLE,Midrange,Android,4G,Yes,NO,2393,5.65,8,128,48,243,2.13,4.63,1
+2022,Samsung,NA,Android, 4g,Yes,No,3383,5.54,8,128,48,238,2.34,5.16,3
+2020,Sony,Flagship,Android,4G,Yes ,No,3969,6.05,8,256,48,260,2.75,4.97,3
+2015,Xiaomi,Budget,Android,4G,yes , No,2631,4.66,2,64,8,221,1.58,2.14,0
+2019,Motorola,Midrange,ANDROID , 4G,Yes,No,3263,5.58,8,256,32,238,2.52,4.03,2
+2020,SAMSUNG,Flagship,Android,5G,Yes,Yes,3974,6.74,8,256,64,260,2.94,5.06,3
+2022,Oppo,Midrange,android,4G,No,No,3488,5.92,8,256,48,260,2.26,5.6,3
+2022,Apple,Midrange,iOS,4G,No,No,3860,5.78,12,128,48,251,2.24,5.01,3
+2018, Xiaomi,Midrange,ANDROID!,4G ,Yes *,No,3174,5.49,6,128,24,233,2.24,3.12,1
+2022, OPPO,NA,Android,5G,Yes,Yes,3902,6.34,6,256,64,239,3.1,6.67,3
+2022,SAMSUNG, budget ,Android,4G#,No, no,3854,5.76,6,64,48,228,2.34,4.4,1
+2023,Sony,Midrange,Android,5G,Yes,Yes,3493,5.91,12,256,64,233,2.44,5.19,3
+2019,Xiaomi,Midrange,Android ,4G,Yes,No,3281,5.51,8,256,48,228,2.64,3.63,3
+2018,Xiaomi,Midrange,Androi ,4G,No,No,3131,5.93,4,128,24,233,2.26,4.03,0
+2015, ONEPUS$,Midrange,Android,4G, Yes,No,3496,4.98,4,256,24,250,1.89,3.5,1
+2020,Samsung,Budget,Android,4g ,Yes,No,3123,5.21,6,128,32,220,2.15,4.02,1
+2016,Sony,Budget, android, 3G, No,No,3274,4.8,2,32,8,203,1.81,2.68,0
+2019,OnePlus,Midrange,Android, 4G,Yes,NO*,3802,5.7,6,128,48,235,2.49,3.51,2
+2022,Apple,budget,iOS,4G,No, No ,3602,5.64,6,128,32,226,2.29,3.8,1
+2022,Motorola,Flagship *,ANDROID,5G,Yes,Yes,4876,6.54,8,256,64,260,2.84,6.14,3
+2022,Oppo,Midrange,Android,4G,No, No,3874,6.35,8,128,48,260,2.76,4.24,1
+2017, Huawei ,FLAGSHIP,Android,4G,No,No,3019,6.18,6,128,48,246,2.67,4.05,2
+2024,Apple, Midrange,iOS, 5G, No,Yes,4144,7.2,8,256,64,245,2.67,5.56,3
+2023,Motorola,Budget,Android, 4G,yes,No,2614,6.15,NA,128,32,236,1.97,4.54,2
+2023,xiaomi,udget,Android,4G ,No,No,3509,5.61,8,128,NA,232,2.12,4.75,2
+2018,Motorola,Midrange,Android,4G,yes,no,3394,5.69,4,128,24,247,2.66,4.42,1
+2021,Google,Flagship,Anroid, 5G,No,Yes,4144,6.31,12,256,48,247,2.81,6.7,3
+2020,OnePlus,budget,Android,4G, Yes,No,2976,5.84,6,32,48,233,2.19,4.12,1
+2023,MOTOROLA, BUDGET,Android, 4g ,no,No,3920,6.22,8,128,48,247,2.23,3.98,2
+2022,XIAOMI,FLAGSHIP,Android,4G,No,No $,3628,6.42,12,256,64,250,2.7,6.33,3
+2023,Samsung,Budget,Android,4G,No,No,4133,5.93,8,128,48,222,2.65,4.16,1
+2024,Samsung,midrange#,Android !,5G,Yes,Yes,4351,6.32,12,NA,64,260,2.55,5.16,3
+2019,Samsung, Flagship,Android,4g,No,No,3449,6.21,8,256,48,245,2.42,5.04,3
+2019,Apple,Midrange,iOS,4G,No$, NO,4280,5.92,6,128,32,260,2.32,4.38,1
+2019,Apple, MIDRANGE ,iOS,4G,No,No,3706,5.69,8,128,32,249,2.42,4.55,1
+2016,nokia,midrange!,Android,4G,No ,No,3074,5.51,4,256,32,254,1.88,3.34,3
+2018,Sony,Budget,Android,4G ,Yes,NA,NA,5.9,4,64,32,244,1.89,2.92,1
+2020,Vivo,Midrange, Adroid , 4G ,Yes,No,3338,5.45,6,256,32,243,2.64,5.44,2
+2024,Vivo, midrange$,Android,5G,yes ,Yes,3248,6.13,8,256,64,260,3.09,5.86,3
+2022,Nokia,Budget,Android,4G!,Yes, No*,3233,5.72,8,64,32,244,2.21,3.53,1
+2020, APPLE$,Flagship,iOS,4G,No,No,4226,6.28,8,256,64,260,3.05,4.83,3
+2023,Google,Budget,Android, 4G,Yes,No,3871,NA,6,128,64,232,2.35,4.29,1
+2016,Apple,Budget,iOS,4G,No,No,1969,4.53,3,32,8,257,1.77,2.58,1
+2022,OnePlus,BUDGET ,Android,4G,YES,No,3673,5.59,6,128,32,232,1.92,4.18,2
+2022,Vivo,Flagship,Android,5G,Yes,Yes,4411,NA,8,256,64,260,3.03,6.46,3
+2017,OnePlus,MIDRANGE,Android,4G,yes,No,3351,5.53,4,256,32,249,2.03,3.68,2
+2017,Xiaomi,Midrange,android,4G ,Yes,No,3482,5.36,4,128,32,241,1.92,3.52,1
+2022,Xiaomi,Midrange,Android,4G, yes*,No,3430,6.36,8,256,64,233,1.98,5.62,2
+2015,OnePlus,Midrange ,Android,4G,No,No,NA,5.43,6,64,24,257,2.06,2.61,1
+2023,Samsung,NA,Android,4G,YES$,No,3318,6.17,4,128,48,253,2.28,3.9,2
+NA,Xiaomi,Midrange,ANDROID ,4G,Yes ,No,3122,5.88,6,128,32,233,2.25,3.9,1
+2023,Google,Midrange,Android ,5G,No, YES,4048,6.51,8,256,48,251,2.84,5.28,3
+2018, Xiaomi!, Budget ,Android,4G,Yes,No,2730,5.48,4,32,24,242,1.55,2.76,1
+2019,NKIA ,Budget,Android,4G,Yes,No,3049,5.3,4,128,24,225,1.36,3.94,0
+2024,Vivo, midrange ,android,5G,Yes,Yes,4090,6.25,8,256,64,253,2.46,4.94,3
+2017,Apple,Budget,iOS,4G,No,No,2882,5.33,4,32,16,252,1.84,2.65,0
+2017,Google,Midrange,Android, 4G,No,No,2227,5.53,6,128,32,246,2.01,2.57,1
+2021,Samsung, midrange ,Android,5G,No,Yes,4040,5.55,6,256,48,237,2.55,4.83,2
+2018,SONY,Midrange,Android, 4G,No#,No,3300,6.19,4,256,48,260,2.04,4.84,2
+2022,Apple,Budget ,iOS,4G,No ,NO ,3414,6.0,8,32,32,260,1.91,3.69,1
+2016,Apple , budget ,iOS,3G,no,no,2987,5.65,2,32,16,250,2.36,2.51,0
+2017,Nokia,Budget,Android,4G,Yes,No,2062,4.61,3,64,24,243,1.96,3.06,0
+2022,Apple ,Budget,iOS,4G,No,NO,3825,5.88,6,128,64,219,2.2,3.71,2
+2018,Vivo,Midrange,Android,4G,YES,No,3046,NA,6,128,48,240,1.43,3.42,1
+2020,NA,Budget, Android, 4g,no*,No,3589,5.07,8,128,32,226,2.45,4.0,1
+2021,Samsung , BUDGET,Android,4G,No,No,3026,5.9,6,128,48,260,2.33,3.62,2
+2023,motorola, Flagship ,Android,5G ,Yes,Yes,3929,6.67,12,256,48,260,3.06,6.28,3
+2022,Google,Flagship, Android,5G,No,Yes,4001,6.23,12,256,64,260,3.11,6.27,3
+2017,OnePlus,Budget,android,4G,Yes,No,2441,4.98,4,32,24,227,1.9,3.05,0
+2018,Samsung,Flagship,Android,4G,No,No ,3701,5.89,8,128,48,245,2.75,4.67,3
+2015,Google,Midrange,Android, 4G $,YES,No ,2510,4.2,4,64,32,237,1.84,2.89,1
+2021,OnePlus, FLAGSHIP$,Android,4G,Yes,no,4562,6.4,8,256,64,257,2.95,6.09,3
+2021,apple ,Budget,ios,5g,No,Yes,3452,5.65,6,128,48,224,2.28,4.1,2
+2017,oppo,Midrange,Android,4g,NO,No,2877,5.69,4,64,24,251,2.14,4.5,1
+2018,XIAOMI,Midrange,Android,4G,Yes,No,3417,5.82,8,128,32,242,2.31,3.58,2
+2018,Samsung, Midrange,ANDROID,4G,Yes,No,2997,5.42,6,128,32,253,2.15,3.72,2
+2016,Apple,Midrange,iOS,3G,NA,NO,3204,5.49,4,256,16,241,2.58,3.04,1
+2023,Oppo,Budget,Android,4G,Yes, No,3704,6.56,8,128,32,249,2.03,4.1,2
+2024, Oppo,MIDRANGE ,Android,5G,No,Yes,4004,6.63,12,128,64,255,2.41,5.26,3
+2019,XIAOMI$,Midrange,Android,4G,No,no,3596,5.7,8,128,32,260,2.24,4.28,2
+2018,Sony,Midrange,Android,4G,No,No,3069,5.63,6,128,32,260,2.34,4.13,2
+2016,OnePlus,Budget,ANDROID$,3G,Yes, No!,2838,5.01,2,128,8,232,1.94,2.33,0
+2018,Apple,Budget,IOS ,4G, no,No,3191,5.13,4,32,8,227,1.71,2.43,0
+2016,Google,Midrange,Android,3G , Yes ,No,2771,5.51,6,128,48,243,1.98,3.79,2
+2022,samsung ,Budget,Android,4G,Yes,NO ,2855,6.32,4,128,48,250,1.94,3.76,1
+2021,Google,Midrange,ANDROID,4G,Yes,No,3818,6.34,8,256,32,258,2.18,4.88,3
+2024,Apple,Budget,iOS ,5G, No,Yes,3568,6.13,8,64,48,241,2.29,3.91,2
+2023,SAMSUNG, MIDRANGE,Android,4G,Yes,No,3724,6.5,8,128,64,229,3.03,6.08,3
+2019,Huawei,Midrange,Android,4G,Yes,No,2976,5.36,6,128,24,243,2.66,4.74,1
+2016,Apple,buget,iOS,4G,No,No,2201,5.27,3,64,32,217,1.81,2.47,NA
+2017,OnePlus,Flagship,Android,4G,Yes,NO,3522,5.93,6,256,48,259,2.61,5.05,2
+2020,Apple,Flagship,IOS,4G$,No,No,3505,5.68,8,256,64,224,2.55,6.21,3
+2024,Nokia,Midrange,Android, 4g,Yes,No,4104,6.61,8,128,64,260,2.69,5.62,2
+2021, Sony #,Budget,Android,4G,Yes,No,3245,5.56,NA,64,48,239,1.89,3.46,1
+2016,Motorola,Midrange,Android,4G,Yes,No,3399,5.38,4,128,24,260,2.37,3.21,1
+2018,Xiaomi,Budget,Android,4G,NA,No,3029,5.15,3,128,32,236,1.8,2.59,1
+2024,Apple, budget$,iOS,4G,No,no,3207,6.37,8,128,64,228,2.1,4.35,1
+2024,Oppo,Budget,Android, 4g ,No,No,3577,6.13,8,64,64,238,2.19,5.29,3
+2016, Huawei ,Midrange,Android,3G,Yes,No,2936,5.27,2,256,12,222,2.16,3.71,2
+2023,OnePlus,Budget !,Android,4g ,No,No,3457,5.8,6,128,32,258,2.38,4.84,1
+2019,Oppo,flagship,Android,4G,No,NO ,2966,6.19,12,256,64,251,3.11,4.92,3
+2022,Noka ,Midrange,andoid *,4G,Yes,No,3727,6.01,8,256,64,244,2.51,4.63,3
+2023,Apple,Midrange,iOS,5G,No, Yes,3956,6.42,8,256,48,245,2.65,5.32,3
+2023,Motorola,Flagship, Android *,5G,No, Yes!,3935,6.26,12,256,64,260,3.11,6.67,3
+2019, Samsung,Budget,Android,4G,Yes,No,2906,5.14,4,128,48,223,1.99,2.09,2
+2016,Huawei,Budget,Android,4G,No,No,2250,4.79,2,64,16,250,2.09,2.99,0
+2021,Huawei,Buget ,HarmonyOS,4G,Yes,no,3368,5.65,4,128,32,193,2.66,2.95,1
+2021,Apple, flagship ,iOS,4G,No, no $,3624,6.97,8,256,64,235,3.0,4.94,3
+2022,Oppo, BUDGET,Android,4G,Yes,No,3558,5.74,6,64,24,247,2.04,3.9,1
+2016,Apple,budget!,iOS ,3G *,No,No,2516,4.99,2,32,16,215,2.19,1.65,0
+2023,Apple,Midrange,iOS,5G, No ,Yes,3418,6.62,12,256,64,259,2.96,5.16,3
+2016,Apple,Midrange, ios,3G ,No,No ,2875,5.39,6,128,32,258,1.83,3.81,0
+2016,Apple,Midrange,iOS,3G,No,No,2568,5.14,8,256,12,248,2.21,2.96,1
+2020, NOKIA, midrange ,Android,4G,No,No,3310,5.56,8,256,48,216,2.82,3.62,3
+2017,OnePlus,IDRANGE,Android,4G,Yes,No,3429,5.87,4,64,24,260,2.39,4.2,0
+2021,Apple,Budget,NA,4G, no ,NA,3746,5.66,6,128,48,210,1.98,4.08,1
+2019, xiaomi,Midrange,Android,4G,Yes,No,3647,5.76,4,128,32,226,2.16,3.95,1
+2017, google,Budget,android#,3G,Yes,NO,2659,5.32,6,128,12,239,1.85,3.24,1
+2018,Samsung,Budget,Android, 4g, No ,No,2691,4.92,4,128,32,240,2.1,2.77,1
+2020,Samsung,Midrange,Android,4G,Yes,No,3163,6.35,6,256,32,260,NA,4.14,2
+2024,Huawei,MIDRANGE*,ANDROID,4g ,No,No,2852,6.56,8,128,64,260,3.26,5.63,3
+2021, Sony,Midrange,android,4G,No,No,4842,5.55,6,128,48,258,2.24,5.11,2
+2017,Samsung, MIDRANGE ,Android,4G,Yes,No,3155,5.16,6,128,48,232,2.33,3.27,2
+2022,Samsung,Midrange,Androi ,5G,No,Yes,3619,6.43,8,128,48,221,2.3,5.08,2
+2017,Huawei, budget,Android,4G,YES,No,2808,4.73,2,64,24,238,1.88,2.6,0
+2018,OnePlus ,Flagship,Android,4G,Yes,No,3251,5.83,8,256,48,260,2.5,4.8,2
+2024,oppo,Flagship,Android, 5G,no,Yes,3610,6.38,12,256,108,260,2.92,7.51,3
+2021,GOOGLE,Flagship,Android,4g ,No, No ,3560,6.42,8,256,64,254,3.2,5.33,3
+2016,Motorola,Budget, ANDROID,3G,Yes,No,2569,5.17,2,64,16,214,1.57,2.3,0
+2018,Motorola,MIDRANGE ,Android,4g ,Yes,no ,2802,5.93,6,128,32,260,2.44,3.85,1
+2015,smsung!,Midrange, Adroid ,3G, Yes !,No,2725,5.13,3,128,32,244,2.44,3.0,1
+2021,Motorola,Midrange #,ANDROID ,4G,Yes,No,3840,5.55,6,256,64,241,2.48,5.15,3
+2023,Apple,Budget,iOS,5G,No,Yes,3926,5.53,6,32,48,220,2.43,4.85,2
+2023,Xiaomi,Flagship,Android,5G,No,YES,4126,6.95,8,512,64,260,2.8,5.91,3
+2023,Samsung,NA,ANDROID ,5G,No,YES ,4370,6.32,8,128,32,260,2.29,5.64,2
+2019, Xiaomi$,Midrange,Android,4G,Yes ,No,3552,5.88,6,256,24,244,2.55,3.63,2
+2017,Google,Budget,NA,3G,Yes,No,2865,5.26,3,64,16,239,1.63,3.03,0
+2020, Sony,Midrange,Android,4G,No,No,3594,5.83,6,128,32,253,2.53,4.62,2
+2021, ONEPLUS$,Budget,Android,4G,No,No,3389,5.4,6,64,32,258,2.18,3.56,1
+2018,Oppo,Budget,Android,4G,Yes,No,3475,5.63,4,128,24,219,1.76,2.97,0
+2024,sony!,midrange,Android,5G,Yes,YES,4718,6.53,8,256,48,260,2.76,4.02,3
+2015,Apple ,Budget, IOS #,3G,No,no,2308,4.14,2,128,8,223,1.32,1.97,0
+2022,samsung,FLAGSHIP ,Android,4G,No,No,3875,6.73,8,256,64,259,3.3,6.5,3
+2015,Vivo,Budget ,Android,4G,Yes,No,3075,5.04,2,32,24,221,1.24,2.07,0
+2016,Sony,Budget,Android,3G,Yes,No,2843,4.87,3,32,12,221,2.01,2.68,0
+2015,Xiaomi,Budget,Android,4G,Yes,No,1800,4.94,3,32,24,232,1.55,2.19,0
+2024,Xiaomi,Midrange,Android,5G,No,YES,4470,6.64,8,256,64,260,2.63,5.06,3
+2018,sony,Budget,Android,4G,No,No,3186,5.28,4,NA,24,199,1.96,2.86,1
+2020,Xiaomi,Budget,Android ,4G,Yes,NO,3668,5.33,4,64,16,218,2.34,3.74,1
+2016,Samsung,Budget,Android,3G,No,No,2372,5.32,4,32,24,223,1.62,1.6,0
+2024,Apple,Budget!,iOS,5G,No,Yes,3824,6.21,8,64,64,219,2.38,4.77,2
+2024,Sony,Midrange,Androi,5G,Yes,Yes,4168,NA,8,256,64,252,2.42,5.4,3
+2020,HUAWEI,budget !,HARMONYOS,5G,yes,Yes,2847,5.91,6,128,32,240,2.04,2.86,1
+2015,Xiaomi,Flagship,Android,4G,No,No,3752,5.45,6,128,48,249,2.53,3.24,2
+2021,appl,Midrange ,iOS,4G,NO#,No,2836,6.07,6,256,64,227,2.21,4.44,2
+2016,Samsung,Budget,Android,4G,Yes,No,2485,4.85,NA,64,24,213,1.85,1.85,0
+2023,Apple,Midrange ,iOS,4G,No ,No,4010,5.99,12,256,48,260,2.53,6.12,3
+2022,Apple,Budget,iOS,4G,No,No,3645,6.29,6,64,48,260,2.33,3.91,1
+2020,xiaomi ,Midrange,Android,4G,yes *,No,3536,6.22,6,128,48,249,2.09,4.85,2
+2016,Motorola,Midrange,Android ,4G,No,No,2556,4.86,3,128,24,235,1.62,3.04,1
+2016, vivo,Flagship,Android,3G,no *,No,3346,5.53,6,256,48,247,2.47,4.28,2
+2017,SONY!,Midrange,Android,3G,Yes,No,2921,5.99,6,128,24,228,2.03,3.83,1
+2015,Motorola,Midrange,Android,4g,Yes,No,2624,5.21,6,128,12,220,1.88,2.78,0
+2015,Vivo,Midrange,Android,3G ,yes, No,3086,5.13,6,128,32,230,1.86,3.41,1
+2020,oppo ,Midrange,Android ,4G,Yes,No,3191,5.85,6,256,24,236,2.1,4.34,2
+2021,Motorola,Budget,Android,4G,YES ,No,4253,6.02,6,128,32,222,1.99,3.13,2
+2023,Huawei,Midrange #,HARMONYOS ,4G,Yes,No,4135,6.77,8,256,64,260,2.23,4.76,3
+2019,google,Midrange,android,4G,no,No,3874,4.85,6,128,48,237,2.34,3.95,1
+2019,Google,Midrange,Android,4G,Yes,no ,3032,5.82,6,NA,48,260,2.1,3.9,3
+2024, Huaei*,Budget,Android,4G,No ,No,3580,6.08,6,128,48,246,2.3,4.45,1
+2019,Apple,Midrange, ios,4G, no ,No,3875,5.79,8,128,32,247,2.6,4.46,1
+2016,Samsung,Budget,Android, 4G,Yes, No ,2644,NA,3,64,8,237,1.46,2.21,0
+2017,Xiaomi,MIDRANGE ,Android,3G,NO, No,3307,5.93,6,128,24,256,2.08,4.33,1
+2023,Huawei,flagship, Android,5G,Yes ,Yes,4349,6.47,12,256,64,260,2.77,5.54,3
+2015,OnePlus,Flagship,Android,NA,No,No,3471,5.58,6,128,48,244,2.56,3.49,2
+2021, nokia,Buget,ndroid,4G, Yes ,No,3611,5.94,4,256,32,260,1.96,4.23,2
+2024, xiaomi,Midrange,Adroid$,4G,No,No,4394,6.59,12,128,64,244,2.66,5.6,2
+2021, vivo,Flagship,Android,4G,Yes, No #,3173,6.56,12,256,48,234,3.1,5.33,3
+2019,Vivo,midrnge,Android,4G,Yes!,No,3173,6.35,6,128,48,252,2.32,3.33,2
+2020,Apple, Budget,iOS,4G,No,No,3236,6.23,4,128,32,240,1.88,2.92,1
+2020,Google,Midrange,Android,4G,No,No,3170,5.71,8,128,32,224,2.34,4.92,2
+2018,Apple,Midrange,iOS,4G,No,No,3323,5.9,6,256,48,235,2.14,3.31,2
+2016, Motorola,Budge,Android,3G,No,No,2496,4.95,2,32,24,231,1.6,2.47,0
+2023,Samsung,Midrange,Android,4G!,Yes,No,3913,6.67,8,128,32,229,2.41,5.49,3
+2021,HUAWEI,BUDGET #,Android,4g,Yes,No,2995,5.94,4,128,48,232,1.77,3.36,2
+2021, Noia,Budget,Android,4G,No,No,3245,5.23,8,64,48,220,2.12,4.66,1
+2020,Samsung,Midrange,Android,4G,Yes,No,3388,6.45,8,128,32,260,2.62,3.77,2
+2015,APPLE ,Budget,iOS,4G#,no, no ,2324,5.43,3,32,8,222,1.67,1.69,0
+2022,Huawei,Flagship,Android,5G#,Yes,Yes,4114,5.87,12,256,64,260,2.82,6.42,3
+2018,Samsung, Midrange#, ANDROID!,4G,Yes,No,2713,5.73,6,256,32,214,2.4,4.83,2
+2019,Huawei,Budget,HarmonyOS,4G,Yes,NO,3026,5.3,4,128,32,257,2.43,4.02,1
+2019,Google,Budget,Android,4G,NO,No,2657,5.43,4,64,32,232,1.98,3.13,0
+2017,Xiaomi,Midrange,Android,4G, YES ,No,3473,5.46,4,256,48,242,2.51,4.22,1
+2018,Sony,Midrange ,Android, 4G ,Yes,No,3273,5.52,8,128,32,237,2.77,3.61,1
+2016,Google,MIDRANGE ,Android,3G $,No,No,3929,5.68,NA,64,16,239,1.99,3.5,0
+2019,Samsung,Midrange,Android,4G,Yes,no,3221,5.86,8,128,24,256,2.22,4.45,2
+2019,MOTORLA,Budget,Android,4G,no,NO ,3816,5.1,4,128,48,216,1.95,3.37,1
+2018,OPPO,Budget,Android,4G,yes ,No,2581,5.53,4,32,24,237,1.81,3.04,1
+2022,VIVO$,Midrange ,Android,5G,Yes,Yes,3978,6.11,8,128,48,243,2.26,5.95,2
+2015,Samsung,budget, Android #,4G,No,No ,1873,NA,2,128,16,211,1.99,2.31,0
+NA,Xiaomi,Midrange,Android,4G,No,No,3246,5.21,4,128,64,245,1.95,4.63,1
+2015,OnePlus, Budget,Android,3G,Yes,No,2197,4.24,3,NA,12,219,1.65,1.56,0
+2018,Apple,Midrange,IOS,4G,No,No,3830,5.46,6,128,24,242,2.27,3.94,2
+2019,Huawei,Budget,Android,4G,No,No,3431,5.22,4,256,32,254,1.6,2.91,1
+2015,Apple,Midrange,iOS,4G,No,No ,2143,4.95,3,128,24,238,2.13,3.03,0
+2024,Oppo,Budget,Android,4G,No,No,3461,5.9,8,64,48,239,2.38,5.08,2
+2015,Vivo,Budget,Android,4G ,No,No,2390,5.28,2,32,24,232,1.73,2.35,0
+2021,Motorola,Flagship, Android ,5G,Yes,Yes ,3548,6.65,8,256,64,260,2.9,5.99,3
+2017,Xiaomi,Midrange,ANDROID,4G ,Yes,No,3090,5.3,6,128,32,256,2.04,3.84,1
+2015,Motorola,Flagship,Android, 4G,No, NO,3312,5.59,8,256,32,258,2.28,3.89,2
+2022,Motorola,budget,Android,4G,Yes,No,3391,6.53,4,128,24,260,2.09,3.53,1
+2021,Nokia,Midrange,Android,4G, No ,No,3517,6.12,8,256,48,260,2.13,5.16,2
+2018,OnePlus, budget,ANDROID$,4g,No,NO,3352,5.18,4,64,24,233,1.2,2.63,0
+2022,Apple, Midrange , iOS ,4G,No,No *,3886,6.49,6,256,48,260,2.85,4.74,3
+2021,Sony, Budget,Android,4G,Yes ,No,3065,5.5,6,32,32,243,1.8,4.25,1
+2015,Xiaomi,Budget, Andrid,3G,Yes,No,2099,5.07,3,32,16,243,1.64,2.18,0
+2019,Xiaomi,Budget, android,4G,No,No,2979,5.86,6,64,48,260,2.09,2.59,1
+2024, nePlus,Budget,android ,5G, yes,Yes,3552,6.07,6,128,48,260,2.1,5.33,2
+2018,Motorola,Budget,Android,4G,Yes ,No ,2207,5.02,4,128,32,231,1.96,3.13,1
+2018,Vivo,Flagship,ANDROID,4G,No,No,3077,5.74,8,256,48,258,2.85,4.85,3
+2021,Xiaomi,Flagship,Android ,5G,No,Yes,3474,6.78,12,256,48,260,2.98,5.07,3
+2020,OPPO,Midrange,Android,4G, Yes,No,3486,5.66,4,128,48,244,2.39,4.56,1
+2022,Nokia,midrange,Android ,4G,yes ,No,3265,6.06,8,128,64,255,2.71,NA,2
+2020,Apple, flagship,iOS,4g ,No,No,3744,6.08,12,256,48,260,2.26,5.71,3
+2017,XIAOMI ,Budget,Android,3g ,No,No,2532,5.11,4,32,8,224,1.72,2.83,0
+2018,OnePlus, Budget,Android,4G,Yes#,No,2547,4.87,4,128,24,210,2.31,2.69,1
+2024,MOTOROLA,Midrange,Android,5G,Yes,Yes,3779,6.53,8,256,48,260,2.39,5.82,2
+2023,Sony,Flagship,Android,5G,Yes, Yes,4506,6.57,12,256,64,260,NA,7.31,3
+2023,OnePlus,Budget,Android,4G,Yes, NO ,3553,6.12,6,128,48,219,2.59,4.71,1
+2024,Xiaomi,Budget,Android,4G, yes,No,3234,5.81,8,128,48,237,2.21,4.85,2
+2020,OnePlus,Midrange,Android, 4g,Yes,No,3130,5.58,8,128,48,249,2.61,4.81,2
+2020,Samsung,Budget,Android #,4G,No,No,3782,5.84,6,128,48,260,1.88,3.76,1
+2018,Vivo,Budget,Android,4G ,Yes,no,2764,5.11,2,32,32,227,1.65,2.75,0
+2017,APPLE ,Budget,ios,4G,No,no,2346,5.58,6,128,32,232,1.57,2.83,1
+2020, ONEPLUS ,Flagship,ANDROID,5G,Yes,Yes,3665,6.1,8,256,48,259,2.65,5.5,3
+2024,Huawei,Midrange,HarmonyOS,4G ,Yes,No,3830,6.37,8,256,48,246,2.86,5.34,3
+2024, apple, BUDGET#,iOS,4G,No,No !,3748,5.85,6,256,48,244,2.15,4.82,2
+2022, SAMSUNG$,FLAGSHIP,Android,5G,no,Yes,4231,6.6,12,256,64,260,2.71,5.64,3
+2023,Nokia,Budget,Anroid,4G,Yes,No,3405,6.76,6,256,48,260,2.18,4.28,2
+2020,OnePlus,FLAGSHIP,Android,4G, No,No,3727,6.36,8,256,48,260,2.92,5.36,2
+2021,Huawei,Budget, Android*,4G ,No,No,2976,5.47,6,128,48,257,2.06,3.84,1
+2019,Oppo,mdrange,Android,4G,Yes ,No,3427,5.8,6,128,48,226,2.22,4.86,2
+2017,OnePlus,Budget,Android,4G,Yes,No,2838,5.08,4,64,16,219,1.33,3.17,0
+2019,NA,Budget,android ,4G,No,No,3654,5.47,6,128,24,227,1.96,3.61,0
+2021,Samsung,Flagship,Android,4G,Yes,No,4272,6.38,12,256,64,260,2.84,5.78,3
+2024,Oppo,Midrange,Android,4G,Yes,No,3605,6.23,8,256,64,260,2.82,5.59,3
+2020,Vivo,Budget,android,4G,Yes,No,2952,5.7,4,64,32,219,1.69,3.62,0
+2019,Motorola,Budget,android,4G,Yes,No,3388,5.43,4,32,12,222,1.81,3.14,0
+2024, Xiaomi!, MIDRANG $,Android , 4g,Yes,No,4591,6.46,8,128,NA,249,2.68,5.4,2
+2018,Xiaomi ,Midrange,Android, 4G,No, no,3254,5.72,2,128,32,240,2.18,3.32,0
+2018,Nokia, Midrange,Android*,4G,Yes,No,3171,5.82,6,256,NA,258,2.5,4.03,2
+2018,Apple,Budget*,iOS,4G, no,No,3160,5.03,3,32,24,207,2.06,2.68,0
+2022,Apple,Budget,ios,4G,No,No,3366,6.26,6,128,48,254,2.13,3.92,2
+2019,Huawei,Budget,Android,4G,YES,No,2154,5.34,3,64,24,234,1.82,2.68,0
+2017,Huawei,Budget,Android,4G,No ,No,2288,5.55,3,128,32,231,1.87,2.93,0
+2019,Samsung,Midrange,Android,4G,es #,NA,3206,5.64,4,256,48,260,2.48,4.04,1
+2018,Vivo, flagship , Android ,4G,No,No,4111,5.77,6,256,48,249,2.81,5.05,2
+2021,Motorola,budget,Android,4G,Yes,No,3570,5.28,8,64,48,240,2.15,2.81,1
+2022,Google,Budget, android,4G,Yes,No,3640,6.05,6,128,24,260,1.64,3.67,1
+2018, apple,Midrange, IOS,4G,No,No,3585,5.81,8,128,48,245,2.62,3.75,2
+2019,Samsung,Flagship,Android,4G,NA,no,3537,6.41,12,256,64,238,2.46,5.1,3
+2019,Samsung,MIDRANGE,android,4G,No,No $,4296,5.61,6,256,48,233,2.15,4.11,2
+2020,Motorola,Flagship, android*,5G, Yes, Yes,3979,6.29,8,256,64,260,2.9,5.91,3
+2018,OnePlus,Budget ,Android,4G,yes,No,2666,5.23,4,128,24,230,2.3,2.78,1
+2019,Apple,Budget,iOS,4G,NO,No,3187,5.03,6,128,48,219,2.29,2.61,1
+2021,Nokia,Midrange,Android,4G,Yes,No,3558,6.19,6,256,48,251,2.56,4.55,2
+2019,Sony,Budget,Android ,4g ,YES ,No,3284,5.79,4,32,32,252,1.62,3.56,0
+2019,Google*,Midrange,android, 4G,Yes,No,3657,5.32,6,128,48,217,1.84,3.99,1
+2017,Huawei,Midrange,HarmonyOS,4G,No,No,2919,5.87,NA,256,16,256,1.6,3.16,1
+2019,Nokia,FLAGSHIP ,Android,4G,Yes,No,3162,5.86,8,256,48,258,2.69,5.45,3
+2020,OnePlus,Midrange,Android,4G,Yes,No,3454,5.46,6,128,48,234,2.47,NA,2
+2021,Xiaomi,Budget,Android, 4g , NO ,No,3204,5.71,6,64,48,243,2.28,3.6,1
+2016,OnePlus,Budget,Android,4G,Yes,No,2329,5.36,4,32,8,232,1.71,2.03,0
+2016,OnePlus,Budget,Android,4G,Yes,NO,2714,4.98,2,32,12,226,1.45,3.04,0
+2016, XIAOMI!,Flagship,NDROID #,4G,yes ,No,3834,5.24,8,256,32,256,2.85,4.99,3
+2021, samsung,Budget,Android*,4G,Yes,No,3387,5.72,6,128,32,216,2.29,4.37,1
+2023,Nokia,Flagship, Android $,5G,Yes,Yes,4255,6.18,12,256,64,235,3.06,6.34,3
+2023, Oppo, Midrange $, android,5g$,Yes,YES,3909,6.66,12,256,48,260,2.78,5.3,3
+2018, google ,midrange, ANDROID, 4G ,Yes,No,3673,5.73,8,128,32,244,2.11,3.73,1
+2022,Samsung,Midrange,Android,4G,Yes,No,3113,5.97,6,256,48,239,2.35,5.36,3
+2018,Xiaomi,Flagship,android $,4G,Yes,No,3470,6.35,6,256,64,246,2.7,4.78,3
+2020,Xiaom,Budget,Android *,4G,Yes,No,2595,5.82,6,64,32,255,2.3,3.97,0
+2021,Nokia, Mdrange, ANDROID,5G,Yes,YES ,3367,6.02,8,256,48,236,2.64,5.06,3
+2023,Samsung,Midrange , android,4G,No,No,3752,6.74,8,256,64,260,2.54,5.25,3
+2024,Samsung,Budget,Android,5G,Yes,Yes ,2706,5.9,6,32,48,234,2.64,4.7,1
+2015, HUAWEI,MIDRANGE,Android,3G,yes,No,3706,5.23,3,128,24,215,2.1,2.91,1
+2017,Sony,Buget, android,3G,No#,No ,2689,5.32,4,64,24,249,1.8,2.12,0
+2023,Samsung,budget,Android,4G,Yes,NO,3968,5.71,8,128,32,240,1.93,3.59,2
+2023,Apple,Midrange#, ios,4G,No,No,3740,6.58,8,256,48,260,2.97,5.33,2
+2019,APPLE,Midrange,iOS,4G,No,No,3341,6.15,6,256,64,260,2.27,4.2,2
+2023,Apple,NA,iOS,4G,No,No,4510,6.93,8,256,64,260,3.6,7.11,3
+2021,ONEPLUS,Midrange, Android,4G,Yes,No,3365,6.24,8,128,48,257,2.25,5.06,2
+2018,SAMSUNG*,Midrage, ANDROID,4G,Yes,No,3508,5.2,6,128,48,238,2.64,4.48,2
+2015,Samsung, Midrange , androi ,3G, yes,No,NA,5.86,4,128,16,260,1.79,2.96,1
+2017,Apple,midrange,iOS,4G,No , No,2891,5.45,6,128,32,235,1.88,3.13,2
+2019,SONY,Midrange,Android, 4G,Yes,No,3940,5.71,8,256,32,247,2.2,4.39,2
+2021,Google,Midrange,Android,4g!,yes,No,3553,6.4,8,256,64,260,2.26,5.03,3
+2021,OPPO ,Budget,Android,4G,Yes!,No,3268,NA,4,128,32,260,2.57,4.46,1
+2017,Oppo,Midrange,Android,4G,No,No,2528,5.62,6,128,48,241,2.74,3.99,2
+2015, Xiaomi,Budget,Android,4G,Yes,No,2925,4.98,2,32,8,220,1.58,2.4,0
+2024,NA,Midrange,android,5G , No,Yes,4143,6.44,8,256,64,260,2.38,5.12,3
+2018,Xiaomi,Midrange,ADROID, 4G#,Yes,No,2050,5.32,8,256,32,245,2.21,3.41,2
+2017,Google,FLAGSHIP ,Android,3G,Yes,No,3520,6.19,8,256,48,257,2.46,4.91,3
+2018,Motorola, midrange ,Android,4G,Yes,No,3469,5.62,6,256,48,231,2.28,3.17,2
+2024,Xiaomi, BUDGET ,Android,4G,Yes,No,3858,6.05,8,128,48,244,2.68,5.37,2
+2016,Samsung,budget ,Android, 4G,No,No,2923,5.53,2,64,24,232,1.77,2.41,0
+2016,Nokia,Midrange,Android,3G, YES,No,2695,5.19,4,128,24,210,1.62,3.11,0
+2018,Vivo,Midrange,andoid,4G, YES,No,NA,5.53,8,256,32,207,2.56,NA,3
+2021,Motorola, midrange ,Android,4G,Yes,No,3934,5.76,4,128,48,232,2.75,5.07,2
+2024,Vivo,Midrange, Android ,5G,No,Yes,3608,6.21,12,256,64,254,2.94,5.94,3
+2016,MOTOROLA,Midrange, ANDROID, 3G, No,No ,2906,5.12,6,128,32,228,1.74,3.3,1
+2022, Oppo!,Midrange,Android, 4G , yes ,No,3976,6.16,6,256,48,252,2.91,4.53,2
+2021,Oppo,Midrange,Android,4G, Yes ,NO ,3551,5.94,6,256,NA,222,2.62,5.08,2
+2016,Motorola,Budget,Android,4G,Yes, no,3099,4.51,3,64,24,211,1.69,1.62,0
+2021,Xiaomi,Midrange,ANDROID!, 4G*, yes, NO,3493,5.85,6,256,64,238,2.31,5.41,2
+2022,VIVO,Midrange,adroid,4G,Yes,No,3734,5.61,8,256,48,245,2.41,4.59,3
+2015,Xiaomi,Budget,Android,4G,Yes , NO,2778,4.77,2,32,24,215,1.39,2.1,0
+2015,oppo *, Budget,Android,4G,yes,No,2262,4.42,2,32,8,209,1.5,2.3,0
+2019,OnePlus,Flagship,Android,4G,No,No,4052,5.63,8,256,48,228,2.61,5.84,3
+2018,Apple ,midrange !,iOS,4G,No,NO,3323,6.17,6,64,32,260,2.44,5.17,1
+2019,Oppo,Flagship,Android,4G,Yes,No,3286,5.79,12,256,48,259,2.87,5.2,3
+2024, Nokia ,Midrange,Android,5G,Yes,YES,4311,6.36,8,256,64,258,2.69,4.57,2
+2024, Oppo,Flagship, android,4G,NO#,NA,4064,7.18,12,256,64,260,2.43,7.86,3
+2022,Apple,Midrange,IOS!,5G,No,Yes,3370,6.21,6,128,64,229,2.27,5.37,3
+2017,Oppo,NA,Android,4G, Yes ,No,2944,5.03,6,64,24,217,2.37,3.12,1
+2018,Apple, Midrange, iOS ,4G,no, NO,3855,5.17,6,NA,48,229,2.24,3.18,2
+2018, Motorola ,Midrange,Android,4G,Yes,No,3297,5.37,6,256,64,226,1.75,3.65,2
+2020,Nokia,Budget,Android, 4G$,YES ,No!,3337,5.59,6,128,32,248,2.11,3.78,0
+2016, nokia,Midrange,Android,4G,Yes,No ,3636,5.77,6,128,12,257,2.46,3.28,1
+2023,Nokia,Budget,ndroid*,5G,Yes,Yes,3601,5.64,6,128,16,250,2.13,4.32,1
+2020,Vivo,Midrange,android,4G,YES ,No,3447,6.39,6,256,32,260,2.57,4.27,2
+2021,Xiaomi,Budget,Android,4G,Yes,No,2826,5.57,6,64,32,244,2.13,3.55,1
+2020,Samsung,BUDGET,Android,4G,Yes,No,2773,5.44,6,128,32,223,1.88,3.86,1
+2023,Apple,Midrange,iOS,5G,No ,Yes,3737,6.17,12,256,64,210,2.94,5.49,3
+2015,OnePlus,Flagship,Android, 4g,Yes, NO ,3721,5.53,4,256,48,220,2.18,3.85,2
+2023,Google,Flagship,Android,5G,Yes,Yes,4472,6.05,12,256,64,260,2.82,7.08,3
+2020,Xiaomi,Midrange,android,4G,Yes,No,3843,6.08,8,256,48,243,2.08,4.03,1
+2017,Samsung,Budget,Android,3g ,Yes,No,2717,5.15,3,64,32,242,1.94,2.65,0
+2019,Xiaomi,Budget, Android,4G,yes$,No,2903,5.41,6,64,32,222,1.95,2.82,1
+2015,Xiaomi,Flagship,Android,4G,yes,No,3721,5.22,NA,128,48,260,2.43,4.26,2
+2024,Vivo,budget,Android,4G,No, No $,3701,6.04,8,128,32,242,2.58,3.97,2
+2024,Google,Budget,Android,5G,Yes,Yes,4063,6.29,6,128,48,247,2.5,5.27,2
+2022,Sony ,Flagship,android,5G,No,YES ,3696,6.56,8,256,64,260,2.9,6.38,3
+2024,Huawei,Flagship, android#,5G,Yes,Yes,4624,7.15,12,256,64,260,3.24,7.29,3
+2015,Vivo,Midrange,android ,4G,Yes,No,2755,5.05,2,128,16,208,1.7,2.62,0
+2023,Xiaomi,Flagship,Android,5G,No,Yes,4265,6.81,12,NA,64,260,3.15,5.98,3
+2016,Vivo,Midrange,Android,4G,yes , NO #,3444,5.18,6,128,32,238,2.03,3.25,1
+2022, VIVO,Midrange, ANDROD,5G,No,Yes,2395,6.38,8,256,48,222,2.57,5.35,3
+2024,Nokia,Budget,Android,4G,No,No,3309,5.88,6,128,48,233,2.44,4.96,2
+2015,Apple,Midrange,iOS ,3G,No, No ,3159,5.35,2,128,32,237,1.96,3.25,1
+2022,Apple, midrange ,iOS,4G, no #,No,3709,6.14,12,256,48,251,2.46,4.97,3
+2024,Apple,Budget,iOS,4G ,No *,No,3692,5.96,8,128,48,242,2.33,5.21,2
+2024, oppo,Midrange,Android,4G,No,No,4045,6.39,8,128,32,260,2.47,6.0,2
+2021,Xiaomi ,MIDRANGE,Android,4G,No,No,3639,6.03,8,128,NA,246,2.54,4.67,3
+2018,Xiaomi*,Buget*,Android,4G,No,No,2905,5.3,3,32,24,209,2.1,3.13,0
+2015,Oppo,Budget,Android ,3G,Yes,no!,1914,4.73,3,32,8,260,1.92,2.43,0
+2015,Oppo,Flagship,Android,3G,Yes,No,3621,5.73,6,256,24,259,2.11,3.44,2
+2020,Xiaomi,Flagship,Android,4G,Yes,No,4062,6.22,6,256,48,260,3.5,5.3,3
+2015,Apple ,NA,ios,4G,No,No,2734,5.23,6,64,24,227,2.18,3.05,1
+2021,OnePlus,Midrange,Android,4G,No,No,3894,6.39,8,128,48,248,3.1,4.34,3
+2022,Apple,Flagship, ios,5G,No, Yes ,4423,6.17,8,256,64,260,2.9,6.07,3
+2019,Oppo,BUDGET,Android,4G,Yes,No,3172,5.33,3,32,12,245,1.7,3.1,0
+2019,Nokia,Budget,Android,4G,No,No,2704,4.93,4,32,12,253,1.2,2.88,0
+2023,Apple,BUDGET,iOS,4G,No,No,3115,6.15,8,64,48,253,2.41,4.43,2
+2022,XIAOMI,Budget,Android,4G, Yes,No,3212,5.7,6,64,32,227,1.95,4.12,1
+2022,Nokia,Budget,Android,4G,No,No,2897,5.58,6,256,32,229,2.01,4.63,2
+2016,Vivo,Budget,Android, 4G ,Yes,No,2614,5.26,2,128,24,226,1.41,3.22,0
+2019,Huawei, Budget,Android,4G,No,No,2697,5.27,6,128,24,214,2.07,3.9,1
+2024,Samsung,Midrange,Android,5G,No,Yes#,4330,6.58,8,256,48,260,2.72,5.14,3
+2016, SAMSUNG*,Flagship,Android,4G,Yes,no,3566,5.59,6,256,48,252,2.74,4.64,2
+2018,Google,Flagship,Android,4G,Yes , No,3312,6.2,12,256,48,260,2.57,5.15,3
+2015,vivo ,Budget,ANDROID ,4G,Yes,NA,2571,4.83,2,128,8,231,1.53,2.29,0
+2022,Vivo,Budget,Androi#,4G,Yes, no,4164,5.59,6,64,32,245,2.32,4.61,1
+2018, ppo#,Budget,Android,4G,yes,No,3137,5.19,4,32,32,239,2.13,2.62,0
+2022,OPPO,NA,Android,5G,Yes,YES ,3280,6.69,8,128,32,238,2.42,4.46,2
+2018,Xiaomi,Budget,Android,4G,Yes,NO,2620,5.09,3,64,12,234,2.02,2.92,0
+2021,Apple,MIDRANGE,iOS,4G,No,No,3462,6.4,8,256,48,260,2.63,4.9,3
+2021,Apple,BUDGET*,iOS,4G,No,No,3954,5.54,4,128,32,249,2.1,3.05,0
+2017,Samsung,Flagshp,Android,4G,YES,No,2966,NA,6,256,48,244,2.72,3.56,3
+2015,Apple,Flagship ,IOS,4G, No,No,3538,5.5,4,256,32,242,2.82,3.46,2
+2016,smsung,Midrange,Android,4G,Yes,No,3367,5.72,4,128,24,257,2.28,2.9,1
+2019,Samsung,Budget,Android,4G,No,No,3573,5.38,4,64,32,260,1.93,3.1,0
+2023,OPPO,budget,ANDROID,4G,Yes,No,NA,5.55,6,128,48,236,2.87,4.29,1
+2024,Vivo,Midrange,Android,5G,Yes,Yes,4071,6.92,8,256,64,238,2.65,5.22,3
+2021,Xiaomi,Midrange,Android, 4g ,Yes,no ,3504,6.19,8,64,32,252,2.76,4.43,1
+2020,Xiaomi,Midrange,Android,4G,Yes,No,3607,6.51,8,128,32,259,2.3,5.08,1
+2019,Xiaomi,Budget,Android,4G,No,No,2891,5.68,8,128,32,242,2.13,3.5,1
+2016,Apple,budget,iOS,4G,NA,No ,2920,4.84,4,64,8,217,1.27,2.98,0
+2017,OnePlus,Budget,Android,4G,yes ,No,3164,5.17,3,32,32,214,2.04,2.5,0
+2019,OnePlus,midrange,Android,4G,Yes,No,3124,5.44,4,128,24,219,2.82,4.54,1
+2020,OnePlus,BUDGET,ndroid,4G,Yes,No,3181,6.15,3,64,NA,250,1.95,3.28,0
+2023,Nokia,Midrange,Android,5G,No,Yes,4248,7.03,12,256,64,249,2.31,5.66,3
+2024,huawei,flagship $,Android, 5G ,Yes,Yes,4424,7.2,12,256,64,260,3.1,6.02,3
+2024,Huawei,Midrange,Android$,5G,No#,Yes,3384,6.37,8,256,64,224,3.05,5.57,3
+2021,Huawei,Midrange,Android,4G,No,No,3482,5.93,6,256,32,236,2.35,4.53,2
+2020,Vivo,Flagship,android,4G$,Yes,No,3782,6.05,8,256,48,247,2.66,5.24,2
+2023,GOOGLE $,Midrange,Android,5G,Yes,Yes,3934,6.35,12,256,64,252,2.72,6.13,3
+2024, Oppo ,BUDET,Android,4G,Yes,No,3858,6.82,6,256,48,260,2.61,4.67,2
+2023,Xiaomi,MIDRANGE,Android,4G,No,No,3524,6.4,8,256,48,235,2.95,5.48,2
+2018, apple ,Budget #,ios ,4G,no,No,2888,5.35,3,64,16,236,2.01,3.0,0
+2022,Huawei, budget,HarmonyOS,4G, No,NO,3006,5.7,6,128,48,214,2.07,3.83,1
+2022,Xiaomi,Budget ,Android,4G,No,No,3362,5.6,6,64,32,233,NA,4.39,1
+2016,SAMSUNG!, Flagship,Android,4G,YES,No,3596,5.76,6,256,48,238,2.12,4.35,2
+2023,Oppo,Midrange,Android,4G,YES,NO,3294,6.38,8,256,64,246,2.65,4.97,3
+2022,Oppo,Midrange, androd,5G, no,Yes,3870,5.93,6,256,64,254,2.24,5.3,2
+2017,Motorola,Budget,Android,4G,Yes,No,2601,4.82,2,64,16,217,1.84,2.04,0
+2018, xiaomi,Budget, Android $,4g,Yes,No,2611,5.77,3,128,32,233,1.78,3.38,0
+2018,Samsung,Midrange,Android,4G,no ,No,2956,5.43,6,128,48,234,2.17,4.12,1
+2016,Nokia,Midrange,Android,4G,No,No,3016,5.37,6,256,24,260,1.97,3.61,1
+2020,Samsung, FLAGSHIP,Android,4G,Yes,No,4133,6.39,12,256,64,260,2.87,5.44,3
+2024,Samsung,Flagship,Android,5G,No,Yes,3990,6.72,12,256,64,248,3.17,6.85,3
+2020,Huawei, MIDRANGE,Android,4G,Yes,No,3532,6.01,6,128,64,245,2.14,4.56,2
+2020,Samsung,Midrange,ANDROID ,4G,yes,no,3958,6.05,8,NA,32,260,2.04,4.92,2
+2018,OnePlus,Midrange,Android,4G,Yes,No,3300,5.89,8,256,24,260,1.82,3.6,1
+2016,Huawei, midrange ,Android,4G,YE !,No,2673,5.13,6,64,12,219,1.9,2.82,1
+2023, Google,Flagship,Android,5G,No, Yes,3958,6.63,12,256,48,246,2.61,6.43,3
+2022,Oppo,Budget$,ANDROID!,4G,Yes, no,3714,6.1,6,128,48,252,2.02,4.75,0
+2022,Huawei,midrange*,Android,4G,Yes,No,3076,6.05,6,128,64,219,2.61,4.78,3
+2016,nokia,Budget,Andoid ,3g,YES,No,2674,5.31,2,32,16,210,1.51,2.63,0
+2020,Sony,Flagship,Android,4G,Yes,No,3424,6.57,12,256,48,260,2.47,4.89,3
+2024,oneplus,Budget,android,4G,No,No,3373,5.99,8,128,64,231,2.07,4.2,2
+2019,Sony,Flagship ,Android,4G ,No,No ,3782,6.43,8,256,48,258,2.25,5.53,2
+2024,OnePlus,Flagship*,ANDROID,5G,No $,YES,4082,6.55,12,256,64,220,3.05,6.54,3
+2018,Xiaomi, Midrange,Android,4G,Yes,No,3707,5.63,6,128,32,260,2.06,4.06,2
+2021,Apple $,Budget,iOS,4G,No,No,3301,5.8,6,128,32,245,2.07,4.6,1
+2020,Samsung,Budget, Android,4G,NO *,No,2639,5.01,4,64,32,215,1.73,4.19,0
+2021,Motorola,Midrange,android , 4G,YES,No,3763,5.9,6,256,48,260,2.81,4.99,3
+2024,Samsung,MIDRANGE,Android,4G,Yes,No,4775,6.07,8,256,64,259,2.39,5.88,3
+2018,HUAWEI,MIDRANG, HarmonyOS ,4G,Yes,No,3348,5.73,6,128,32,242,2.55,4.45,1
+2023,Vivo ,Flagship,Android,5G,no ,Yes,4494,6.62,12,256,48,244,2.74,6.13,3
+NA,Samsung,Flagship,Android,4G,Yes,No,3340,5.13,6,256,NA,241,2.36,3.61,1
+2015,XIAOMI*,Midrange !,Android,3G!,Yes,No,2800,5.09,NA,64,24,240,1.8,3.01,1
+2018,Apple,midrange,iOS #,4G,No,No,3189,5.71,8,256,32,243,2.52,2.97,2
+2017,Samsung,Flagship,NA,4G ,Yes,No,3613,5.02,8,256,48,252,2.16,4.48,3
+2022,Samsung, FLAGSHIP *,Android,5G, Yes ,Yes,4353,6.52,8,256,64,260,2.86,5.37,3
+2017,sony,Budget,Android,4G, NO,No,2574,5.42,4,32,16,242,1.79,2.27,0
+2016,Motorola,Midrange,Android,4G ,Yes,No,3386,5.32,6,128,32,229,1.96,2.97,1
+2017,Samsung,Budget,Android,4G,Yes,No,3326,5.55,2,128,32,230,1.57,2.87,0
+2022, viv#,Budget,Android,4G,Yes,No,3328,5.73,8,128,32,248,1.59,4.16,1
+2017,Google,Budget, ANDROID,4G,No,No,2921,5.6,4,32,16,258,1.42,NA,0
+2018,Nokia,Budget,Android,4G, Yes ,No,2893,5.39,4,64,24,229,1.46,1.87,0
+2023,Samsung, Flagsip ,Android,5G,No, Yes#,4494,6.77,8,256,64,258,3.25,6.67,3
+2023,Samsung,Flagship,Android, 5G,No ,Yes,3780,6.67,12,256,64,260,3.0,5.82,3
+2020,Xiaomi,midrange,Android,4G,Yes,No,3135,5.64,8,256,48,235,2.36,4.18,2
+2022,Samsung,Flagship,Android,5G,Yes,Yes,4190,6.63,12,256,64,237,3.52,7.11,3
+2015,Apple,Budget,iOS,4g, No,no,2077,5.16,2,128,16,223,1.56,1.66,0
+2020,NOKIA!,Budget,Android,4G,No,NA,3299,5.58,6,64,24,221,2.3,3.18,0
+2019,Samsung,Midrange,Android,4g,Yes,No,3714,6.13,4,256,48,256,2.81,4.85,2
+2024,Samsung,BUDGET,Android, 5G,Yes,Yes,3771,6.44,8,128,64,258,2.32,5.49,3
+2017,Vivo,Budget,Android,4g,Yes,No,2783,5.47,3,32,24,226,2.45,2.65,0
+2016,Motorola,Budget,android,4G,No,No,3210,5.04,3,64,12,225,1.61,2.81,1
+2022,Nokia,Flagship,Android,5G,No,Yes,4673,6.28,8,256,48,253,3.09,5.52,3
+2024,Apple,Budget ,iOS,4G,No,No,3566,6.46,8,128,48,260,2.53,4.45,1
+2019,Apple,Midrange,ios,4G,No,NO,2849,5.63,6,128,24,245,1.89,3.64,2
+2024,hawei$,MIDRANGE ,harmonyos,4G,Yes,No,4027,6.5,12,256,64,243,2.43,6.39,3
+2018,OnePlus,Budget,Android,4G,Yes,No,2821,5.4,3,64,24,248,1.74,2.75,0
+2024,Sony,Midrange,Android,4G, NO,NO ,3611,6.58,8,256,64,243,2.99,6.53,3
+2015, xiaomi,Midrange,Android,3G,YES,No,2803,5.32,4,128,32,243,1.69,3.0,2
+2019,Vivo,Budget,Android,4g,Yes,No #,3333,6.01,4,64,24,229,1.62,4.99,0
+2018,Apple,Budget,iOS,4G,No,No,2987,5.97,3,32,24,232,1.81,3.27,1
+2023,SONY , budet,android*,4G,yes!,no,3863,6.27,6,128,32,233,2.52,4.38,1
+2019,Xiaomi,Midrange,Android, 4G!,Yes$,No,3853,5.59,6,256,48,253,2.11,4.34,2
+2016,Samsung ,Budget,Android, 3G,No,No,3465,5.23,2,64,16,260,1.97,1.96,0
+2015,Samsung,Midrange#,ANDROID ,4G, YES!,No,2900,5.49,4,128,24,260,2.46,3.14,1
+2019,Apple,Flagship, ios,4G,No, NO*,3825,6.14,8,256,64,260,3.15,5.05,2
+2016,Sony,Flagship,Android, 4G,YES,No,2142,5.79,6,128,48,255,2.42,4.09,1
+2019,Nokia,Budget,Android,4G, NO ,No,2909,5.61,4,64,48,248,2.28,3.28,1
+2022,Xiaomi,Midrange,Android,5G,No,YES ,3755,6.08,8,256,64,260,2.15,4.98,3
+2019,Oppo,Budget, ANDROID,4G,Yes,No,3393,4.9,4,128,32,219,1.71,3.66,1
+2015,Vivo,Midrange,Android,4G,Yes,No,3060,5.23,4,128,32,245,1.9,3.46,0
+2023,Samsung,Budget,Android,4G,No,No,3371,5.54,8,256,32,213,2.06,4.31,2
+2021,sony ,Budget!,Android,4G,No,No,2786,5.52,6,128,24,219,2.01,4.19,1
+2021,Nokia,Fagship,android #,5G,Yes,Yes,4152,6.34,8,256,48,NA,2.6,5.63,3
+2020,Google,Midrange,Android,4G,Yes,No,4035,5.87,6,256,48,259,2.4,5.36,2
+2020,Nokia,Budget,Android,4G ,Yes,No,3147,4.89,6,64,48,198,1.63,3.57,0
+2023,Motorola,BUDGET,Android,4g,Yes,No,3842,6.18,4,128,48,237,2.3,4.9,2
+2016, oneplus,Midrange,Android,4G,Yes,No,3083,5.67,6,128,16,249,1.86,2.83,2
+2016,Huawei,Budget,Android ,3G ,Yes,no,2615,5.33,2,32,16,252,1.99,1.57,0
+2023,samsung ,Midrange,Android,4G,No,No,3984,6.09,8,128,48,256,2.48,6.78,3
+2015,apple,Midrange,iOS,4G,No,No,2839,5.21,6,128,24,259,1.58,3.14,1
+2021,Xiaomi,Flagship,Android, 4g,No,No,3802,6.98,12,256,64,260,3.17,6.41,3
+2021,Samsung,Budget,Android,4G,No,No,3520,4.79,4,128,48,233,2.19,3.81,2
+2024,Samsung,Budget,Android,4G ,NO, No,3537,6.63,8,64,64,260,2.37,4.7,2
+2020,Vivo,Budget,Android,4G, no,No,3177,5.13,4,128,24,222,1.89,2.92,1
+2017,Xiaomi,Midrange,Android, 4G, Yes,No,2829,5.43,4,128,12,249,2.22,3.87,0
+2022,Motorola,Budget,Android ,4G,Yes,No#,3463,6.31,6,64,32,240,1.85,5.02,1
+2019,Xiaomi,Midrange,ANDROID , 4g ,Yes, no,3572,5.49,6,128,48,222,2.59,4.09,1
+2023,Samsung,budget,Android,5G,NA,Yes,3382,5.74,6,128,48,236,2.28,4.03,1
+2017,Motorola,Budget, Android#,4G,Yes,No,2251,5.08,3,32,32,228,1.67,2.05,0
+2020,Huawei,Midrange,Android,4G, no, No,2972,5.88,6,256,32,245,2.33,4.66,2
+2018,Sony, BUDGET#,Android,4G,Yes,No,2932,5.58,2,32,24,251,1.67,2.77,0
+2015,Nokia,MIDRANGE,Android,4G,No,No,2621,5.55,3,128,24,244,1.73,2.73,0
+2023,Xiaomi,Budget,android,5G,Yes, Yes ,3408,6.33,8,256,24,260,2.23,4.9,3
+2015,ONEPLUS,BUDGET$, ANDROID,4G,No,No,2438,4.41,2,128,16,223,1.69,2.45,0
+2019,OnePlus,Flagship,Android,4G,Yes,No,4251,6.35,8,256,48,260,3.25,4.45,3
+2018,Xiaomi,Midrange, ANDROID,4g , No,No,2933,5.88,6,128,48,249,2.71,3.6,2
+2017,Vivo,MIDRANGE,Android,3G,Yes,No,2825,5.56,3,64,32,230,2.34,3.46,0
+2024,Apple, FLAGSHIP!,iOS ,5G,No,Yes ,4044,6.5,12,NA,64,260,3.46,NA,3
+2020,Sony,Midrange,Android,4G,Yes,No,3567,6.34,8,128,32,260,2.54,4.43,2
+2024,Vivo,Budget,Android,4G, Yes *, NO ,3823,6.29,6,128,64,260,2.48,4.8,3
+2016,Xiaomi,Budget,ndroid,3g,Yes,No ,2876,4.78,3,32,8,229,1.66,2.57,0
+2024,Apple,Midrange,iOS,5G$,No,Yes ,3817,6.13,8,128,64,260,2.68,5.14,2
+2017,samsung,Budget,Android,3G,No,No,3124,5.23,6,32,8,222,2.04,2.59,0
+2022,Google,flagship,Android,5G,No, Yes,3769,6.39,12,256,64,253,3.03,5.63,3
+2023,Vivo,Flagship,ANDROID,4G,No ,No,3994,6.49,12,256,64,260,3.2,6.31,3
+2017,Vivo,Midrange,android, 3g !,Yes,No ,3025,5.89,6,128,24,254,1.77,4.4,1
+2019,Xiaomi,Midrange,Android,4G ,Yes,No,3743,5.38,6,128,24,239,1.83,3.48,1
+2021,OnePlus,Midrange,Android,4G,Yes,No,2963,5.95,6,256,48,241,2.37,4.98,3
+2015,Apple,MIDRANGE ,iOS, 4g,No,No,3125,4.54,3,128,16,221,1.93,3.64,1
+2021, Sony,Budget,Android,4G,Yes,No,3104,5.47,6,128,32,243,2.0,4.54,2
+2018,Huawei,Budget,HarmonyOS,4G,no,No,2563,4.82,2,32,8,221,1.68,2.66,0
+2021, oneplus, flagship, ANDROID,5G#, NO ,YES,4317,6.24,8,256,64,260,3.02,5.97,3
+2021,Samsung,Midrange,ANDROID,4G,Yes,No,3330,6.31,8,256,48,254,2.62,4.83,3
+2016,Google,NA,Android,4G,Yes,No#,3780,5.9,6,256,24,249,2.65,4.68,2
+2023,Nokia,Budget,Android,4G,Yes,No,3172,6.31,6,128,48,239,2.21,5.02,1
+2022,Apple,BUDGET,iOS,5G ,No ,Yes,3605,5.57,4,128,48,246,2.19,3.3,2
+2023,Google,Budget*,ANDROID ,5G,Yes,Yes,3858,5.92,6,128,24,227,2.03,3.85,0
+2023,Samsung,Midrange,Android,5G,Yes, YES$,4475,5.97,8,256,48,259,2.4,4.37,2
+2015,Apple,Midrange ,IOS,3G,No,No,3037,5.09,6,128,32,225,1.8,3.98,1
+2022,Apple,Budget, iOS ,4G,No,No,3471,6.07,6,128,32,213,2.14,4.72,2
+2023,Motorola,Midrange, Android,5G ,yes,Yes,3930,6.73,12,256,64,253,3.04,5.82,NA
+2019,Oppo,Midrange,Android,4G,no,No,3609,6.48,8,128,32,230,2.54,4.18,1
+2016,OnePlus,Flagship,android,4G,Yes,No,2818,5.88,6,256,16,251,2.46,4.13,1
+2015,OPPO ,Budget,Android, 3G,Yes,No,2491,4.82,2,32,8,205,1.78,1.83,0
+2016,Apple, Flagship,iOS,4g,No,No ,3519,5.46,4,256,16,249,2.52,4.65,1
+2018,Google,Flagship,Android,4G,Yes,No,3825,5.41,8,256,32,225,2.76,5.13,3
+2015,XIAOMI, Budget,Android,4G,Yes,No,2253,4.31,2,64,16,224,1.84,1.56,0
+2020,OnePlus,Midrange,Android,4G,yes, no#,3978,5.95,8,256,48,260,2.21,4.64,2
+2018,Sony,Budget,Android,4G,Yes,No,2698,5.67,6,128,24,206,1.27,2.93,0
+2024,vivo, MIDRANGE,Android,5G,Yes,Yes,3561,6.68,12,128,64,260,2.88,5.96,3
+2018,Oppo,Midrange,Android,4G,Yes,No,3228,5.39,8,128,48,242,2.19,3.9,2
+2024,Apple,Budget,iOS,5G,No,Yes,3267,6.55,8,128,48,228,2.48,5.08,2
+2017,Oppo,Midrange,Anroid,4G, YES,No,3105,5.7,8,128,16,244,2.11,3.42,2
+2017,Sony,BUDGET$,Android,3G,No,No,3031,5.19,6,64,8,253,1.54,1.93,0
+2020,Samsung,Midrange,Android,4G,Yes,No,3223,5.43,8,256,48,221,2.28,4.07,3
+2017,GOOGLE,Midrange,Android,4G ,Yes,No,3276,5.56,4,128,32,240,2.19,4.57,1
+2018,Nokia,budget,Android ,4G,No,No,3180,5.43,3,128,NA,225,2.04,2.87,1
+2018, xiaomi, Budget, Android, 4g,Yes,No,2770,4.86,4,32,32,216,1.64,3.44,0
+2022,Huawei,Flagship,HarmonyOS,5G,Yes,Yes,3918,6.81,8,256,64,260,3.03,6.08,3
+2021,OnePlus,Budget,Android,4G,No,No ,2772,5.7,4,64,64,225,2.08,3.75,1
+2019,Huawei,Budget,harmonyos,4G,Yes,no,2752,5.08,4,64,16,233,1.86,3.23,0
+2017,Xiaomi,Flagship,Android,4G,yes,No,2828,5.66,8,128,32,260,2.9,3.61,2
+2015,Motorola,Midrange, android!,4G,YES,No,2828,5.17,6,128,16,210,1.73,3.11,0
+2024,samsung!,Midrange,Android,4G,Yes, NO ,4696,6.79,8,256,48,260,2.64,5.0,3
+2016,Motorola,Midrange,Android,3G, YES,No ,3435,5.27,6,256,12,237,2.5,2.69,1
+2023,Apple,Midrange,iOS,5G, NO*,Yes ,4004,6.64,8,256,48,260,2.6,4.76,2
+2021, Xiaomi,Budget,Android, 4G,No,no,2929,5.57,6,128,32,210,2.13,4.33,1
+NA,NA,Midrange,Android,4G,Yes, No,3397,6.02,6,128,32,260,1.92,4.2,2
+2023,Xiaomi,Midrange,Android,4G ,Yes,No,4939,6.06,8,256,64,260,2.42,4.7,3
+2023,Samsung,Midrange,Android,4G,Yes,No ,3898,6.11,8,256,64,242,2.64,5.39,3
+2015,Samsung,Midrange,Android,4G,Yes,NO *,2766,5.34,6,32,32,230,1.97,2.72,1
+2023,oneplus,Midrange,Android,5G!,No,Yes,3737,6.48,12,128,48,258,2.64,5.27,3
+2020,Motorola,Budget,android,4G ,Yes,NO,3449,5.43,4,64,32,246,2.53,3.16,1
+2015,OnePlus,Flagship,android,3G,NO,No,2938,5.33,6,256,32,258,NA,4.02,2
+2024,SMSUNG$,Midrange,Android,4G,No,No,3983,6.51,8,256,64,260,3.17,6.24,3
+2020,Huawei,Budget,Android*, 4G ,no,No,2788,6.01,6,128,16,258,2.25,3.46,0
+2016,APPLE,Midrange,iOS,3G,No,No,2535,5.04,4,256,16,221,1.99,3.5,1
+2018,Huawei,BUDGET,Android, 4g ,No,NO,2967,5.27,3,128,32,229,1.86,3.38,0
+2019,Xiaomi,Flagship,Android,4G,Yes,No,3659,6.57,8,256,64,260,3.26,5.24,3
+2017,Samsung,Budget,Android, 4G,No,No,2640,4.83,2,64,8,238,1.71,2.18,0
+2016,Xiaomi,Midrange, android,4G , no,No,3075,5.24,3,128,32,240,1.94,2.75,0
+2021,OnePlus,Midrange,Android, 5G ,NA,Yes,3547,6.18,8,128,48,220,2.76,5.18,2
+2024,Vivo,Budget,Android,4G,Yes,No,3244,6.48,8,256,48,258,2.18,5.14,2
+2022,Apple, midrange,iOS,4g,No,No,4115,6.08,8,256,32,260,2.66,5.5,3
+2020,OPPO,Budget,Android,4G,Yes,No,3526,5.63,6,64,32,241,1.6,2.89,1
+2021, MOTOROLA ,budget, Andrid ,4G, No*,no#,3551,5.14,6,64,48,204,1.88,2.7,1
+2024,Apple,Budget,iOS,4G,No,No,4216,6.02,8,32,24,236,1.72,5.11,2
+2024,Samsung, Budget $,Android,5G,No,Yes,NA,5.78,8,32,64,239,2.36,4.58,2
+2020,Nokia,Midrange,Android, 4G,Yes,No,3480,6.48,6,128,24,244,2.62,4.01,1
+2016,Motorola,BUDGET*,ANDROID,3g,Yes,No,2100,5.12,3,32,16,227,1.4,2.83,0
+2017,Samsung,Budget, Android, 4G,Yes,No,2887,5.09,4,64,24,247,1.71,2.68,0
+2019,Samsung,Midrange,Android,4G,Yes,NO,3014,5.89,6,128,24,260,2.09,3.73,1
+2021,Apple,Midrange,iOS,4G, NO #,No,4002,5.78,6,256,48,251,2.43,4.53,2
+2023,Samsung, Budget,Android,5G,Yes,Yes,3611,6.24,6,64,32,240,2.13,4.35,1
+2022,Google,BUDGET,Android,4G,YES,No,3508,5.52,8,256,32,238,2.19,4.46,1
+2019,Vivo,Budget,Android,4G,Yes,No,3104,5.3,6,64,48,224,2.05,3.46,1
+2015,APPLE,Midrange, iOS ,4G*,No,No,3128,5.14,3,128,32,248,2.42,2.22,1
+2019,Oppo #,Midrange,Android, 4G,Yes,NO ,3720,5.27,4,128,48,245,2.07,3.9,0
+2024,Samsung,Budget,Android,5G,Yes, yes ,4299,5.9,4,128,32,255,2.53,4.4,2
+2022,Xiaomi#,Midrange,Android#,4G ,Yes,No,3685,6.02,8,256,48,260,2.8,5.31,3
+2022,XIAOMI ,Midrange,Android,4G,No,no,3552,6.12,12,256,48,260,2.51,5.75,3
+2024,VIVO,Budget, ANDROID,4G,no,No,4206,5.54,6,128,64,243,2.55,3.73,2
+2022,Apple,Midrange,ios,4g,No,No,3908,6.3,8,256,48,255,2.43,4.96,2
+2021,Nokia,Midrange, Android,4G,Yes, No,3710,5.98,6,128,48,260,2.33,5.15,2
+2021,HUAWEI,Midrange,NA,4G,Yes,No,4345,6.2,8,128,32,236,2.82,4.92,2
+2022,XIAOMI ,Midrange,Android,5G, NO,Yes,3279,5.88,6,256,64,260,2.48,5.41,3
+2016,Sony,Budget,Android ,3G,Yes,NO,2387,5.06,3,32,16,260,1.49,2.2,1
+2021,Oppo,Midrange,Android,4G,yes,No,3219,6.24,6,256,64,236,2.91,4.73,2
+2020,Google,Flagship !,Android,4G,Yes,No$,3679,6.71,12,256,64,251,2.92,5.07,3
+2024,Sony,Midrange,Android,5G,No, YES,4225,6.57,8,256,48,260,2.57,5.07,3
+2021,Oppo#,Flagship,Android,4G,Yes,No,3951,6.44,12,256,48,233,2.44,6.64,3
+2019,Xiaomi,Budget, ANDROID!,4G,Yes,no,2926,5.73,2,64,8,248,2.16,3.03,0
+2018,VIVO#,Budget,Android,4G,Yes, NO,3003,5.28,4,32,24,227,1.48,2.95,0
+2021,Apple, Budget,iOS,4G , No,No,2902,5.2,6,32,32,195,1.8,4.24,1
+2024,Apple,Flagship, IOS ,5G,No,Yes,4002,6.7,12,256,64,260,2.95,7.04,3
+2016, APPLE ,Midrange,iOS,4G,no ,No,2994,5.01,6,128,32,240,2.28,3.22,1
+2019,samsung,Midrange,android ,4G,Yes,No,3471,5.45,6,NA,32,231,2.39,3.67,1
+2023,Vivo,Budget,Android,4G,No,No,3386,6.02,8,128,48,255,2.27,3.93,2
+2017,Oppo ,Budget,Android,4g,Yes,NO,2126,4.44,4,64,16,242,2.02,2.99,0
+2018,oneplus,Budget,Android,4G,Yes,No,2912,5.03,3,64,12,249,1.85,3.05,0
+2021,Huawei,Midrange,HarmonyOS,4G,Yes*,No,3901,6.76,6,128,48,238,2.49,4.47,2
+2022,Oppo,Midrange,Android,4G,Yes,No,3433,6.47,8,256,48,260,2.41,5.22,2
+2021, Google ,Midrange!,Android,4G,No,No,3868,5.73,8,256,48,236,2.4,4.18,3
+2015,Oppo ,Midrange,ANDROID,4G,No,no ,3219,5.03,6,128,24,NA,2.16,2.67,0
+2015,Motorola,Flagship,Android,3G,Yes,No,NA,5.49,6,256,32,260,2.39,3.34,1
+2017,Huawei,BUDGET,HarmonyOS,4G ,Yes ,No,2866,5.19,3,128,8,238,1.31,2.6,0
+2015,ONEPLUS,Budget,android,4G,Yes,No,2880,4.44,4,64,16,234,2.28,2.29,0
+2021,Apple, Budget !,iOS,4G,no ,No,2802,5.73,6,64,48,240,2.05,2.99,1
+2018,okia ,Budget,Android,4g,Yes,No ,2474,5.26,4,64,32,229,2.19,2.21,0
+2021, Xiaomi,Midrange,Android #,4G,No,NO,3317,5.68,8,128,32,251,2.39,4.51,1
+2023,Motorola,Midrange,ANDROID,5G,No,yes ,3618,6.31,8,256,32,222,2.44,5.8,2
+2016, Motorola,Flagship,android ,4G,Yes,No,3490,5.14,8,256,48,243,2.7,3.45,3
+2017,Motorola,Budget,Android,4G,Yes,No,2805,5.15,4,32,24,260,1.2,2.36,0
+2017,Huawei,Flagship ,anroid $,4G,No,No,3871,4.95,8,256,48,222,2.68,4.5,3
+2018,Samsung,Flagship,Android,4G,Yes,No,4412,6.14,8,128,48,260,2.53,4.65,3
+2022,Xiaomi,Flagship,Android,5G,YES,Yes,4141,6.63,12,512,64,258,2.2,6.35,3
+2017,Oppo,Budget,Android,3G,Yes,No,NA,5.05,4,128,24,207,1.7,1.89,0
+2020, Sony,Midrange,Android,4G,No,No,3504,5.89,8,256,64,219,2.18,4.17,2
+2022,Xiaomi,Budget#,Android,4G,Yes,No,2711,6.18,6,128,48,241,1.81,3.61,2
+2018,Sony, Budget,Android,4G,No,NO,2963,5.26,4,128,8,204,1.9,NA,0
+2015,Apple,Budget,iOS,3G,No,No,1965,5.38,2,128,8,229,1.96,2.18,0
+2022,Samsung, midrange,Android,4G,Yes,No,3990,6.18,NA,256,64,253,3.04,4.84,3
+2023,Google,Midrange ,Android,4G, Yes*,No,3920,6.26,8,256,64,254,3.01,5.23,3
+2019,Nokia,MIDRANGE ,androi,4G,YES,No,3945,5.91,6,128,32,260,2.69,4.45,1
+2018,Samsung,Midrange,android,4g,Yes,NO ,3497,5.1,4,128,32,257,2.17,3.6,1
+2023,OnePlus,midrange ,ndroid ,4G,No,No,4359,6.04,8,256,32,225,2.22,6.1,2
+2022,Nokia,Budget,Android,5G,YES ,Yes,2821,5.4,6,128,32,232,2.19,4.6,2
+2021,oneplus ,Midrange,Android,4G,Yes,no,3416,6.41,8,256,64,248,2.36,4.95,3
+2022,APPLE,flagshp,iOS,5G,No,Yes,4382,6.4,8,256,64,236,3.22,5.77,3
+2024, Vivo,Midrange,Android,4G,Yes,No,3907,6.2,8,128,64,256,2.57,5.11,2
+2022,Google,Budget,Android, 4g!,No,No,3450,5.82,6,128,32,195,2.52,3.92,2
+2018,Xiaomi,Midrange,ANDROI#,4G,yes ,NO,3587,5.33,4,256,32,241,2.54,3.96,2
+2022,OnePlus,Budget,Android,4G,No,No,2909,6.35,6,128,48,254,2.51,3.6,1
+2016,Samsung,Budget,Android,4G,No,No,2693,5.22,3,64,8,226,1.2,2.34,0
+2021, MOTOROLA,Midrange,android,5G,Yes,Yes,3888,5.84,8,256,32,255,2.16,5.26,3
+2016,Xiaomi,Budget,Android,3G,No,No,3187,5.46,2,64,8,232,2.24,2.12,0
+2023,Apple,Flagship,iOS,5G, No ,Yes,4248,6.22,12,512,64,248,2.44,5.52,3
+2018,Google,FLAGSHIP,ANDROID,4G,No,No,4194,5.8,8,256,48,260,2.53,4.83,3
+2015,Xiaomi,Budget,Android,4G,Yes,No ,2665,4.74,4,32,24,231,1.79,1.0,0
+2015,Sony ,Budget *,Android, 3G, yes, No #,2276,5.01,2,32,24,243,1.47,2.16,0
+2017,samsung$,Midrange,Android, 4G , Yes ,No,3048,5.2,4,128,48,237,2.25,3.61,1
+2020,Xiaomi,NA,Android,4G,yes,No,4062,5.95,8,256,32,236,2.91,4.96,3
+2019,Apple,Midrange,iOS,4G,No,NA,3463,5.56,6,128,24,228,2.6,3.82,2
+2021,OnePlus,BUDGET, Android,4G,No,No ,2816,5.88,4,128,24,238,1.66,2.81,1
+2022,Apple,Midrange,iOS,5g,No,yes ,4295,6.08,6,256,64,260,2.45,4.55,2
+2015,Google,Budget,Android,4G,Yes,no,2829,5.16,2,32,16,238,1.41,1.53,0
+2023,Vivo,Midrange,ANDROID,5G , yes,Yes,3727,5.74,8,256,48,229,2.92,4.67,2
+2023,Samsung,Midrange,Android, 5g,yes ,Yes,4179,5.78,8,128,64,260,2.48,6.93,2
+2024,Vivo, MIDRANGE ,Android,4G,Yes,No,3118,6.66,8,128,48,260,3.08,5.81,3
+2024,Samsung,Midrange,Android,4g, yes#,No,4042,6.67,12,256,64,248,3.23,6.51,3
+2024,Vivo,MIDRANGE,Android $,5G,Yes,Yes,3794,7.03,8,256,48,259,2.42,5.12,3
+2016,Xiaomi,Budget,ANDROID #,3G,Yes,No,2179,5.09,6,32,12,210,1.54,2.39,0
+2018, samsung,Budget,Android,4G,No,No,2886,5.06,6,64,32,245,1.42,3.32,0
+2022,Vivo,Midrange$, android,4G,Yes,No,3934,6.25,8,128,64,260,2.82,4.6,1
+2023,Samsung, Midrange, android,5G,Yes,Yes,3890,6.63,8,256,64,260,2.49,4.94,3
+2015,Samsung,mdrange,Android,4G,Yes,No,3454,5.37,3,128,12,239,2.29,2.93,0
+2021,Vivo, Midrange,Android,4G,Yes,No,3270,5.89,8,256,64,260,2.75,5.38,3
+2017,Oppo,Budget,Android, 4G ,Yes,No,2383,5.46,4,64,12,237,2.26,3.01,0
+2020,Oppo, BUDGET ,Android,4G,No,No,3479,5.42,4,NA,32,222,2.22,2.91,0
+2019,Nokia,MIDRANG#, Android ,4G,Yes,No,2783,5.62,6,256,24,245,1.83,2.19,3
+2017,OnePlus,Midrange,Android,4G, Yes,No,3269,5.49,4,128,32,254,2.19,3.97,0
+2020,google ,Midrange,android,4G!,No, No,3437,5.53,8,128,48,239,2.46,3.94,2
+2016,Google,Midrange,Android,4G,Yes, No,2903,5.52,6,64,48,200,2.55,3.69,0
+2022,Samsung, midrage #,Android,4G,Yes,No,4565,5.79,8,256,48,241,2.54,4.57,3
+2022,Huawei,Budget,Android,4G,YES,No,3703,6.34,8,128,48,238,2.03,4.53,2
+2024,Oppo,Midrange,Android,4G,No,No,4406,6.17,8,128,64,243,3.05,6.24,2
+NA,ONEPLUS,Budget,ANDROID,4G,Yes,no,3365,5.53,6,128,32,246,2.48,3.01,0
+2019,Google,Budget, android,4G,yes ,No,3446,5.61,4,128,8,245,2.1,2.79,1
+2015, APPLE ,Midrage,iOS,4G,No,No,2653,5.13,4,128,24,217,1.9,3.3,0
+2020,Motorola,Budget,Android,4g,Yes$,No,3272,5.26,6,128,16,256,1.7,4.55,2
+2023,Apple,Midrange,iOS,4G,no!, no,3922,6.5,8,256,64,260,2.97,5.14,3
+2024,Vivo,Midrange ,Android,5G,Yes,Yes,4154,6.72,12,256,64,257,2.76,5.82,3
+2019, apple ,Budget,ios ,4G,No,No,2890,4.75,4,128,16,229,1.62,2.87,0
+2018,Apple,Midrange,iOS,4G,No,No,3319,5.16,8,64,48,230,2.12,3.65,NA
+2024,Huawei,Budget,HarmonyOS,4G,No,No,3012,6.77,8,128,64,260,1.91,4.55,2
+2020,SONY,MIDRANGE*,Android,5G,YES,Yes ,3681,5.62,6,256,48,252,2.63,4.31,3
+2016,OnePlus,Midrange, Android,4G,Yes,No,3168,5.63,4,128,8,220,2.22,4.1,0
+2016,Samsung,MIDRANE#,android!,3G, YES,NO,2622,5.08,4,128,32,230,1.97,3.29,0
+2019,Samsung,Flagship,Android,4G ,No,No,4331,5.47,6,256,64,NA,2.44,4.97,NA
+2015,Motorola,Midrange,Android,4G,YES, No ,2390,4.88,4,NA,16,230,2.02,3.26,0
+2020,OPPO,Budget,Android, 4G,No,no,3400,5.59,6,64,32,206,2.11,3.75,1
+2023,Oppo,Budet,Android, 5G , YES ,Yes ,3989,5.93,8,128,48,259,2.36,4.14,2
+2016,NA,Flagship,iOS,3G,No,No,3860,5.51,6,256,24,220,2.94,5.07,3
+2015,Apple,Budget,iOS,3G,No,No,2278,4.7,3,64,12,232,1.75,1.62,0
+2019,Google,MIDRANGE,Android, 4g$,Yes $,No,3315,6.43,4,128,48,260,2.46,3.83,2
+2022,Vivo,Budget,Android,4G,No,No,3025,5.78,8,64,32,259,2.06,3.96,2
+2020,Huawei,Midrange,Android,4G,Yes,No,4686,5.71,8,256,32,238,2.18,4.6,2
+2020,Google,Midrange,ANDROID,4G, Yes,no,4125,6.25,8,64,48,260,2.76,4.36,2
+2022,OnePlus,Midrange,Android,5G,No,Yes,3201,6.25,8,256,48,258,2.49,4.8,3
+2021,VIVO,Midrange, ANDROID,4G,Yes,No,3868,6.52,8,128,48,260,3.02,4.66,2
+2022,Apple,Midrange,iOS,5G,no, Yes,4093,5.75,6,256,64,240,2.57,5.54,3
+2017,Google,Midrange,Android,3G,No,No,3105,5.3,6,256,48,253,2.1,3.73,3
+2023,huawei ,Midrange,Android,4g ,YES,No,4324,6.48,6,128,48,234,2.27,5.43,3
+2023,oneplus,Midrange,Android,5g,Yes,Yes,3487,6.06,8,256,64,232,3.07,4.99,3
+2023, Samsun!,Flagship,Android,5G , YES , YES,4574,6.75,12,512,64,260,3.04,6.88,3
+2022,Google,Budget,Android,4g,No,No,3738,5.75,6,128,32,225,2.1,3.37,1
+2022,Google,budget ,Android,4G,Yes,no,3301,5.68,6,64,32,215,2.41,4.54,1
+2018,OnePlus,Budget ,Android,4G, yes ,NO,2714,5.1,4,64,16,226,2.0,2.1,0
+2024,Apple,Budget,iOS,4G ,No,No,3826,6.01,8,32,48,251,2.51,4.29,2
+2021,Vivo,Budget,NDROID ,4G ,Yes,No,3053,5.53,4,128,32,254,2.06,4.24,1
+2023, Oppo,Midrange,Android,4G,Yes,No,3639,6.59,8,128,64,246,2.76,4.81,2
+2020,motorola ,Midrange,Android, 4G,No,No,2928,5.75,8,256,64,230,2.54,4.73,3
+2016,Sony,Budget,Android,4G,No,No,2470,5.3,2,NA,8,258,1.65,2.28,0
+2019,Google,budget, ANDROID,4G,NO,No,3405,5.1,4,64,24,235,1.63,2.71,0
+2018,Apple,Budget,iOS,4G,No,No,1800,5.65,2,64,12,239,2.0,2.46,0
+2017,Xiaomi,Flagship, Android ,3G,No,No,2799,6.19,6,256,48,249,2.3,4.38,2
+2015,Oppo, Mirange ,Android ,3G,Yes,No,2793,5.98,2,128,32,260,2.35,3.27,1
+2020,Xiaomi,Midrange,Android,4G, YES,NO,3463,5.71,8,128,48,239,2.44,4.67,2
+2020,Oppo,Budget,android ,4G, Yes,No,3490,5.65,6,128,32,238,2.22,3.8,1
+2022,MOTOROLA$,Flagship,Android,4G,No,No,3934,6.97,12,512,64,260,3.38,6.85,3
+2018,Vivo,Midrange,Android,4G,Yes,No,3066,5.74,4,128,16,260,2.13,4.54,1
+2024,Xiaomi, Midrange,Android, 5g,yes,yes,4011,6.41,12,128,64,260,2.53,NA,3
+2018,Samsung,Flagship,Android,4G,Yes,No,3050,6.36,NA,128,48,260,2.55,4.52,2
+2023,Samsung,Midrange,Android,4G,No,No,4533,6.84,8,256,48,260,2.74,5.46,3
+2020,Google!,Midrange,Android,4G,yes,No,3178,6.15,6,128,32,244,2.28,4.68,2
+2020,Huawei,Budget, Anroid*,4G,yes, No,3275,5.63,4,128,16,244,2.02,3.04,0
+2016,Sony,Midrange,ANDROID ,4G,Yes,No,3555,5.22,6,128,12,227,2.39,3.65,1
+2023,Vivo,Midrange,Android*,5g,No ,Yes,3839,6.55,8,256,48,260,2.43,5.44,3
+2022,Huawei,Midrange,HarmonyOS ,NA, No,YES,3636,6.3,6,256,48,221,2.34,4.82,2
+2016,Motorola, Budget,Android ,4G, YES ,No,2652,4.93,3,32,8,234,1.89,2.82,0
+2024,SAMSUNG,Flagship,Android, 5g,No ,Yes,4511,6.47,12,256,64,248,3.09,6.92,3
+2016,Sony,Budget,Android,3G,Yes,No,2190,4.99,6,32,8,215,1.84,1.39,0
+2018,Xiaomi,Midrange,Android,4G,no ,no ,4034,5.56,6,256,32,257,2.42,3.72,2
+2016,Sony,Flagship,ANDROID, 4G*,Yes,No,3143,5.56,6,256,48,226,2.24,4.35,2
+2024,Oppo,Midrange,Android,5G,No,Yes,3969,6.1,8,256,48,248,2.27,6.67,3
+2018,Xiaomi,Midrange, ANDROID ,4G,Yes,no#,4391,5.07,4,128,32,224,2.23,4.56,2
+2022, Google ,Budget,android ,4G ,Yes,No,3266,6.4,6,128,48,260,1.98,3.9,2
+2018,Xiaomi,Budget,Android,4G,Yes,No,3004,5.27,2,64,24,249,1.92,3.03,0
+2018,huawei,Flagship,Android,4G,Yes,No,NA,5.72,8,256,48,244,2.9,4.57,3
+2024,Samsung,Midrange,Android, 4G*,Yes,No,3404,6.79,8,256,64,236,2.73,6.04,2
+2023,Apple,Midrange,iOS,5G,No,Yes,3607,6.0,8,256,48,244,2.35,5.59,2
+NA,Xiaomi,NA,Android,4G, no,No,3346,5.71,6,128,32,230,2.4,3.52,1
+2017,Samsung,Flagship,Android, 4g,Yes,No,3318,5.9,8,256,48,260,2.77,4.67,3
+2015,Apple ,Midrange,iOS,3G,No,NO,3073,4.43,6,128,NA,227,1.89,2.98,1
+2015,Xiaomi,Midrange,Android,3G,Yes,No,3289,5.08,4,128,24,256,1.82,2.88,1
+2022,Apple,Budget, IOS !,4G,No,No,3434,5.69,4,128,48,227,2.27,3.14,1
+2022,Samsung,Midrange,Anroid,5G,Yes,Yes,3958,6.16,8,256,48,228,2.26,4.51,3
+2015,Motorola,MIDRAGE,Android,3G,Yes,No,2437,4.96,6,128,16,234,2.14,3.4,0
+2017,Oppo,Midrange #,Android,4G#, yes,NO ,3062,5.63,6,128,32,226,2.18,3.43,1
+2015,OnePlus,Budget,Android,4G,No,NO ,2292,4.72,4,32,16,218,1.2,2.92,0
+2017,Huawei,Midrange,Android,3G,Yes,No ,3540,5.37,6,128,32,258,2.34,3.14,1
+2020,Xiaomi,Midrange,Android,4G *,Yes,No,3812,6.04,8,128,48,260,2.25,4.37,1
+2016,Google,budget,Android,4G ,Yes,No,2695,4.79,2,32,8,184,1.54,2.73,0
+2023,Xiaomi,Midrange,Andoid,4G,Yes,No,3462,5.99,8,256,48,228,2.94,4.91,3
+2015,Google,Midrange,Android,3G,yes,No,2834,4.92,4,128,16,206,2.25,3.44,1
+2018,OnePlus,Midrange,Android, 4G,No, NO ,2987,6.0,6,64,32,244,2.6,4.01,2
+2019,Samsung,budget!,Android,4G,Yes,No*,NA,5.66,4,64,24,228,1.94,3.41,0
+2024,Xiaomi,Flagship,Android, 5G,Yes,Yes,4416,6.61,12,256,64,242,2.99,6.51,3
+2017,Oppo,Midrange,Android,3G,No,No#,3353,5.21,4,128,32,242,1.75,4.0,1
+2015,OnePlus, Flagship,Android,3G, YES,No,3592,6.03,6,128,32,248,2.61,4.28,2
+2016,Xiaomi,Budget,Android,3G,Yes#,No ,2794,4.85,2,32,12,237,1.67,1.0,0
+2022,Xiaomi, BUDGET,Android,4G,No,No,3177,NA,6,64,24,236,2.3,4.37,1
+2022,OnePlus,Midrange,andoid$,4g,Yes,No,3568,6.72,8,128,48,236,2.77,4.83,2
+2019,motorola $,Midrange,ANDOID,4G,Yes,No,3417,6.14,8,128,48,260,1.88,4.34,1
+2016,Motorola,Budget,Android,4G,Yes,No,2277,4.98,4,32,8,216,1.76,2.44,0
+2022,Xiaomi,Midrange,Android,4G,Yes,No,3810,6.35,8,128,48,260,2.31,5.19,2
+2017,Oppo,Budget,android,4G,Yes,no ,2344,5.56,4,32,16,NA,1.2,3.27,0
+2018,oppo*,Budget,Android,4G,Yes,No,2741,5.18,2,32,8,215,1.9,4.15,0
+2022,Sony,Budget,Android,5G,Yes,Yes ,3415,5.48,8,64,32,260,2.27,3.47,2
+2019,Vivo,Budget,ANDRID ,4G,yes , NO ,3466,5.33,6,32,8,230,2.08,3.2,0
+2024,Oppo,Budget,Android,5G,No,Yes ,3477,5.95,6,128,64,243,1.97,4.23,3
+2016,Apple,Budget, iOS, 3G!,No,No,2424,4.63,4,64,16,229,1.77,1.37,0
+2023,Sony,Budget,androi,4G,Yes *,No,2990,5.71,8,64,48,218,2.15,4.79,2
+2015,Samsung,Budget,android,4G,No,No,2770,5.03,4,32,12,231,1.47,1.1,0
+2020,Apple, Budget,iOS,4G, no,No,2901,5.63,4,128,32,233,2.13,3.76,1
+2023,Apple,Midrange,iOS,5G,No,Yes,3449,6.91,8,256,64,255,2.77,5.08,3
+2024, okia, BUDGET,Android,4G,No,No,3533,6.45,8,128,24,251,2.04,5.03,2
+2017,Xiaomi, Budget ,Android,4G,Yes,No,2866,4.98,3,64,8,198,NA,2.6,0
+2022,Samsung, MIDRANGE,Android,4G , YES,No *,3114,5.89,8,256,32,240,2.1,4.84,2
+2018,Xiaomi, Budget,Android,4g, yes,No,2650,5.68,6,128,24,257,1.9,3.0,2
+2015,APPLE,Midrange,iOS,4G,No,No,3041,4.86,6,64,24,236,1.64,2.86,1
+2016,Xiaomi,Midrange,Android,4G,YES,No,2632,5.23,4,128,24,256,1.91,4.08,0
+2022,Oppo,Budget,Android,4G,Yes,No,3491,6.01,6,64,32,249,1.92,4.21,1
+2023,Sony,Budget,Android,5G,No, Yes,3120,5.96,6,128,24,222,2.23,4.31,1
+2016,Vivo,Budget, android,4G,no,No,2149,5.19,3,32,16,238,1.28,2.3,1
+2022,Xiaomi,MIDRANGE ,Android,4G,Yes ,No ,3844,5.88,8,256,48,212,2.71,5.12,3
+2021,Huawei ,Midrange,Android,4G,Yes,No,NA,6.34,8,256,48,260,2.5,5.51,3
+2021,Motorola,Budget,ANDROD,4G,Yes, No,3266,5.76,4,32,32,234,2.05,3.81,1
+2018,Apple,BUDGET ,iOS,4G,No,No,2599,5.02,2,128,24,230,1.6,3.62,0
+2023,Xiaomi,Budget,Android,4G,No,No,3603,6.17,8,64,64,259,2.55,3.8,2
+2017,Google,Midrange,Android,3G,NA,No,3409,5.08,4,128,24,234,2.14,3.46,1
+2020,Xiaomi,Midrange,Android,4G,Yes,No,2831,6.09,6,128,48,225,2.64,4.8,2
+2022,Nokia,Midrange,Android,4G,Yes$,No,3646,6.5,6,128,32,239,2.87,4.47,2
+2020,Xiaomi,Midrange ,Android,4G,Yes,no ,3313,5.79,6,256,48,259,2.27,4.28,2
+2022, ONEPLUS , Midrange,Android,4G,Yes,No,3917,6.65,8,128,48,260,2.78,4.8,2
+2019,samsung ,Budget,Android,4G,Yes,No,2863,5.2,6,64,16,218,1.98,2.3,1
+2016,Xiaomi,Budget,Andoid,3G,No,No,2176,4.61,2,32,8,229,2.06,2.55,0
+2024, MOTOROLA#,Flagship,Android,5G,Yes,Yes,4730,6.75,12,256,64,253,3.39,6.82,3
+2015,SAMSUNG,Flagship,Android ,4G ,Yes,no,3961,4.72,6,128,32,259,2.92,4.01,2
+2018,Apple,Flagship,iOS,4g,No,no ,3389,6.05,8,256,32,227,2.52,4.86,3
+2022,OnePlus,Midrange,Android,5G,No,Yes,3806,6.49,6,256,48,260,2.86,4.81,2
+2022,XIAOMI, Budget ,Android,4G,No,No*,3910,6.0,8,64,24,219,1.68,4.6,1
+2020,Apple,FLAGSHIP ,iOS,5G,No,Yes,4115,6.34,12,512,48,260,2.8,4.92,3
+2017,Xiaomi,Midrange,Android,3G,NO*,No,3571,NA,8,256,48,243,2.13,3.2,2
+2016,apple, midrange ,iOS,4G ,No,No,2980,5.5,4,128,32,NA,2.17,3.79,1
+2017,Vivo,Budget, Android ,3G,yes ,No,2988,5.1,3,64,24,240,1.95,3.11,0
+2021,Nokia,Budget,Android,4G,no ,No,3502,5.29,6,128,32,225,2.25,3.88,0
+2024,OnePlus,Midrange,Android,4G,No,No,4266,6.58,12,256,64,260,2.37,6.6,3
+2022,Xiaomi,Midrange,NA,4G,No,No,3857,6.71,8,256,32,260,2.22,5.36,1
+2017,Nokia,Midrange,Android,4G,Yes,No,3831,5.83,6,128,32,247,1.68,3.27,1
+2017,Samsung ,Budget,Android,4G,Yes, No,2780,5.36,4,64,12,238,2.25,3.07,0
+2023, Motorola,Budget, Androd#,4G,No,No,3245,6.04,8,64,48,260,1.96,4.36,2
+2019,Samsung,Budget,Android,4G,Yes,No,2914,5.62,2,128,24,225,1.78,4.39,0
+2015,Samsung,Budget,Android,3G,Yes,No ,2276,5.48,2,32,16,235,1.45,1.67,0
+2015,Xiaomi,Budget,Android*,4G,No,NO ,2481,5.1,2,32,NA,218,1.51,1.63,0
+2023,Samsung,Budget,Androd#, 5g,No,Yes,3556,6.5,6,128,48,246,2.03,4.89,1
+2017,OnePlus,budet, ANDROID ,3G,No, no,2825,5.7,3,32,16,215,1.45,3.16,0
+2017,Motorola,Budget,ANDROID ,4G,Yes,No,3001,5.64,4,32,16,248,1.92,2.93,0
+2015,Sony,Midrange*,Android,NA,No!,no ,2414,4.34,6,128,16,192,1.4,2.51,0
+2019,Xiaomi, MIDRANGE*,Android ,4G,No,No,3546,6.13,6,256,48,244,2.13,4.81,3
+2021,Apple,Midrange,IOS ,4G,No,No,2973,5.78,8,128,32,229,2.56,6.07,2
+2017,Google,Midrange,ANDROID *, 3G,Yes,No*,2940,4.9,4,256,32,225,1.88,3.67,1
+2022,Motorola,Flagship,Android,5g,Yes,Yes,4291,6.71,8,256,48,260,2.8,5.83,NA
+2022,Samsung,Budget,Android,4G,No,No,3920,5.64,6,128,48,250,1.89,4.37,2
+2020,OnePlus,Budget,Android,4G,Yes,No,2619,5.36,6,128,48,197,1.61,3.39,1
+2024,HUAWEI,Midrange, android,5G#,Yes,Yes,3655,6.99,8,256,64,260,2.62,5.61,3
+2016, Oppo ,Budget,Android, 3g,Yes,No,2494,4.84,3,64,32,260,2.03,1.97,0
+2023,Samsung,Budget,Android ,5G,Yes,Yes,4049,6.35,6,128,32,257,1.94,4.91,2
+2020,OnePlus, MIDRANGE ,Android,4G ,No,No,3759,6.27,8,256,32,256,2.8,4.93,3
+2024,Oppo,Budget,Android,4g#,No, NO,3011,6.05,8,64,48,254,NA,4.96,1
+2019,Vivo,Midrange,Android,4G,No,no ,3210,6.03,4,NA,32,260,2.81,3.41,2
+2017,Xiaomi,Mirange,Android,3G,No,No,3072,5.18,6,128,32,260,2.1,2.74,1
+2018,oppo *,MIDRANGE , Android!, 4G,YES,No,3081,6.16,8,256,16,259,2.26,2.66,2
+2021,xiaoi,budget,Android,4G*,Yes,No,3268,5.93,6,64,48,247,1.92,3.18,1
+2024, Apple ,midrane ,iOS,5G,No,yes,4143,6.4,8,256,64,249,2.34,6.36,3
+2022,huawei ,Budget,Android,5G,No,Yes,3263,6.42,4,128,48,260,2.79,4.45,2
+2024,Sony,Flagship,Android,5G,Yes,Yes,3950,6.61,12,256,48,260,3.41,7.19,3
+2023, Apple, MIDRANGE,iOS,4G,No,No,3981,6.22,8,256,64,257,2.7,5.55,3
+2021,Huawei,Budget,androi,4G,Yes*,No,3038,5.57,6,128,48,216,1.91,2.97,1
+NA,Google,Budget,Android, 3g,No,No,3167,4.88,3,32,8,232,1.52,2.62,0
+2019,Nokia,Budget,Android,4G,Yes,No,2690,5.46,4,32,12,246,1.62,3.22,0
+2022,Oppo,Midrange,Android, 4G,Yes,No ,3897,6.18,8,256,48,249,2.53,5.92,3
+2022,Huaei,Flagship,HarmonyOS,5G,Yes,Yes,3737,6.7,NA,256,64,235,3.2,5.62,3
+2023,Vivo,Flagship,Android,5G,No,Yes,4517,7.03,12,256,48,260,2.99,6.04,3
+2020,Sony ,budget,Android,4g#,Yes,No,2517,5.25,4,128,24,244,2.27,3.43,0
+2016,Nokia,Midrange,Android,3G,Yes,No,2734,5.12,4,128,24,255,2.07,3.77,1
+2023,Xiaomi,Budget,Android,4G,Yes,No,3257,6.34,8,NA,48,254,2.47,5.14,2
+2024,Samsung,Midrange,Android,4G,Yes , No ,4007,6.73,8,128,48,252,2.44,5.67,2
+2016,NA,Flagship,Android,4G,Yes,No,3172,5.61,4,256,24,245,2.47,3.21,0
+2020,Samsung,Budget,Android, 4G ,No, NO,2581,5.4,4,32,NA,209,2.48,2.47,1
+2015, Nokia,Budget,Android,4G, no ,No,2210,4.77,3,32,16,240,1.64,1.97,0
+2018,OnePlus,Budget,Android, 4G,Yes,No,2698,5.21,3,64,8,235,2.02,2.84,0
+2022,Huawei, Budget $, Androi,4G,Yes,no,3641,6.48,6,64,64,241,2.28,5.51,1
+2022,Apple,Flagship, ios ,5G ,No,Yes,3895,6.49,12,256,64,260,3.32,6.51,3
+2021,Motorola,Midrange,Android,5G,yes,Yes,3840,5.83,8,128,48,246,2.65,5.09,3
+2017,Sony,Midrange,ANDOID,3G, YES ,No,2987,5.37,6,256,32,248,1.99,3.29,2
+2015, Nokia,Flagship,Android,4G,YES ,No,3083,5.51,8,256,16,233,2.12,4.07,2
+2018,XIAOMI ,Budget,ANDROID ,4G#,Yes,No,3000,5.48,4,256,24,226,1.72,2.62,1
+2021,apple ,Budget,iOS,4G,No,No,3148,5.8,4,64,24,217,2.11,4.29,0
+2019,Samsung, budget,Android,4G,Yes,no,2974,5.72,4,64,24,235,2.03,2.8,0
+2021,Nokia,Budget,Adroid ,5G,Yes,Yes,3043,5.29,4,128,24,207,1.75,3.52,0
+2016,Huawei,Budget ,Android$,4G,Yes,No,1800,4.48,4,32,12,234,2.14,2.25,0
+2015,xiaomi , Flagship,Android,3g,Yes, NO,3383,5.84,4,256,32,254,NA,3.54,1
+2015,Huawei,midrange!,Andrid ,3G,Yes,No,3014,5.45,3,64,32,253,2.31,3.18,0
+2018,Oppo,Midrange,Android,4G,Yes,No,3501,5.63,6,128,32,255,2.45,3.6,1
+2020,Google,Midrange,Android,4G,No, NO#,3078,6.13,6,256,32,239,2.52,3.86,2
+2015,Sony,BUDGET,Android, 4G ,Yes,No,2380,4.63,2,32,8,208,1.52,2.26,0
+2021,Samsung,Midrange,Android,4g,Yes,No,2678,6.06,8,256,32,260,2.13,3.95,2
+2020,Oppo,Midrange,Android,4G,yes ,No,3537,NA,6,256,32,243,2.64,4.84,3
+2022,Xiaomi,MIDRANGE,Android,5G,Yes,Yes,3724,6.17,6,128,48,232,2.59,4.96,2
+2023,Samsung,Midrange,Android,5G,No,Yes,3440,6.63,8,256,64,260,2.28,5.18,3
+2020,oppo,Flagship,Android,4G,Yes,No,4875,6.03,12,256,48,260,2.84,5.88,3
+2024,Apple,Midrange*, iOS,4G,No,No,4197,6.6,8,256,64,250,2.61,6.05,3
+2019,XIAOMI ,Budget,Android,4G,Yes,no ,3081,5.35,4,32,32,259,2.28,2.35,1
+2024,Nokia,Midrange,Android,5G, es $,Yes,4297,6.45,8,256,64,250,2.9,5.73,3
+2016,Vivo,Midrange , Android!,4G,No,No,2757,5.13,4,256,32,220,1.9,3.69,2
+2019,Xiaomi,Midrange,android,4G,no $,no,2761,5.67,8,64,32,248,1.85,3.45,1
+2017,Huawei,Midrange,Android,4G,Yes,No,3623,5.98,4,128,32,253,1.69,3.65,0
+2016,MOTOOLA ,Budget,Android,4G,yes $,No,2863,4.72,4,32,8,218,1.63,2.41,0
+2018,Apple, Midrange,iOS,NA,No,No ,3881,5.25,6,64,32,241,2.29,4.14,1
+2016,Vivo,Midrange,Android,4G,No,No,3335,5.1,4,128,24,237,1.86,2.5,0
+2017,Xiaomi,BUDGET,ANDRID,4G, Yes ,No,2663,5.24,2,64,24,232,2.06,2.01,0
+2019,Oppo,Midrange,Android,4G,No,No,2992,5.71,8,128,32,235,1.93,4.8,2
+2024,OnePlus,midrange,Android,5G,Yes,Yes,4378,6.25,8,128,48,241,2.77,6.6,1
+2020,Samsung,Midrange,Android,4G,No,No,3312,5.36,6,128,48,254,2.29,NA,2
+2015,Huawei,Budget,HarmonyOS,3G,Yes,No,3161,4.55,2,32,12,224,1.44,2.57,0
+2016,Motorola,MIDRANGE ,Android,4G ,YES,No,2923,5.32,6,64,16,260,2.13,3.6,1
+2022,vivo,Midrange,Android,5G,No,Yes,3981,6.12,8,256,32,226,2.39,5.41,2
+2019,Samsung ,Midrange,Android,4G,Yes,No,3667,5.95,6,128,48,260,2.09,3.49,2
+2015,Apple,Flagship, IOS,3G,NA,No,3299,5.57,4,256,32,249,2.12,4.15,1
+2022,motorola ,midrange,Android,4G,no,No,3854,6.23,8,256,48,240,2.24,4.68,3
+2017,Samsung,Budget, Android,4G,No,No,2458,5.4,4,64,24,223,1.99,2.74,0
+2019,NA,Flagship,Android,4G,No,No*,3015,6.83,8,256,48,260,3.16,6.05,3
+2021,Apple,Midrange,iOS,4G,No,No,3989,5.98,8,256,64,252,2.67,3.85,3
+2017, Samsung,Budget ,Android,4G,Yes,No,3015,4.93,3,64,8,253,1.9,2.67,0
+2023,Samsung,Budget,android ,4G,Yes,No,3422,6.67,6,128,16,221,2.08,5.06,0
+2017,Samsung,Midrange,Android ,4G,Yes, NO ,3231,5.18,6,64,32,251,2.04,4.16,1
+2017,Samsung,Midrange,Android,3G#,Yes,No,3182,5.45,8,128,24,233,2.22,3.49,1
+2019,Samsung,Midrange,Android,4G,Yes, NO ,3335,5.95,8,128,32,247,2.31,3.46,1
+2016, GOOGLE,Budget,Android,4G,No,No,2687,5.57,3,64,12,232,1.74,2.34,0
+2021,Motorola,Midrange,android,4G, Yes ,No ,3653,5.94,8,128,48,260,2.62,3.72,2
+2017,Huawei, BUDGT ,HARMONYOS,4G, No ,No,2803,5.75,3,64,16,256,1.47,2.4,0
+2024,Google,MIDRANGE,Android,4G#,Yes,No,4023,6.61,12,256,64,259,2.57,6.13,3
+2018,OnePlus,budget,Andrid,4G,Yes#,No,2277,5.06,4,128,32,254,1.88,2.87,0
+2017,Vivo,Flagship,Android,3G,No,No#,3620,6.41,8,256,64,254,2.63,4.55,3
+2020,Vivo,Budget,Android,4G ,Yes,No,3198,5.24,3,64,48,228,1.83,3.13,1
+2018,Vivo,Budget,Android,4G,Yes,No,3262,5.14,3,128,12,225,2.03,2.02,0
+2015,huawei ,Budget*, HARMONYOS,4G,No,No,3066,4.69,2,32,8,230,1.82,1.77,0
+2023,OnePlus,Flagship,Android,5G,YES,Yes,4137,6.79,12,256,64,260,3.28,6.2,3
+2020,Motorola,Midrange, Android #,4G,NO, No ,3375,5.82,6,128,32,248,2.23,4.94,1
+2019,Google,budget ,Android,4G,Yes,No,2592,5.18,6,128,32,234,2.47,3.07,2
+2016,Xiaomi,Flagship,Android,3G, Yes*,No,3137,5.6,8,256,48,260,2.57,3.81,2
+2016, otorola ,Midrange$,Android,3G!,Yes,no ,3089,5.11,6,128,32,226,2.03,2.72,0
+2023,Apple,Midrange,iOS,4G,No,No,3812,6.72,8,128,64,260,2.48,4.94,2
+2022,Motorola,Midrange,android,5G,Yes,YES,3916,6.41,8,256,32,238,3.26,5.8,3
+2015,Apple,Midrange,iOS,3G,No,No,2414,4.69,4,128,32,243,1.69,2.1,1
+2017,Samsung,Budget,NA,4g,Yes,No,2735,4.29,6,64,8,229,2.28,1.93,0
+2020, SONY,Midrange,Android,4G, no,NO,3488,5.69,6,256,32,260,2.48,4.87,2
+2016,SAMSUN ,FLAGSHIP, ANDROID,3G,Yes,No,3290,5.58,6,256,32,249,2.39,4.17,2
+2024,Oppo,Flagship,Android,5G,Yes ,Yes,4132,7.2,12,256,64,260,2.89,6.25,3
+2017,Samsung, Midrange,Android,4G ,No, No,3378,5.89,4,128,16,229,1.81,3.5,1
+2021,Vivo,Budget,Android,5G,Yes, yes,2814,5.76,3,32,64,253,2.16,3.18,1
+2017,Xiaomi,BUDGET!,NA,4G*,Yes,No,2760,5.09,2,128,24,251,1.66,2.98,0
+2024,Xiaomi,Midrange,Android,5G,Yes,Yes,4327,6.63,8,256,64,259,2.83,5.49,3
+2015,OnePlus , flagship,ndroid,3g#,Yes,no ,3393,5.26,6,128,32,236,1.79,4.06,1
+2016, Nokia, MIDRANGE,ANDROD,3G,Yes, No,2789,4.82,4,128,32,215,2.3,3.31,2
+2022,VIVO ,midrange ,Android,5G,No,Yes,3580,6.54,8,256,64,260,2.11,4.47,3
+2015,Nokia!,Budget, android,4G,NO,No,2337,5.42,2,32,16,247,1.43,1.92,0
+2015,Nokia,Midrange ,ANDROID,4G,Yes,No,3526,4.8,4,128,24,238,1.82,2.65,2
+2024,xiaomi,MIDRANGE,Android,5G, Yes ,Yes,3945,6.26,8,256,64,246,2.85,5.47,3
+2016,Samsung, Flagship#,Android,3G,Yes,No,3586,5.53,8,128,48,225,2.97,4.84,1
+2020,Nokia,Midrange,android,4G,Yes,No,3292,5.46,8,128,16,259,2.52,4.5,1
+2022,GOOGLE,Budget,android,4G, yes,NO,3435,6.2,6,64,32,231,2.53,4.35,1
+2019,Sony,Midrange,android,4G,yes$,No,2743,5.2,8,128,32,219,2.55,3.44,1
+2016,Xiaomi,Midrange,NA,4G ,Yes,No,2506,5.68,3,64,32,253,2.27,3.05,1
+2019,Samsung,Flagship,Android,4G,Yes,No,3513,6.04,8,128,48,260,2.9,5.69,2
+2015,Samsung,Flagship,ANDROID$,4G,No,No,3353,5.02,8,256,32,260,NA,4.77,3
+2022,Xiaomi,midrnge,Android,4G,No,No,3847,6.45,8,256,64,248,2.23,5.11,2
+2024,Oppo,Midrange,Android,5G ,No,Yes,3657,6.91,8,256,64,260,2.79,5.47,3
+2016,XIAOMI,Midrange,Android,3G,Yes,No,2674,5.38,6,256,48,236,2.15,2.85,2
+2016,Google,NA,android,4G,No,No,2275,5.1,3,128,24,237,1.94,3.13,1
+2024,Xiaomi,Midrange,Android,5G,No *,Yes,3850,6.91,8,256,48,260,2.92,5.53,3
+2021,Huawei,Midrange,Android,4G,Yes ,No,4317,5.89,8,128,64,NA,2.37,5.37,3
+2016,Motorola,Midrange,Android,4g,No,No,3385,5.43,3,128,32,253,1.84,3.74,0
+2015,Samsung,BUDGET,Android,4G,No,No,NA,4.88,3,32,12,217,1.69,1.79,0
+2020,Xiaomi,Midrange,Android,4G , yes #,No,3562,6.33,8,128,24,247,2.24,5.55,2
+2018,Samsun,Midrange,ANDROID,4G, Yes$,No ,3095,6.06,4,128,32,256,1.82,3.15,1
+2019,Motorola,Budget,Android,4G,No,No,3150,5.3,4,128,48,231,1.97,2.93,1
+2015,Vivo,Budget,Android,4G,Yes,No,2855,4.68,3,NA,12,235,1.22,1.66,0
+2015,Motorola,BUDET , Android,3G,NA, NO,2756,4.6,2,32,8,207,1.69,1.0,0
+2024,OnePlus,FLGSHIP,Android,5g#,Yes,yes,4129,7.13,12,256,64,240,3.03,6.65,3
+2024,Google,Flagship, ANDROID,5G,yes,Yes,4021,6.66,12,256,64,260,3.1,6.6,3
+2018,Xiaomi,Flagship,Android,4g, yes$,No,2960,5.33,6,256,48,260,2.42,4.62,3
+2019,onplus *,BUDGET ,Android,4G, YES,No,2618,5.14,4,64,24,232,1.99,NA,0
+2020,Vivo,udget,android,4G,Yes, no ,3366,NA,4,128,16,228,2.09,3.01,0
+2020,Samsung,Budget,ANDROID ,4G,Yes, No ,3267,5.82,6,128,32,258,2.15,3.86,2
+2022,Oppo,Midrange,NA,4G,Yes, no ,3539,5.83,12,128,32,260,3.06,5.5,3
+2022,Samsung,Midrange,Android,5G,No,Yes,3595,5.92,8,256,48,232,2.51,5.03,3
+2022,OnePlus,Budget,Android,4G,No,NO ,3290,5.65,6,64,48,213,2.21,4.61,0
+2017, APPLE ,Midrange,iOS,3G,NO,No,3049,5.33,6,128,32,251,1.8,4.79,1
+2016,Huawei #,Flagship,HarmonyOS,3G,NA,No,3363,5.37,6,256,32,253,2.65,4.33,2
+2015,Google, Budget,Androd,3G,Yes,No,1829,5.01,2,32,8,251,1.4,1.82,0
+2019, apple, MIDRANG ,ios,4G!,no,NO,3840,6.14,8,256,48,252,2.23,3.94,2
+2019,OPPO,Budget,Android,4G,Yes,No,3269,5.36,4,32,32,256,2.16,4.75,1
+2017, Xiaomi, budget,Android,4G,Yes, no#,3058,4.89,2,32,16,226,1.37,2.93,0
+2023,Vivo,FLAGSHIP,Android,5G, YES,Yes,4471,7.2,12,512,64,260,3.31,6.49,3
+2015,Apple,Budget,iOS, 4G , No,No,2595,4.9,2,64,8,226,1.5,1.44,0
+2021,Samsung,Flagship,Android,4G,No !,No,4092,6.7,8,256,64,260,2.58,5.0,3
+2016,Sony,Budget,Android,3G,Yes,No,3102,5.25,2,32,24,241,1.6,2.51,0
+2021,Nokia,Budget,ANDROID$,4G,Yes,No,3154,5.91,6,128,64,236,2.43,3.77,3
+2020,Vivo, midrang,ANDROID$,4G,Yes,No,3317,5.57,6,128,48,213,NA,4.38,2
+2024,OnePlus,Flagship, ndroid ,NA,No,Yes,4976,6.72,12,256,64,257,3.18,6.07,3
+2022,Google,Budget,Android,4G,Yes,No,3593,5.93,6,128,32,259,2.44,3.51,2
+2017,Vivo,BUDGET, Android ,4G,Yes,No,2188,4.89,3,32,16,228,2.22,2.08,NA
+2016,Xiaomi, midrange,Android,3G,No, NO $,3168,5.77,4,128,24,260,1.95,2.71,0
+2018,SAMSUNG ,Midrange,android,4G,Yes,No,3374,5.5,6,128,32,254,2.13,3.38,1
+2019,Samsung,Flagship,android,4G,No,No,3661,6.2,6,256,64,251,2.74,5.13,3
+2017,Apple,Budget, iOS,4G,No,No,2455,5.15,4,32,16,226,1.45,1.86,0
+2016, Oppo, Midrange,Android,4G,No,no,2379,5.63,3,128,24,255,1.78,3.97,1
+2024,Samsung,Budget,Android,4G,Yes ,No,3811,5.68,8,64,48,240,2.18,4.23,1
+2019,Huawei, midrange,Android,4G,Yes ,No,3488,5.38,8,128,32,260,2.64,3.71,2
+2023,Samsung,Midrange,Android,4G,Yes,No,4084,6.37,8,128,32,260,2.35,4.62,2
+2018,Oppo,Budget,Android,4G,Yes,No,2775,5.74,2,32,16,251,1.56,3.34,0
+2020,Samsung,Budget,android,4G,Yes,No,2750,5.13,6,128,32,229,2.04,3.3,1
+2015,google,Buget,Android,4G,Yes, no*,2321,5.23,3,128,8,238,1.89,2.16,0
+2024,SAMUNG ,Budget,Android, 4G ,YES,No,3393,5.62,6,NA,24,216,2.63,4.64,1
+2019,Xiaomi,Budget,Android,4G,Yes,No,3059,4.97,3,128,24,235,2.34,3.14,1
+NA,Samsung,Midrange,Android,5G,Yes,YES ,3423,5.53,8,256,64,224,3.1,5.71,3
+2023,Google,Budget,Android,4G,Yes,no,3350,6.15,8,128,48,228,1.98,4.13,1
+2024,OnePlus,Midrange,Android,4G, Yes$, No,3912,6.34,8,128,64,260,2.87,5.07,2
+2016,Samsung,Midrange,Android*,3G, Yes,No,2693,5.17,4,128,16,227,2.28,3.0,0
+2015,Samsung , midrange,Android,3G,YES,No,3049,5.24,4,64,24,216,1.75,4.74,0
+2018,Motorola,Midrange, ANDROID ,4G,No,no,3482,6.32,6,256,48,237,2.47,3.06,2
+2024,Nokia,Flagship,Android,5G,Yes,Yes,4028,6.65,12,256,64,260,3.42,6.81,3
+2021,Xiaomi,Budget,ANDROID ,4G,No,No,2971,5.56,3,32,64,240,2.15,4.0,1
+2023,Google,Midrange,Android,4G,YES,No,3300,6.32,8,256,64,260,2.74,4.32,2
+2023,Sony, Flagship,Android,5G,YES$,Yes,4199,6.14,12,256,48,249,2.91,6.17,3
+2016,Google,Midrange,android,3G,Yes,No,3217,5.34,6,128,24,242,2.23,4.57,2
+2019,Samsung,Budget,android,4G,No,No,2580,5.48,4,128,48,226,1.7,4.0,2
+2015,Samsung,Flagship,Android,4G,No,No ,3215,5.34,4,256,48,243,2.12,3.2,2
+2020,Nokia,Budget,Android,4G,Yes,No,3228,5.62,4,64,32,238,1.97,4.39,2
+2021,Oppo ,Budget,Android, 4G,No,no!,3829,5.75,8,32,48,222,1.88,3.24,1
+2024,Google,Flagship,Android,5G,no ,Yes ,5565,6.86,12,256,64,258,3.53,6.9,3
+2023,Sony,Flagship, ANDROID,5G,Yes,Yes,3903,6.32,12,256,108,260,2.85,6.19,3
+2017,Xiaomi,Budget, android,3G,Yes,No,1800,4.69,4,128,16,210,2.06,1.7,1
+2024, Gogle,Flagship,Android,5G,No,Yes,4621,6.93,8,256,48,260,2.7,5.89,3
+2017,Samsung,Budget,ANDROID!,3G,Yes,No,2846,4.87,4,128,12,208,1.64,3.0,1
+2017,OnePlus, flagship,Android,3G,Yes,NO,3082,6.21,8,256,64,260,2.42,4.23,2
+2023,Apple,Midrange,iOS,5g $,No,Yes,3467,6.11,8,128,64,252,2.61,4.27,3
+2017,Google,Budget,Android,4G,No,No,2973,4.65,2,128,32,226,1.47,3.21,0
+2019, oneplus,Budget,android$,4G,no,No,2845,5.36,4,128,16,208,2.13,2.95,0
+2017,Xiaomi, Midrane,Androd ,4G,No,No,3308,5.31,4,256,24,236,2.17,3.86,1
+2019,Apple,Budget,iOS,4G,No,No,3483,5.27,8,128,32,NA,1.76,3.3,1
+2016,Nokia,Flagship,android ,3G,Yes,No,3384,5.82,8,128,48,255,2.45,4.76,2
+NA,Huawei,Midrange,android, 4G, YES,NO,3777,5.57,8,256,64,213,2.57,5.44,3
+2015,Oppo,budget,ANDROID,4G!,YES,No,2812,4.66,3,32,8,256,1.38,2.9,0
+2017,Huawei, Midrange ,Android,4G,Yes,No,3473,5.43,4,32,16,230,2.38,4.04,1
+2015,NOKIA,Budget , Android$,3G,NO ,No,2400,4.63,2,32,8,225,1.47,2.3,0
+2017,OnePlus,Midrange,Android,4G,Yes,NO*,3354,5.33,8,128,32,243,1.9,3.22,2
+2018,xiaom , Flagship,ANDROID *,4G,Yes, NO,3629,6.35,8,256,32,260,2.46,5.73,3
+2019, oneplus,MIDRANGE,android, 4g*, Yes,No,3000,5.74,8,256,16,260,2.48,4.2,2
+2019,Vivo,Budget,Androi,4G, no,No,2690,5.22,3,32,24,235,1.44,2.78,0
+2023,Samsung,BUDGET,Android, 4G,Yes,no,3258,5.76,6,256,48,256,1.87,3.49,2
+2023,apple,Midrange,iOS,5G,NO$,Yes,4414,6.54,6,256,48,241,2.94,4.6,2
+2015,Samsung,Budget,Anroid,3G , No ,No,2631,4.54,NA,64,8,232,2.02,1.93,0
+2023,Motorola,Midrange,Android,4G ,No,No,3853,6.57,12,256,48,230,2.77,5.88,3
+2023,Samsung,Midrange, Android ,4G, No ,No ,3903,6.53,8,256,64,255,2.32,5.17,3
+2022,Motorola,Midrange,Android,5g,Yes,Yes!,3752,6.27,8,256,64,246,3.01,5.53,3
+2021,Apple,Midrange,iOS,4G $,No,No,3542,6.17,8,128,64,249,2.81,5.45,3
+2021,Xiaomi,Midrange !,Android, 4g, No *,NO ,3178,5.93,8,256,48,260,1.88,4.3,2
+2017, apple,Budget,iOS ,4G, No,no,3233,5.21,3,128,24,259,NA,2.16,0
+2017,Xiaomi,NA,Android,4G,Yes ,No,3547,5.28,6,128,32,260,2.17,3.75,1
+2024,XIAOMI,Midrange,ANDROID,5G, Yes ,YES#,3632,7.14,8,128,64,251,2.5,5.88,3
+2024,Apple,Budget!,iOS,4G,No,No,3069,6.62,4,32,48,260,1.82,4.62,1
+2022,Xiaomi,Midrange,Android ,4G, yes,no ,3517,6.21,8,256,48,247,2.47,4.76,2
+2024,Samsung,Midrange,andrid,5G,Yes,Yes,3920,6.81,12,256,64,260,3.17,5.29,3
+2017,Apple,BUDGET,iOS,4G $,No, NO,2735,5.05,4,64,12,205,2.01,2.97,0
+2019,Vivo,Budget,Android, 4g$,Yes,No,2732,5.75,6,128,32,233,1.96,2.5,1
+2015,NA,Midrange,Android,4G,Yes!,No ,2857,4.87,4,256,32,230,1.8,2.87,1
+2022,Samsung,Flagship,ANDROID,5G,Yes,Yes,3925,6.5,8,256,64,260,3.08,5.73,3
+2016,Nokia,Budget,Android,4G ,Yes,No,2252,5.61,2,32,24,251,1.81,2.84,0
+2024,Apple,Midrange,ios*,4G,No,No,3826,6.61,12,128,64,260,2.42,5.91,3
+2018,Samsung,Budget ,Android,4G!, Yes ,No,3071,5.3,3,32,NA,223,1.89,3.51,0
+2016,Oppo,FLAGSHIP,Android,4G,Yes,No,3931,5.73,6,256,24,260,2.6,3.61,2
+2022, APPE,budget,iOS, 4G,No,No ,3061,6.42,4,64,24,260,2.7,4.16,0
+2024,Apple,budget,iOS,5G,No,YES ,3903,5.71,6,256,48,219,2.66,5.28,2
+2016,Apple,Flagship,iOS, 4G,NO*,No,3489,5.52,4,256,48,238,2.78,4.23,1
+2022, Huawei$,Budget,Android,4G, yes , No ,3935,5.54,6,64,48,254,2.02,4.45,1
+2016,Google,Budget,Android,4G,No,no#,2826,4.83,3,64,16,205,2.04,2.01,0
+2020,Sony,Midrange,Android,4G, YES,No,3458,5.92,6,512,48,260,2.2,4.52,3
+2023,Motorola,MIDRANGE ,Android ,5G,yes,Yes,3741,6.71,6,256,64,253,2.38,5.66,3
+2016,Samsung,Midrange,Android,4G,NO ,No,2728,5.25,4,128,24,255,2.11,4.16,1
+2018,Oppo,Flagship,Android,4G ,YES,no,3289,5.72,8,NA,32,234,2.77,5.08,3
+2015,Apple, Midrange,iOS,3G,No,No,2775,5.29,4,128,32,231,2.36,2.96,1
+2016,Google,Flagship,Android,4G,Yes,No,3207,5.65,8,256,32,221,2.4,3.76,3
+2023,Apple, Flagship,iOS,5G,No,Yes,4608,7.1,12,256,64,249,2.91,6.53,3
+2019,Xiaomi,Budget,Android,4G,Yes,No,2234,5.75,4,128,24,259,2.25,3.55,1
+2016,Xiaomi,Midrange,Android, 3G,Yes,No,2876,5.37,6,256,48,256,2.23,3.96,3
+2021,NA,Budget,Android, 4g,Yes, NO,3450,5.69,8,128,32,242,1.99,4.12,1
+2022,Motorola,Flagship,Android,5G,Yes,Yes,4102,6.94,8,256,64,260,2.86,6.57,3
+2019,Apple,Budget,IOS,4G,No,No,3279,NA,4,32,24,221,2.01,2.38,0
+2024,Xiaomi ,MIDRANGE,Android,5g,YES,yes,3555,6.41,6,128,48,241,2.83,5.63,2
+2019,Samsung,Midrange,Android,4G!,Yes,No,3360,5.93,8,128,48,240,2.12,4.58,2
+2019,Samsung,Midrange, andrid,4g,Yes,No,2932,6.31,6,128,32,250,2.71,3.62,2
+2022,Xiaomi,Midrange, ndroid,5G,Yes,Yes,3447,5.96,6,256,48,243,2.87,4.99,2
+2015,Huawei, MIDRANGE, ANDROID ,4G,No,No ,2926,4.71,4,64,48,218,2.19,2.78,2
+2021,Apple,Midrange,iOS,4G,no ,No ,3429,5.83,8,256,32,242,2.95,3.97,2
+2015,XIAOMI ,Budget, ANDROID,3G,Yes,No,2680,5.25,3,64,16,249,1.53,2.68,0
+2021,Google,Midrange,Android,NA,YES,No,3507,6.21,8,256,64,258,2.21,4.85,3
+2019,Oppo,Midrange,Android,4G,No,No,3562,6.22,6,256,32,252,2.39,5.11,2
+2018,Samsung,Budget,Android,4G,Yes,No,2732,4.82,4,32,16,237,1.56,2.6,0
+2023,Motorola,Budget,Android,4G,No,No,2838,5.9,8,128,32,246,2.66,3.88,1
+2018,Apple, Budgt ,iOS,4G$,No, No ,2790,5.65,6,64,32,221,1.49,2.59,0
+2021,OnePlus,Budget,android ,4G,Yes,No,2875,5.2,6,64,32,225,2.22,4.18,0
+2017,SONY,Midrange,Android,4G,No,No,3279,5.12,4,128,32,232,1.88,2.78,1
+2024,Apple,Budget,iOS,4G,No,No,3885,6.43,8,128,48,240,2.51,4.15,2
+2023,Google,Midrange!,Android,4G,Yes,No,4451,6.12,8,128,64,225,2.52,5.18,1
+2020,SAMSUNG $,Midrange,Android,4G,Yes,No,3707,6.2,8,128,24,229,2.53,4.26,2
+2015, Samsung,idrange,ANDROID,4G,NA,No,3177,5.23,4,128,24,232,1.66,3.39,1
+2023,Vivo,Budge,Android,5g,Yes, Yes,3430,6.36,8,256,64,260,1.92,3.59,3
+2022,Apple ,Midrange,IOS,4G,No,no,3789,5.82,8,256,48,240,2.08,3.97,2
+2021,APPE ,Midrange,iOS,4G,No,No,3675,6.21,12,256,48,230,2.7,4.19,3
+2022,Xiaomi,Midrange,Android,4G,NO ,No,3575,6.3,8,256,48,220,2.66,4.76,3
+2020,Motorola $,Budget,Android, 4g,No,No,2642,5.63,4,32,32,241,2.09,3.27,0
+2022,Oppo, idrange,Android,5G,Yes,Yes,3271,6.35,12,128,64,260,2.92,4.03,3
+2019,Sony,Budget,Android,4G,Yes,no ,NA,4.88,3,128,32,244,1.83,3.58,0
+2016,Xiaomi,Flagship, Android,4G,Yes,No,3767,5.52,6,256,48,245,3.16,5.4,3
+2021,Google,Midrange,Android,4G,Yes,No,3394,5.96,8,128,64,250,2.38,5.51,2
+2020,Google,Flagship,Android#,4G,Yes,No,4347,5.79,8,256,108,244,2.76,4.59,3
+2015,Apple,Budget,iOS,3G,No,No,2528,5.06,2,32,24,244,1.56,1.95,0
+2015,Nokia,Budget,Android,3G,Yes,No,2518,5.2,3,32,24,230,1.85,1.45,1
+2020,Nokia,Budget,Android,4G,Yes,No,3518,5.02,6,128,24,214,1.67,2.78,1
+2021,HUAWEI,Midrange, harmonyos,5G,yes$,Yes,4260,5.96,8,256,48,247,2.13,4.51,2
+2016,Xiaomi,Midrange,Android,3G,No , No,2892,5.59,6,128,24,246,2.23,3.67,1
+2019, Huawei,Flagship,HarmonyOS,4G,Yes,No,3675,6.3,8,256,64,260,2.54,5.23,3
+2015,Samsung,buget,android!,3G,Yes,No,2097,4.5,2,32,8,213,1.65,1.94,0
+2020,APPLE #, Midrange,iOS,4G!,No,No,3682,5.62,6,256,64,231,2.17,5.01,2
+2015,Huawei,Budget,Android,4G,Yes,NO,1977,4.77,3,64,8,236,1.2,2.48,0
+2017,Samsung,Budget ,Android,3g ,No,No,2713,5.3,4,32,12,243,1.86,2.49,0
+2016,Nokia,Midrange, android,3g , yes,No,2979,5.42,3,128,32,260,1.71,4.17,0
+2015, VIVO, budget,Android,4G,Yes,No,3380,5.11,2,64,24,239,1.32,1.45,0
+2023,APPLE,flagship,iOS,5g!,No, yes,4374,6.76,8,256,64,251,3.23,5.44,3
+2018,OnePlus,Budget,ANDROID ,4G,No,No,3057,5.14,3,128,24,229,1.57,3.11,0
+2015,okia#,Midrange,Android, 4G $,Yes, No ,2884,5.54,6,128,32,246,2.37,2.92,1
+2021, NOKIA,Budget,Android,4G,No,No !,2746,5.64,8,64,32,221,2.53,4.55,1
+2020,Xiaomi, budget ,Android,4G,Yes,No,3365,NA,4,64,32,233,2.23,2.83,0
+2024,OnePlus ,Budget,Android,4G,Yes,No,3827,6.01,8,128,48,228,2.09,5.15,2
+2022, Samsung,BUDGET!,Android, 4G ,No,No,3121,5.49,6,128,32,223,2.47,4.02,2
+2021,Oppo,FLAGSHIP #,android,5G, yes,yes,3945,6.17,8,256,48,260,2.69,5.7,3
+2020,Google,Midrange,Android ,5G,No,Yes,3503,5.73,8,128,32,242,2.55,4.55,2
+2023,SONY,Flagship,ANDROD,5G, Yes,Yes,4664,6.59,12,256,64,251,2.78,5.98,3
+2016,Xiaomi,Budget,Android,4G,Yes,No,2685,4.77,2,32,12,254,1.6,1.18,0
+2021,OnePlus,Flagship,Android,4G,Yes,No,3986,6.65,12,256,48,245,2.84,5.69,3
+2018,Google,Flagship,Android,4G,Yes,No,4198,5.99,6,256,64,260,2.99,4.42,3
+2021,Samsung*,Flagship,adroid,5G,Yes,Yes,3805,6.64,8,256,48,260,2.91,5.67,3
+2017,Apple,Budget ,iOS,4G,no ,no,3083,4.89,4,128,24,228,1.75,2.59,0
+2018,Xiaomi,Budget,Android,4G,No,NO ,2950,4.99,4,128,24,213,2.32,2.51,1
+2018,Xiaomi,Flagshp,android,4G, YES ,No,3875,5.95,8,256,64,227,2.96,5.27,3
+2016, samsung,Budget,Android,3G,Yes,No,2183,4.65,2,32,24,235,1.78,2.94,0
+2021, Xiaomi,Budget,Android,4G,No,No,3361,5.47,6,128,32,220,2.16,3.05,2
+2022,Vivo ,Budget,Android,4G,Yes,No,3305,5.78,6,32,32,199,2.18,4.51,0
+2015,Huawei,Midrange,Android, 4g,No,No,3222,5.33,2,128,24,240,2.37,2.12,0
+2022,Oppo,NA, Android#,5G , NO#,Yes,3510,5.76,6,32,48,252,2.41,4.37,1
+2020,OnePlus,Budet ,Android,4G,yes,NO,2963,5.33,4,128,48,260,1.62,3.21,2
+2018,OnePlus,Midrange$,Android,4g ,Yes,No,2980,5.72,4,128,32,243,2.33,3.55,1
+2024, sony,Budget,Android,5g,No, Yes ,3072,6.45,6,128,48,260,2.16,4.93,1
+2021,oneplus #,Budget,Android,4G,Yes,No,3613,5.92,8,64,48,247,2.24,3.9,1
+2019,Sony,Midrange,Android,4G,Yes,No,3582,5.26,6,128,48,229,1.9,4.35,1
+2021, oneplus,Budget,Android, 4G,Yes,No,2578,5.5,4,128,24,248,1.88,4.15,0
+2016,Xiaomi,Midrange,Android, 4g$,Yes,No,3459,5.56,3,128,32,230,2.15,2.56,0
+2019,Sony,flagship,Android,4G, yes,No,3820,6.09,6,256,32,260,2.76,6.0,3
+2021,Samsung,Budget,Android, 4G,No,No ,3679,5.97,6,128,48,232,2.07,3.58,1
+2016,Google , MIDRANGE,android #,3G,No,No,2979,5.99,4,128,32,246,2.2,3.31,1
+2020, amsung,Budget,Android,4G,Yes, no ,3385,5.48,4,32,12,260,2.0,4.19,0
+2015,motorola ,Budget,Android,4G,yes,No,2457,4.3,4,32,12,165,1.78,2.82,0
+2020,Nokia,Flagship,Android ,5G,no#,Yes,4271,5.89,12,256,64,249,2.76,5.56,3
+2017,Nokia,Budget,Android,4G,Yes,No,2318,5.18,4,128,24,237,2.3,2.18,0
+2023,Huawei,Budget,NA,4G,No, no*,3744,6.56,6,128,48,256,1.96,3.29,2
+2019,Samsung,FLAGSHIP,android,4G,Yes,No,3874,6.16,8,256,48,260,2.93,4.41,3
+2018,Xiaomi,Budget,Android,4G ,NO ,No,2858,5.71,6,64,32,260,1.99,3.02,0
+2020,Motorola,Midrange,Android,4G,Yes, No,3597,6.32,6,128,48,242,2.24,4.46,1
+2022,Samsung ,Midrange,androi,4G,Yes ,No,3599,6.51,8,256,48,260,2.74,5.25,3
+2015,ONEPLUS,BUDGET$, ANDROID,4G,No,No,2438,4.41,2,128,16,223,1.69,2.45,0
+2018,OnePlus,Budget !, Android , 4G,No,No ,1835,4.9,2,128,16,227,1.59,2.77,0
+2016,Samsung,BUDGET,Android,3G,No,No,2702,4.85,3,32,24,225,1.54,2.68,0
+2018,oneplus,Budget,Android,4G,Yes,No,2912,5.03,3,64,12,249,1.85,3.05,0
+2022,Xiaomi,Midrange,Android,4G,No,NO,3123,6.34,8,128,48,260,2.59,5.47,1
+2024,VIVO,Budget, ANDROID,4G,no,No,4206,5.54,6,128,64,243,2.55,3.73,2
+2018,Apple,Budget,iOS,4G,No,No,2987,5.97,3,32,24,232,1.81,3.27,1
+2022,Apple,Flagship, ios ,5G ,No,Yes,3895,6.49,12,256,64,260,3.32,6.51,3
+2022,Xiaomi,Midrange,Android,4G, yes*,No,3430,6.36,8,256,64,233,1.98,5.62,2
+2018, xiaomi, Budget, Android, 4g,Yes,No,2770,4.86,4,32,32,216,1.64,3.44,0
+2018,Google,midrange,Android,4G,Yes,No,3666,5.62,6,64,32,256,1.99,3.83,0
+2015,Sony, Budget*,Android,4G,No, No,2010,4.9,2,64,12,215,1.64,2.3,0
+2016,Xiaomi,Budget,Android,4G,No , NO ,3141,5.06,2,32,24,211,1.51,2.4,0
+2016,Vivo,Midrange,Android,4G,yes , NO #,3444,5.18,6,128,32,238,2.03,3.25,1
+2021,Oppo,Midrange,Android,4G,yes,No,3219,6.24,6,256,64,236,2.91,4.73,2
+2021,ONEPLUS,Midrange, Android,4G,Yes,No,3365,6.24,8,128,48,257,2.25,5.06,2
+2024,OnePlus,midrange,Android,5G,Yes,Yes,4378,6.25,8,128,48,241,2.77,6.6,1
+2017,Samsung,Budget,Android,3G,No,No,2443,5.32,6,128,16,239,2.13,2.89,1
+2018,OnePlus,Budget,ANDROID ,4G,No,No,3057,5.14,3,128,24,229,1.57,3.11,0
+2018,Sony, BUDGET#,Android,4G,Yes,No,2932,5.58,2,32,24,251,1.67,2.77,0
+2015,Xiaomi,Budget,Android,4G,Yes , NO,2778,4.77,2,32,24,215,1.39,2.1,0
+2016, Oppo, Midrange,Android,4G,No,no,2379,5.63,3,128,24,255,1.78,3.97,1
+2019, Oppo*,MIDRANGE,ANDROID, 4g,No,No,3518,6.24,6,128,48,256,1.77,4.43,1
+2022,Samsung,Midrange,Android,4G,Yes,No,4077,6.12,8,256,48,257,2.89,4.9,3
+2019,HUAWEI,Midrange,Android,4G,Yes,No,3395,5.86,8,256,48,245,2.04,5.0,3
