@@ -16,7 +16,23 @@ Prior to analysis, dataset had some comprehensive data tidying and cleaning proc
 Missing values were handled by either removing incomplete records or applying appropriate corrections based on their meadian, mean, or with information from different features. Duplicate observations were identified and removed. Inconsistent categorical variables, such as variations in brand names and model tiers, were standardized to ensure uniform representation across the dataset.
 
     Exploratory Data Analysis
+After the data tidying and cleaning process, the clean data can be used to discuss questions that will help new brands establish their position in the market. 
+
+*1. grafiğin fotosu ve/ya rq*
+Graph 1 illustrates the distribution of model tiers across the analysed brands, with each brand having a different number of tiers. According to the graph, the top three brands with the most phone models are Samsung, Apple and Xiaomi. These brands thus have more phone models in each tier. New brands that want to establish themselves in the budget tier should compete with these three brands. Similarly, new brands that want to establish themselves in the mid-range or flagship tiers should also compete with these three brands, since they are the market leaders.
+
+*2. grafiğin fotosu ve/ya rq*
+Graph 2 indicates the correlation between storage capacity and price class. According to graph 2, there are positive relationship between price clas and storage capacity. Increases in storage capacity should be considered by new entrants that want to launch high-priced phone models on the market. Similarly, as prices decrease, brands can lower the storage capacity of their phones since models in the lower price ranges typically have less storage capacity.
+
+*3. grafiğin fotosu ve/ya rq*
+Graph 3 shows the evolution of average camera resolution over time for top three brands. According to graph, the camera resolution increases over time for each brand. Although Samsung, which was the leader in 2015, could not strictly maintain its position, it remained the leader in 2024 as well. The other two brands are in the same position too. New entrants wanting to place themselves at market with these three market leaders should use similar, high-quality camareas with these three brands and evolve over time as well to not avoid falling behind and to meet consumer expectations.
+
+*4. grafiğin fotosu ve/ya rq*
+Graph 5 shows the distribution of brands with 5G technology by price segment. Although Samsung, Apple, Google and Xiaomi typically lead in overall volume, the leading brands in 5G technology are Vivo, Motorola and Sony. There are positive relationsihp between price class and the usage og 5G technology. Thus, 5G techology mostly seen on first, second and third price class while Nokia and Google has zero class 5G phone models even thoug they don't have much phone models has 5G technology .New entrants that want to compete with market leaders such as Samsung, Apple, Xiaomi and Google can use 5G technology in different price segments, since these brands do not have this technology compared to others. Brands that want to stand out in the lower price segments can also use 5G technology, since there are few models with 5G technology in these segments.
+
+*5. grafiğin fotosu ve/ya rq*
+Graph 5 shows the correlation between model tiers and CPU performance. There are positive relationship between model tiers and CPU. The budget tier is concentrated at 2.0 GPU, while the midrange is concentrated at 2.5 and the flagship at 3.0. To ensure market competitiveness, the new brand should target CPU speeds of approximately 2.0 GHz for budget, 2.4 GHz for midrange, and a minimum of 2.8 GHz for flagship models to align with current industry performance standards.
 
 
-	Conclusion
-This study presented a systematic data tidying and cleaning process applied to a dataset of mobile phone models, followed by a comparative analysis of model tiers and brands. The findings indicate that model tiers differ significantly in terms of their features, and that higher tiered models generally offer improved specifications. However, the analysis also shows that certain low tiered models may provide competitive features, emphasizing the importance of feature based comparison rather than price alone.
+	Conclusion 
+This study presented a systematic data tidying and cleaning process applied to a dataset of mobile phone models, followed by a comparative analysis of model tiers and brands. The findings indicate that model tiers differ significantly in terms of their features, and that higher tiered models generally offer improved specifications. However, the analysis also shows that certain low tiered models may provide competitive features, emphasizing the importance of feature based comparison rather than price alone. New market entrants would benefit from analysing the features of phone models according to where they wish to position themselves, and incorprating these features into their own technology.
