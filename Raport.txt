@@ -1,0 +1,22 @@
+    Cover page
+     
+    Abstract
+This study prevents a data cleaning and exploratory analysis process applied to a dataset containing mobile phone models from various brands. The dataset required extensive cleaning and tidying steps due to missing values, duplicate records, inconsistent categorical labels. After applying standard data cleaning techniques(removing duplicates, standardizing inputs, removing missing values), the refined dataset enabled meaningful analysis. The result indicate that some models despite their price class and model tier has high specifications.
+
+Keywords— data cleaning, exploratory data analysis, mobile phones
+
+    Introduction
+Rapid development of mobile phones has led to release of numerous mobile phones models with varying specifications and price ranges. As a result, understanding components and features of models can help costumers to save,and brands to deal with rival brands.
+The dataset related to mobile phone specification had missing values, duplicate records, inconsistent categorical labels. Such issues might negatively affect the reliability of data analysis and lead to misleading coclusions if not properly addressed.
+In this study, dataset that contains information on mobile phone models from different brands and varied features.
+The primary objective of this study is to conduct a comparative analysis of model tiers and determine the differences in their features.
+
+    Data Tidying and Cleaning Steps
+Prior to analysis, dataset had some comprehensive data tidying and cleaning process to enhance its quality and reliability. Initial inspection revealed the presence of missing values, duplicate entries, inconsistent categorical labels.
+Missing values were handled by either removing incomplete records or applying appropriate corrections based on their meadian, mean, or with information from different features. Duplicate observations were identified and removed. Inconsistent categorical variables, such as variations in brand names and model tiers, were standardized to ensure uniform representation across the dataset.
+
+    Exploratory Data Analysis
+
+
+	Conclusion
+This study presented a systematic data tidying and cleaning process applied to a dataset of mobile phone models, followed by a comparative analysis of model tiers and brands. The findings indicate that model tiers differ significantly in terms of their features, and that higher tiered models generally offer improved specifications. However, the analysis also shows that certain low tiered models may provide competitive features, emphasizing the importance of feature based comparison rather than price alone.
